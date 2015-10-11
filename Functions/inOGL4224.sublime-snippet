@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+initializeOverlayGL($1);
+]]></content>
+	<tabTrigger>initializeOverlayGL</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

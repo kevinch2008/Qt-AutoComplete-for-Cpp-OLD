@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QQuickFramebufferObject
+]]></content>
+	<tabTrigger>QQuickFramebufferObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

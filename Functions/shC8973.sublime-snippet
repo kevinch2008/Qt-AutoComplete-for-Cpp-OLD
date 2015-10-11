@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+shareableChanged($1);
+]]></content>
+	<tabTrigger>shareableChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

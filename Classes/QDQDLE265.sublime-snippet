@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDragLeaveEvent
+]]></content>
+	<tabTrigger>QDragLeaveEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

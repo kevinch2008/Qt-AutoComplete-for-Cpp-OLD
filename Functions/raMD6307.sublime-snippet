@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rawMetaData($1);
+]]></content>
+	<tabTrigger>rawMetaData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

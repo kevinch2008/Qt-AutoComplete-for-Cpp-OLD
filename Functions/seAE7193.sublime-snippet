@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoExclusive($1);
+]]></content>
+	<tabTrigger>setAutoExclusive</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestedOpticalZoomChanged($1);
+]]></content>
+	<tabTrigger>requestedOpticalZoomChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

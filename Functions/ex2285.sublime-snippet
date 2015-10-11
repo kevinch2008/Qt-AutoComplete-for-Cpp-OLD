@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+exponential($1);
+]]></content>
+	<tabTrigger>exponential</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

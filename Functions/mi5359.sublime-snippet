@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mirrored($1);
+]]></content>
+	<tabTrigger>mirrored</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

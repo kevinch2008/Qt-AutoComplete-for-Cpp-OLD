@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSwizzleMask($1);
+]]></content>
+	<tabTrigger>setSwizzleMask</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

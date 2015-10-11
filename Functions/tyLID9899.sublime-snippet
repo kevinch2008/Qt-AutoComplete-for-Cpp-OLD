@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+typeLibID($1);
+]]></content>
+	<tabTrigger>typeLibID</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globPatterns($1);
+]]></content>
+	<tabTrigger>globPatterns</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

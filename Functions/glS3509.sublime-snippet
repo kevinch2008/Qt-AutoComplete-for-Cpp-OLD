@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glScaled($1);
+]]></content>
+	<tabTrigger>glScaled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

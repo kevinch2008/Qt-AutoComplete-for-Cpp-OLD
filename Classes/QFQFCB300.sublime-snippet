@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QFontComboBox
+]]></content>
+	<tabTrigger>QFontComboBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

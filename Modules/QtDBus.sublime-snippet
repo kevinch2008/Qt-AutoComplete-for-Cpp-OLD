@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtDBus>
+]]></content>
+	<tabTrigger>QtDBus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+zoomFactor($1);
+]]></content>
+	<tabTrigger>zoomFactor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

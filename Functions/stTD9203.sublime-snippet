@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startTargetDetection($1);
+]]></content>
+	<tabTrigger>startTargetDetection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

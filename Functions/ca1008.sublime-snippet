@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+caching($1);
+]]></content>
+	<tabTrigger>caching</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

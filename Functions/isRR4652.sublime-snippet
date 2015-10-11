@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isReplyRequired($1);
+]]></content>
+	<tabTrigger>isReplyRequired</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

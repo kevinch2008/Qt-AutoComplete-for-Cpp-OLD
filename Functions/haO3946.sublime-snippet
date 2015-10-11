@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasOverlay($1);
+]]></content>
+	<tabTrigger>hasOverlay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

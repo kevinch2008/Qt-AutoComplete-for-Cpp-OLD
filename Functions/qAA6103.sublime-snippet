@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qAsin($1);
+]]></content>
+	<tabTrigger>qAsin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

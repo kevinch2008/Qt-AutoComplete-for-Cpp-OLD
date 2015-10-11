@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+speed($1);
+]]></content>
+	<tabTrigger>speed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

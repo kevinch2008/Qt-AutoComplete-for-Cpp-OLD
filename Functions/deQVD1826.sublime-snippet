@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultQueryValueDelimiter($1);
+]]></content>
+	<tabTrigger>defaultQueryValueDelimiter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

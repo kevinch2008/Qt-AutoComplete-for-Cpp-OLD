@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setColumnWidthConstraints($1);
+]]></content>
+	<tabTrigger>setColumnWidthConstraints</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

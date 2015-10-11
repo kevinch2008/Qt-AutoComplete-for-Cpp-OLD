@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+inWhatsThisMode($1);
+]]></content>
+	<tabTrigger>inWhatsThisMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

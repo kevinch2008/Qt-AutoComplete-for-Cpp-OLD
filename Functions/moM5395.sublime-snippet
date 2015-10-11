@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mouseMove($1);
+]]></content>
+	<tabTrigger>mouseMove</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

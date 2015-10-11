@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearBackendNode($1);
+]]></content>
+	<tabTrigger>clearBackendNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

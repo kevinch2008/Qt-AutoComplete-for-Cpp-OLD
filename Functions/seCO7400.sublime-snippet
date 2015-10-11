@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setConfirmOverwrite($1);
+]]></content>
+	<tabTrigger>setConfirmOverwrite</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

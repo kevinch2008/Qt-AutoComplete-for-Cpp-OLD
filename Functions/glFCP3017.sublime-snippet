@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glFogCoordPointer($1);
+]]></content>
+	<tabTrigger>glFogCoordPointer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

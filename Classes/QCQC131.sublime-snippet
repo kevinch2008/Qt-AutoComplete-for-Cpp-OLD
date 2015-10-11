@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCache
+]]></content>
+	<tabTrigger>QCache</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

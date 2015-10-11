@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+appendContactDetail($1);
+]]></content>
+	<tabTrigger>appendContactDetail</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

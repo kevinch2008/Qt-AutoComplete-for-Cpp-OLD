@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createRedoAction($1);
+]]></content>
+	<tabTrigger>createRedoAction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

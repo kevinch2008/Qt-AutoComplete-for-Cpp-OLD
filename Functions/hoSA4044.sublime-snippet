@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+horizontalScaleAt($1);
+]]></content>
+	<tabTrigger>horizontalScaleAt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

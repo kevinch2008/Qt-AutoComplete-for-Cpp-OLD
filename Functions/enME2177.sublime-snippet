@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endMapEntry($1);
+]]></content>
+	<tabTrigger>endMapEntry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

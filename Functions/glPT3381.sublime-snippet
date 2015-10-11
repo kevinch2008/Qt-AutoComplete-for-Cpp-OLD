@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPixelTransferi($1);
+]]></content>
+	<tabTrigger>glPixelTransferi</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

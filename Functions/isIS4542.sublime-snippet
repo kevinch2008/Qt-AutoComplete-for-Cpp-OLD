@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isInSubnet($1);
+]]></content>
+	<tabTrigger>isInSubnet</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

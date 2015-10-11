@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QListIterator
+]]></content>
+	<tabTrigger>QListIterator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

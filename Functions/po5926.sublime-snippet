@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pop_front($1);
+]]></content>
+	<tabTrigger>pop_front</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtPositioning>
+]]></content>
+	<tabTrigger>QtPositioning</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

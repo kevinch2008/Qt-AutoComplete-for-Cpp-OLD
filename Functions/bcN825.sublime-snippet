@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bcp47Name($1);
+]]></content>
+	<tabTrigger>bcp47Name</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

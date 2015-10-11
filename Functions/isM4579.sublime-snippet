@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isMaximized($1);
+]]></content>
+	<tabTrigger>isMaximized</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

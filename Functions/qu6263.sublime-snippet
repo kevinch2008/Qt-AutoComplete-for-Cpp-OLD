@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+quality($1);
+]]></content>
+	<tabTrigger>quality</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

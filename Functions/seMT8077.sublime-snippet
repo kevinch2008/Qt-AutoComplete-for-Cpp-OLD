@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMimeType($1);
+]]></content>
+	<tabTrigger>setMimeType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

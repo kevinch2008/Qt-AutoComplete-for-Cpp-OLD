@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeFormWindow($1);
+]]></content>
+	<tabTrigger>removeFormWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

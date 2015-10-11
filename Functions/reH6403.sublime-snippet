@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+registerHandler($1);
+]]></content>
+	<tabTrigger>registerHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

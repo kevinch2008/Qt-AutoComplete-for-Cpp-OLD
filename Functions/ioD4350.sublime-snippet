@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ioDevice($1);
+]]></content>
+	<tabTrigger>ioDevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

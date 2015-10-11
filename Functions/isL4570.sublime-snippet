@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isLoopback($1);
+]]></content>
+	<tabTrigger>isLoopback</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

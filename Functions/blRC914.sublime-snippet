@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blurRadiusChanged($1);
+]]></content>
+	<tabTrigger>blurRadiusChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

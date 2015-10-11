@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setClipRegion($1);
+]]></content>
+	<tabTrigger>setClipRegion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

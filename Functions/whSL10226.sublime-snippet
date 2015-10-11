@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+wheelScrollLines($1);
+]]></content>
+	<tabTrigger>wheelScrollLines</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+networkConfiguration($1);
+]]></content>
+	<tabTrigger>networkConfiguration</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

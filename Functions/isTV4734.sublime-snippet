@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTextureView($1);
+]]></content>
+	<tabTrigger>isTextureView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

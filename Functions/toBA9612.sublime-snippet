@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toBitArray($1);
+]]></content>
+	<tabTrigger>toBitArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

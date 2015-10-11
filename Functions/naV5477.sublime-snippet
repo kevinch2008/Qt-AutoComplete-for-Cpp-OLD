@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeView($1);
+]]></content>
+	<tabTrigger>nativeView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

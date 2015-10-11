@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+expire($1);
+]]></content>
+	<tabTrigger>expire</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

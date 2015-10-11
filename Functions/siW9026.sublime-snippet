@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sideWidget($1);
+]]></content>
+	<tabTrigger>sideWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

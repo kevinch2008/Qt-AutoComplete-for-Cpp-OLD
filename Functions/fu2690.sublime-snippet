@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+futures($1);
+]]></content>
+	<tabTrigger>futures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetVertexAttribiv($1);
+]]></content>
+	<tabTrigger>glGetVertexAttribiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

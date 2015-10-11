@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetnMinmax($1);
+]]></content>
+	<tabTrigger>glGetnMinmax</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

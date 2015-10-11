@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBenchmarkResult($1);
+]]></content>
+	<tabTrigger>setBenchmarkResult</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

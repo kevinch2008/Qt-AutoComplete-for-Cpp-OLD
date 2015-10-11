@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGraphicsAnchorLayout
+]]></content>
+	<tabTrigger>QGraphicsAnchorLayout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

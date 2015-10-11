@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFromBigEndian($1);
+]]></content>
+	<tabTrigger>qFromBigEndian</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

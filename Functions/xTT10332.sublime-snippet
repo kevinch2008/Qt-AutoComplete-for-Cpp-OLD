@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+xTilt($1);
+]]></content>
+	<tabTrigger>xTilt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

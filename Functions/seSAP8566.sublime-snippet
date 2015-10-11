@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSizeAdjustPolicy($1);
+]]></content>
+	<tabTrigger>setSizeAdjustPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

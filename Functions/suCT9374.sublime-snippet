@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsContentType($1);
+]]></content>
+	<tabTrigger>supportsContentType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

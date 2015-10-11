@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peerVerifyDepth($1);
+]]></content>
+	<tabTrigger>peerVerifyDepth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

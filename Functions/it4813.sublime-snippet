@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+items($1);
+]]></content>
+	<tabTrigger>items</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

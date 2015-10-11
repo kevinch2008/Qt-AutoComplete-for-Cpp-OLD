@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glCopyNamedBufferSubData($1);
+]]></content>
+	<tabTrigger>glCopyNamedBufferSubData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

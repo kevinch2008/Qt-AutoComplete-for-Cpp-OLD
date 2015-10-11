@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNotifyInterval($1);
+]]></content>
+	<tabTrigger>setNotifyInterval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

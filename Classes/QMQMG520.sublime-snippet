@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMaskGenerator
+]]></content>
+	<tabTrigger>QMaskGenerator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlaceMatchReply
+]]></content>
+	<tabTrigger>QPlaceMatchReply</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

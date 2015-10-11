@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glCompileShader($1);
+]]></content>
+	<tabTrigger>glCompileShader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

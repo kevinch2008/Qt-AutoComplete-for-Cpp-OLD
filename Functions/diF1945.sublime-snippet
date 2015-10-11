@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+disconnectFrom($1);
+]]></content>
+	<tabTrigger>disconnectFrom</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

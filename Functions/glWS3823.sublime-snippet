@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glWaitSync($1);
+]]></content>
+	<tabTrigger>glWaitSync</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

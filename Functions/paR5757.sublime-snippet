@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+paintRect($1);
+]]></content>
+	<tabTrigger>paintRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

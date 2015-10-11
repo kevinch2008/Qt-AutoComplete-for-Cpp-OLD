@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isEntityReference($1);
+]]></content>
+	<tabTrigger>isEntityReference</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

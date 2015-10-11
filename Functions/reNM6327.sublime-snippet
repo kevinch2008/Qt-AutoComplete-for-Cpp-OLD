@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readNdefMessages($1);
+]]></content>
+	<tabTrigger>readNdefMessages</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

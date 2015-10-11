@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writingSystemName($1);
+]]></content>
+	<tabTrigger>writingSystemName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

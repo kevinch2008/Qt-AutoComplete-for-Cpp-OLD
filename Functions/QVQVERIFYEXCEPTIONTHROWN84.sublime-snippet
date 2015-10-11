@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QVERIFY_EXCEPTION_THROWN($1);
+]]></content>
+	<tabTrigger>QVERIFY_EXCEPTION_THROWN</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

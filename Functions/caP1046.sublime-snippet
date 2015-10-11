@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canPaste($1);
+]]></content>
+	<tabTrigger>canPaste</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

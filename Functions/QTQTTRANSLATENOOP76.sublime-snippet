@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QT_TRANSLATE_NOOP3($1);
+]]></content>
+	<tabTrigger>QT_TRANSLATE_NOOP3</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

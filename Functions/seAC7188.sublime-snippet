@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoClose($1);
+]]></content>
+	<tabTrigger>setAutoClose</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

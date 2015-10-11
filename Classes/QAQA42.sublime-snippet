@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAccessible
+]]></content>
+	<tabTrigger>QAccessible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

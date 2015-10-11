@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+columnViewportPosition($1);
+]]></content>
+	<tabTrigger>columnViewportPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

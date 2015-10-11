@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWatchedServices($1);
+]]></content>
+	<tabTrigger>setWatchedServices</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

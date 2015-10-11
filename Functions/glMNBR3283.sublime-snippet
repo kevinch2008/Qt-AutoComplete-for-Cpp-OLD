@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMapNamedBufferRange($1);
+]]></content>
+	<tabTrigger>glMapNamedBufferRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

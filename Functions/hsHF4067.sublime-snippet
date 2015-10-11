@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hslHueF($1);
+]]></content>
+	<tabTrigger>hslHueF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

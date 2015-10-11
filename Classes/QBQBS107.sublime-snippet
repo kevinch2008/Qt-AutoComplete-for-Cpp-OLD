@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QBackingStore
+]]></content>
+	<tabTrigger>QBackingStore</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

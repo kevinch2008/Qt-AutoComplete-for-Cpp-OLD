@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+audioBufferProbed($1);
+]]></content>
+	<tabTrigger>audioBufferProbed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

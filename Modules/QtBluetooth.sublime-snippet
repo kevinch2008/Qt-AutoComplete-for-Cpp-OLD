@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtBluetooth>
+]]></content>
+	<tabTrigger>QtBluetooth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

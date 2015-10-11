@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+yExtent($1);
+]]></content>
+	<tabTrigger>yExtent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

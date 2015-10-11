@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+transformBy($1);
+]]></content>
+	<tabTrigger>transformBy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

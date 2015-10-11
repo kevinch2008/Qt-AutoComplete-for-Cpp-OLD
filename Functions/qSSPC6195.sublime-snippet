@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qSetPadChar($1);
+]]></content>
+	<tabTrigger>qSetPadChar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

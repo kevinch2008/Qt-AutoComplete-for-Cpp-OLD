@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bindingSyntax($1);
+]]></content>
+	<tabTrigger>bindingSyntax</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

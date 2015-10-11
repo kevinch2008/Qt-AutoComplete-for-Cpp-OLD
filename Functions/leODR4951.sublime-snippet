@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+levelOfDetailRange($1);
+]]></content>
+	<tabTrigger>levelOfDetailRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

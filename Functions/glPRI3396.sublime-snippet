@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPrimitiveRestartIndex($1);
+]]></content>
+	<tabTrigger>glPrimitiveRestartIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

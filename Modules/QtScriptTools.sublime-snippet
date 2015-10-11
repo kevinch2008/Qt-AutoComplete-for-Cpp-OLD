@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtScriptTools>
+]]></content>
+	<tabTrigger>QtScriptTools</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

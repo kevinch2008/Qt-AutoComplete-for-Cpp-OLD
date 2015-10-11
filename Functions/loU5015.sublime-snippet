@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+loadUrl($1);
+]]></content>
+	<tabTrigger>loadUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

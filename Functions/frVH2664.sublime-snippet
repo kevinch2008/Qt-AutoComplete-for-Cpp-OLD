@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromVariantHash($1);
+]]></content>
+	<tabTrigger>fromVariantHash</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

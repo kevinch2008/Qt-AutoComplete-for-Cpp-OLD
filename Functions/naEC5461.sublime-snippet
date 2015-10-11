@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeErrorCode($1);
+]]></content>
+	<tabTrigger>nativeErrorCode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

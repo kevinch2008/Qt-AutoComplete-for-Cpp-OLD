@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isDir($1);
+]]></content>
+	<tabTrigger>isDir</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

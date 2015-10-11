@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+testAndSetAcquire($1);
+]]></content>
+	<tabTrigger>testAndSetAcquire</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+horizontalAdvance($1);
+]]></content>
+	<tabTrigger>horizontalAdvance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

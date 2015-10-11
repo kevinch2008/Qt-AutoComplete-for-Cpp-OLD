@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+queryPairDelimiter($1);
+]]></content>
+	<tabTrigger>queryPairDelimiter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

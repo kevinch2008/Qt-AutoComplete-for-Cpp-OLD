@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUserId($1);
+]]></content>
+	<tabTrigger>setUserId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

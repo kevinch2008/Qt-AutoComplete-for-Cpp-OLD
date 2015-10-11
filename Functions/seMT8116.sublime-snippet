@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMouseTracking($1);
+]]></content>
+	<tabTrigger>setMouseTracking</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

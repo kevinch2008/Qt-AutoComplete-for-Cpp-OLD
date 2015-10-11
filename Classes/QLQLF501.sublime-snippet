@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QLockFile
+]]></content>
+	<tabTrigger>QLockFile</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

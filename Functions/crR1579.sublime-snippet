@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createReply($1);
+]]></content>
+	<tabTrigger>createReply</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

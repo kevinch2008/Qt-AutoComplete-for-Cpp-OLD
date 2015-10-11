@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minimumPhysicalPageSize($1);
+]]></content>
+	<tabTrigger>minimumPhysicalPageSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

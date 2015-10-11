@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isValidColor($1);
+]]></content>
+	<tabTrigger>isValidColor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

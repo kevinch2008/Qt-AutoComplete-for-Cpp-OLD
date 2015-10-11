@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unmap($1);
+]]></content>
+	<tabTrigger>unmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

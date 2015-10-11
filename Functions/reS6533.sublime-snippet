@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeStack($1);
+]]></content>
+	<tabTrigger>removeStack</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

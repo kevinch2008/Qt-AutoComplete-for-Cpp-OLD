@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+return ${1:app}.exec();
+]]></content>
+	<tabTrigger>return </tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt* return</description>
+</snippet>

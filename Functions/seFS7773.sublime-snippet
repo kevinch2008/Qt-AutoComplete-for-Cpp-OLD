@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFullScreen($1);
+]]></content>
+	<tabTrigger>setFullScreen</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+performanceHint($1);
+]]></content>
+	<tabTrigger>performanceHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

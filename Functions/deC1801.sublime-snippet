@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultConfiguration($1);
+]]></content>
+	<tabTrigger>defaultConfiguration</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectedWidgetCount($1);
+]]></content>
+	<tabTrigger>selectedWidgetCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

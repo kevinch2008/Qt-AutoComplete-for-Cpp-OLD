@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glCompressedTexImage1D($1);
+]]></content>
+	<tabTrigger>glCompressedTexImage1D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

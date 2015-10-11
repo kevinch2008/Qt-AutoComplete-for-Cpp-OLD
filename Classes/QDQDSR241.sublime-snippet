@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDnsServiceRecord
+]]></content>
+	<tabTrigger>QDnsServiceRecord</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

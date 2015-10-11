@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QVideoWindowControl_iid($1);
+]]></content>
+	<tabTrigger>QVideoWindowControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

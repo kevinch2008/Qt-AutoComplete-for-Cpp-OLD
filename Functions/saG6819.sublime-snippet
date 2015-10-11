@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+saveGeometry($1);
+]]></content>
+	<tabTrigger>saveGeometry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

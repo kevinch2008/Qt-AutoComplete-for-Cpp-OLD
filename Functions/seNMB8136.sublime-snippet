@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNativeMenuBar($1);
+]]></content>
+	<tabTrigger>setNativeMenuBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

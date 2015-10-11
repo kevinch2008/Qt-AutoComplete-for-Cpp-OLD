@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+calendarPopup($1);
+]]></content>
+	<tabTrigger>calendarPopup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

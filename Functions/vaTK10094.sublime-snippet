@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+valueToKey($1);
+]]></content>
+	<tabTrigger>valueToKey</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

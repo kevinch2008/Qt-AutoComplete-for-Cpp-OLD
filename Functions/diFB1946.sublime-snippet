@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+disconnectFromBus($1);
+]]></content>
+	<tabTrigger>disconnectFromBus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

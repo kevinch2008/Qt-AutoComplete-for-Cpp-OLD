@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSceneGraphInitialized($1);
+]]></content>
+	<tabTrigger>isSceneGraphInitialized</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

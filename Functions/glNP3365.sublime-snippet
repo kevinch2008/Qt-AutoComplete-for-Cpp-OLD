@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glNormalP3ui($1);
+]]></content>
+	<tabTrigger>glNormalP3ui</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

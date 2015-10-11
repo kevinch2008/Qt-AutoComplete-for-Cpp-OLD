@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+metaObjectForType($1);
+]]></content>
+	<tabTrigger>metaObjectForType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetInteger64v($1);
+]]></content>
+	<tabTrigger>glGetInteger64v</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

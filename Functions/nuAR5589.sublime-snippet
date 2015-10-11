@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+numberAlternativeRoutes($1);
+]]></content>
+	<tabTrigger>numberAlternativeRoutes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

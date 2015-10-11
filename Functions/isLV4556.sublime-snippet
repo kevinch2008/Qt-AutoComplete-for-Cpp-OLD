@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isLegacyVersion($1);
+]]></content>
+	<tabTrigger>isLegacyVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

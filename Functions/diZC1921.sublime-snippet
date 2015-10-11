@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+digitalZoomChanged($1);
+]]></content>
+	<tabTrigger>digitalZoomChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

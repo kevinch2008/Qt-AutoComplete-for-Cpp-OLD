@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pairingDisplayPinCode($1);
+]]></content>
+	<tabTrigger>pairingDisplayPinCode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

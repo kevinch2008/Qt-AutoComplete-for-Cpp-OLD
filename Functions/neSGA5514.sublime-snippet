@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+newSensorGestureAvailable($1);
+]]></content>
+	<tabTrigger>newSensorGestureAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

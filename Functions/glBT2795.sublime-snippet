@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBindTextures($1);
+]]></content>
+	<tabTrigger>glBindTextures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

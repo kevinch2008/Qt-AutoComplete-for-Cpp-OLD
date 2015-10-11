@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusNextPrevChild($1);
+]]></content>
+	<tabTrigger>focusNextPrevChild</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

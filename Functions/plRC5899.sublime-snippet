@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+playbackRateChanged($1);
+]]></content>
+	<tabTrigger>playbackRateChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

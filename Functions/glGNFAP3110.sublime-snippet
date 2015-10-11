@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetNamedFramebufferAttachmentParameteriv($1);
+]]></content>
+	<tabTrigger>glGetNamedFramebufferAttachmentParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

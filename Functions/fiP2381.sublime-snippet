@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fillPath($1);
+]]></content>
+	<tabTrigger>fillPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

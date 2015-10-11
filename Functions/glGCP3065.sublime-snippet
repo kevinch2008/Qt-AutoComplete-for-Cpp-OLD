@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetClipPlane($1);
+]]></content>
+	<tabTrigger>glGetClipPlane</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

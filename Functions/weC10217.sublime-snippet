@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+webChannel($1);
+]]></content>
+	<tabTrigger>webChannel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

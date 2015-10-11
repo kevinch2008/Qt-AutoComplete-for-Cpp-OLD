@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+driver($1);
+]]></content>
+	<tabTrigger>driver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

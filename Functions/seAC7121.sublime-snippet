@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAllCookies($1);
+]]></content>
+	<tabTrigger>setAllCookies</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

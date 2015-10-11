@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFinalPage($1);
+]]></content>
+	<tabTrigger>setFinalPage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

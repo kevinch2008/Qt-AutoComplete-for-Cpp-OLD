@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSponsored($1);
+]]></content>
+	<tabTrigger>setSponsored</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bytesPerLine($1);
+]]></content>
+	<tabTrigger>bytesPerLine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

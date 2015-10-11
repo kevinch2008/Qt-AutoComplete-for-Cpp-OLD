@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+repaintRequested($1);
+]]></content>
+	<tabTrigger>repaintRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

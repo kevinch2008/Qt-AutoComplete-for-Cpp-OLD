@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setHorizontalHeaderLabels($1);
+]]></content>
+	<tabTrigger>setHorizontalHeaderLabels</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

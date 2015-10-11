@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGraphicsSceneWheelEvent
+]]></content>
+	<tabTrigger>QGraphicsSceneWheelEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

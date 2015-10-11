@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAccessibleTextRemoveEvent
+]]></content>
+	<tabTrigger>QAccessibleTextRemoveEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

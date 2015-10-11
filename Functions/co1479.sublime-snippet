@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+contrast($1);
+]]></content>
+	<tabTrigger>contrast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

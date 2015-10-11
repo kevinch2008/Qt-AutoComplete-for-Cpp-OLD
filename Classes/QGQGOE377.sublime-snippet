@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGraphicsOpacityEffect
+]]></content>
+	<tabTrigger>QGraphicsOpacityEffect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

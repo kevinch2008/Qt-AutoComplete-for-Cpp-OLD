@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setClip($1);
+]]></content>
+	<tabTrigger>setClip</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

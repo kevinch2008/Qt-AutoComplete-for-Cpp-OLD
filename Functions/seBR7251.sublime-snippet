@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBlurRadius($1);
+]]></content>
+	<tabTrigger>setBlurRadius</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

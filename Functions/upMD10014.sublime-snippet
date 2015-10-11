@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateMetaData($1);
+]]></content>
+	<tabTrigger>updateMetaData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

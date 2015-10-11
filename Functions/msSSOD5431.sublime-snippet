@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+msecsSinceStartOfDay($1);
+]]></content>
+	<tabTrigger>msecsSinceStartOfDay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

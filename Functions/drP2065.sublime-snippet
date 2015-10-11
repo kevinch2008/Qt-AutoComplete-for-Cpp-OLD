@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+drawPrimitive($1);
+]]></content>
+	<tabTrigger>drawPrimitive</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

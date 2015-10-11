@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStyleStrategy($1);
+]]></content>
+	<tabTrigger>setStyleStrategy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

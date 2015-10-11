@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSound
+]]></content>
+	<tabTrigger>QSound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

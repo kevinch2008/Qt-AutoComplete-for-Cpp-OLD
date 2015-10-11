@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+drawPie($1);
+]]></content>
+	<tabTrigger>drawPie</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

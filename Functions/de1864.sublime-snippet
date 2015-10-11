@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+depth($1);
+]]></content>
+	<tabTrigger>depth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

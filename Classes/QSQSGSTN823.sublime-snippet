@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSGSimpleTextureNode
+]]></content>
+	<tabTrigger>QSGSimpleTextureNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

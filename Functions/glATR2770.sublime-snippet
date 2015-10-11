@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glAreTexturesResident($1);
+]]></content>
+	<tabTrigger>glAreTexturesResident</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

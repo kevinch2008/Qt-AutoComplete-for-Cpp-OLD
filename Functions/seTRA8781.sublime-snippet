@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTotalRotationAngle($1);
+]]></content>
+	<tabTrigger>setTotalRotationAngle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

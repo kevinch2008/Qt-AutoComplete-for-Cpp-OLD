@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isWindowExcludedFromPeek($1);
+]]></content>
+	<tabTrigger>isWindowExcludedFromPeek</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

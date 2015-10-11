@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaximumLevelOfDetail($1);
+]]></content>
+	<tabTrigger>setMaximumLevelOfDetail</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

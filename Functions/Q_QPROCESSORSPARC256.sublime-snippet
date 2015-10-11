@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_PROCESSOR_SPARC($1);
+]]></content>
+	<tabTrigger>Q_PROCESSOR_SPARC</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toStdU32String($1);
+]]></content>
+	<tabTrigger>toStdU32String</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

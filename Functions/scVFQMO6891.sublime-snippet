@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scriptValueFromQMetaObject($1);
+]]></content>
+	<tabTrigger>scriptValueFromQMetaObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

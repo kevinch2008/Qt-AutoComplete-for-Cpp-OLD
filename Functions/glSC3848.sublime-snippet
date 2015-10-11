@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globalShareContext($1);
+]]></content>
+	<tabTrigger>globalShareContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

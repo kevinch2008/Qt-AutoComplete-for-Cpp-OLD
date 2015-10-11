@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromStdWString($1);
+]]></content>
+	<tabTrigger>fromStdWString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

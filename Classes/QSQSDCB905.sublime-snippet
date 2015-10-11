@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSqlDriverCreatorBase
+]]></content>
+	<tabTrigger>QSqlDriverCreatorBase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

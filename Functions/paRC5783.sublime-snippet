@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parameterRangeChanged($1);
+]]></content>
+	<tabTrigger>parameterRangeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

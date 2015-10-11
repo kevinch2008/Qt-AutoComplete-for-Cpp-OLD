@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+palette($1);
+]]></content>
+	<tabTrigger>palette</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

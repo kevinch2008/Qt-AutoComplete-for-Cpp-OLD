@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readWriteLock($1);
+]]></content>
+	<tabTrigger>readWriteLock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

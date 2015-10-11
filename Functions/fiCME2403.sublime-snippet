@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+filtersChildMouseEvents($1);
+]]></content>
+	<tabTrigger>filtersChildMouseEvents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

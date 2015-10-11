@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAXFACTORY_EXPORT($1);
+]]></content>
+	<tabTrigger>QAXFACTORY_EXPORT</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

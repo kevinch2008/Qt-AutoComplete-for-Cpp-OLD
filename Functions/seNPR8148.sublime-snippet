@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNextPageRequest($1);
+]]></content>
+	<tabTrigger>setNextPageRequest</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

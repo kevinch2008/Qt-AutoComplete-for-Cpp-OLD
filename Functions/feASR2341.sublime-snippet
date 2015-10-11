@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fetchAndSubRelease($1);
+]]></content>
+	<tabTrigger>fetchAndSubRelease</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

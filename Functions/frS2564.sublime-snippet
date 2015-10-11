@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+frameSwapped($1);
+]]></content>
+	<tabTrigger>frameSwapped</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

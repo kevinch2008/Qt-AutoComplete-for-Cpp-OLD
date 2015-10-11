@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+uniformItemSizes($1);
+]]></content>
+	<tabTrigger>uniformItemSizes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontOverline($1);
+]]></content>
+	<tabTrigger>fontOverline</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

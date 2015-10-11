@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+crossfadeTime($1);
+]]></content>
+	<tabTrigger>crossfadeTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

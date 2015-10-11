@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+popupMode($1);
+]]></content>
+	<tabTrigger>popupMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setObjectType($1);
+]]></content>
+	<tabTrigger>setObjectType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

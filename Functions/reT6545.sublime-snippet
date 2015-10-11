@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeTranslator($1);
+]]></content>
+	<tabTrigger>removeTranslator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

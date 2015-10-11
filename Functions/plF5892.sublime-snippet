@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+platformFunction($1);
+]]></content>
+	<tabTrigger>platformFunction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

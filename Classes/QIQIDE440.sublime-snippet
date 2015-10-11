@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QIconDragEvent
+]]></content>
+	<tabTrigger>QIconDragEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

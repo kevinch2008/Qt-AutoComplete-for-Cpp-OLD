@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isBusy($1);
+]]></content>
+	<tabTrigger>isBusy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

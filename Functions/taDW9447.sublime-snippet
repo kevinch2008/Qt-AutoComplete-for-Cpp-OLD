@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tabifyDockWidget($1);
+]]></content>
+	<tabTrigger>tabifyDockWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

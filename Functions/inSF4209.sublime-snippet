@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+initialScaleFactor($1);
+]]></content>
+	<tabTrigger>initialScaleFactor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

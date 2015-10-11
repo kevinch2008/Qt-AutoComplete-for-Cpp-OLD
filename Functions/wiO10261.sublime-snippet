@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+windowOpacity($1);
+]]></content>
+	<tabTrigger>windowOpacity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

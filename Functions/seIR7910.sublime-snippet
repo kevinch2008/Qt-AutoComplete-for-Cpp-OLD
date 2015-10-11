@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIsRectangular($1);
+]]></content>
+	<tabTrigger>setIsRectangular</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

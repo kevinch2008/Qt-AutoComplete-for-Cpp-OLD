@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glRectd($1);
+]]></content>
+	<tabTrigger>glRectd</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blockingMappedReduced($1);
+]]></content>
+	<tabTrigger>blockingMappedReduced</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

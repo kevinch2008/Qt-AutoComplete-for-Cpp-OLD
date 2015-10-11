@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+abort($1);
+]]></content>
+	<tabTrigger>abort</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

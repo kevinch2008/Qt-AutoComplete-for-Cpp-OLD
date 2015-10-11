@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultButton($1);
+]]></content>
+	<tabTrigger>defaultButton</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

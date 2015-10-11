@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addLibraryPath($1);
+]]></content>
+	<tabTrigger>addLibraryPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

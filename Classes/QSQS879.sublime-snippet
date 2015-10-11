@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QShortcut
+]]></content>
+	<tabTrigger>QShortcut</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

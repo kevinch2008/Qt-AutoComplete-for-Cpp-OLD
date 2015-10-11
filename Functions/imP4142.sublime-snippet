@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+importPkcs12($1);
+]]></content>
+	<tabTrigger>importPkcs12</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetProgramBinary($1);
+]]></content>
+	<tabTrigger>glGetProgramBinary</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

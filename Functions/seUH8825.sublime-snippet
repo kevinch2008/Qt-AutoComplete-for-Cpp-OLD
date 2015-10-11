@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUrlHandler($1);
+]]></content>
+	<tabTrigger>setUrlHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

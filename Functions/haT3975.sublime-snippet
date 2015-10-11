@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasTransitions($1);
+]]></content>
+	<tabTrigger>hasTransitions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

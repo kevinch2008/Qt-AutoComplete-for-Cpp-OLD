@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+waitForReadyRead($1);
+]]></content>
+	<tabTrigger>waitForReadyRead</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

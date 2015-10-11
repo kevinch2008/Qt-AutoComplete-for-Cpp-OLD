@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectPressed($1);
+]]></content>
+	<tabTrigger>selectPressed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

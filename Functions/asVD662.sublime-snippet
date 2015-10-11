@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+asVector3D($1);
+]]></content>
+	<tabTrigger>asVector3D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

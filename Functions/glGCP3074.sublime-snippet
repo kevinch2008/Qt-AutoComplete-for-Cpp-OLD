@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetConvolutionParameteriv($1);
+]]></content>
+	<tabTrigger>glGetConvolutionParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

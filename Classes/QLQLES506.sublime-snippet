@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QLowEnergyService
+]]></content>
+	<tabTrigger>QLowEnergyService</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

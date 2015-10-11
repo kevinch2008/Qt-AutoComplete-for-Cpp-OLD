@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getTextMargins($1);
+]]></content>
+	<tabTrigger>getTextMargins</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+localPos($1);
+]]></content>
+	<tabTrigger>localPos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

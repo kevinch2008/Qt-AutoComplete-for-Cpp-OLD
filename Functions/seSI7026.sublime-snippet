@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+senderSignalIndex($1);
+]]></content>
+	<tabTrigger>senderSignalIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

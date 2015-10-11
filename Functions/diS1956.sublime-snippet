@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+discoverServices($1);
+]]></content>
+	<tabTrigger>discoverServices</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

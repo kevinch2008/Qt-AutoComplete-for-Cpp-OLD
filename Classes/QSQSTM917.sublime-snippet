@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSqlTableModel
+]]></content>
+	<tabTrigger>QSqlTableModel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

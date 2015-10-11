@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scheduleRenderJob($1);
+]]></content>
+	<tabTrigger>scheduleRenderJob</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

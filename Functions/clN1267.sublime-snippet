@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cloneNode($1);
+]]></content>
+	<tabTrigger>cloneNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

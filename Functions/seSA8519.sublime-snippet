@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSelectionArea($1);
+]]></content>
+	<tabTrigger>setSelectionArea</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

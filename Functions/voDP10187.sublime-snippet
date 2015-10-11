@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+volumeDownPressed($1);
+]]></content>
+	<tabTrigger>volumeDownPressed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

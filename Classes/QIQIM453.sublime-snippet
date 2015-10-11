@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QInputMethod
+]]></content>
+	<tabTrigger>QInputMethod</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

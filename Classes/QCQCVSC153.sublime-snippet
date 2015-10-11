@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCameraViewfinderSettingsControl
+]]></content>
+	<tabTrigger>QCameraViewfinderSettingsControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

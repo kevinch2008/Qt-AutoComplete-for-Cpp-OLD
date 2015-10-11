@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+saturationF($1);
+]]></content>
+	<tabTrigger>saturationF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

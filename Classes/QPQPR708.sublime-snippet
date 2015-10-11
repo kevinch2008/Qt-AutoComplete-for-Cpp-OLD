@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlaceReview
+]]></content>
+	<tabTrigger>QPlaceReview</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

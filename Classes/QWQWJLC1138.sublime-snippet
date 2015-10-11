@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWinJumpListCategory
+]]></content>
+	<tabTrigger>QWinJumpListCategory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

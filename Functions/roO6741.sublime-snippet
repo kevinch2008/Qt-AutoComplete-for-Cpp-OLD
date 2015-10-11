@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rootObjects($1);
+]]></content>
+	<tabTrigger>rootObjects</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

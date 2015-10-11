@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getDate($1);
+]]></content>
+	<tabTrigger>getDate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

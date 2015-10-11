@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+antialiasing($1);
+]]></content>
+	<tabTrigger>antialiasing</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

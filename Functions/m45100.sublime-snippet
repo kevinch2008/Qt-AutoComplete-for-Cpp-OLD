@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+m44($1);
+]]></content>
+	<tabTrigger>m44</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

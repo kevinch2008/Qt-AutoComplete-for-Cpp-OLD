@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QString
+]]></content>
+	<tabTrigger>QString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

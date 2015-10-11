@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pairingDisplayConfirmation($1);
+]]></content>
+	<tabTrigger>pairingDisplayConfirmation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

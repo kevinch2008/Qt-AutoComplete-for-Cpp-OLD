@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoRepeat($1);
+]]></content>
+	<tabTrigger>setAutoRepeat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

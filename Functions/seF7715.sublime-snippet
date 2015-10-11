@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFlow($1);
+]]></content>
+	<tabTrigger>setFlow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

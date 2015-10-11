@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QIconEngine
+]]></content>
+	<tabTrigger>QIconEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

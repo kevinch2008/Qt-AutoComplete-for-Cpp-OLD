@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusProxy($1);
+]]></content>
+	<tabTrigger>focusProxy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

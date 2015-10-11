@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsSsl($1);
+]]></content>
+	<tabTrigger>supportsSsl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

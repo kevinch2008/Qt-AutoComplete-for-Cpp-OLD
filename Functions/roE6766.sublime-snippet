@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rowExtent($1);
+]]></content>
+	<tabTrigger>rowExtent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

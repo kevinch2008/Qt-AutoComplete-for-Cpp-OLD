@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSliderDown($1);
+]]></content>
+	<tabTrigger>setSliderDown</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

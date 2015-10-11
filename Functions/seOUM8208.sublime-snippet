@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOrientationUpdateMask($1);
+]]></content>
+	<tabTrigger>setOrientationUpdateMask</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

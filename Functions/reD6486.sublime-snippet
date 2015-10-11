@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeDuplicates($1);
+]]></content>
+	<tabTrigger>removeDuplicates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

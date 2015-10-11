@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusPointModeChanged($1);
+]]></content>
+	<tabTrigger>focusPointModeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

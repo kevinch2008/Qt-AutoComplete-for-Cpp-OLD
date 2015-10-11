@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCopyOf($1);
+]]></content>
+	<tabTrigger>isCopyOf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeLocalScheme($1);
+]]></content>
+	<tabTrigger>removeLocalScheme</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

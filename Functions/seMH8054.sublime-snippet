@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaximumHeight($1);
+]]></content>
+	<tabTrigger>setMaximumHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

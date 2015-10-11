@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+beforeDelete($1);
+]]></content>
+	<tabTrigger>beforeDelete</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

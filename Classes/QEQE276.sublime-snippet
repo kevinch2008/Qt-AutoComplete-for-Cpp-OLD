@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QEvent
+]]></content>
+	<tabTrigger>QEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

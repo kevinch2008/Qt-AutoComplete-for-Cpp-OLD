@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeKeyboardInput($1);
+]]></content>
+	<tabTrigger>removeKeyboardInput</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

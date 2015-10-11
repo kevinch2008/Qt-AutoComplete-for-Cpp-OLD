@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontKerning($1);
+]]></content>
+	<tabTrigger>fontKerning</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

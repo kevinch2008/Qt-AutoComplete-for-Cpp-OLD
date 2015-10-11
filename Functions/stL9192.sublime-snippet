@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startLogging($1);
+]]></content>
+	<tabTrigger>startLogging</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

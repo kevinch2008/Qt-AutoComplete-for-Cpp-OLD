@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDragDropOverwriteMode($1);
+]]></content>
+	<tabTrigger>setDragDropOverwriteMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

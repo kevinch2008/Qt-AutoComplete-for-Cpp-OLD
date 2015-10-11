@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+modelAboutToBeReset($1);
+]]></content>
+	<tabTrigger>modelAboutToBeReset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

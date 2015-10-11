@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QErrorMessage
+]]></content>
+	<tabTrigger>QErrorMessage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

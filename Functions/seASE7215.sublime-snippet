@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoSipEnabled($1);
+]]></content>
+	<tabTrigger>setAutoSipEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

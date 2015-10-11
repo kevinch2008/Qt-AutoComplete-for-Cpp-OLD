@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glFramebufferRenderbuffer($1);
+]]></content>
+	<tabTrigger>glFramebufferRenderbuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sync($1);
+]]></content>
+	<tabTrigger>sync</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

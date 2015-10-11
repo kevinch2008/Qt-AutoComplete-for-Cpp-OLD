@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+eraseRect($1);
+]]></content>
+	<tabTrigger>eraseRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

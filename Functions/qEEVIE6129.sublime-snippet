@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qEnvironmentVariableIsEmpty($1);
+]]></content>
+	<tabTrigger>qEnvironmentVariableIsEmpty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glEnableVertexAttribArray($1);
+]]></content>
+	<tabTrigger>glEnableVertexAttribArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cursorFlashTime($1);
+]]></content>
+	<tabTrigger>cursorFlashTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

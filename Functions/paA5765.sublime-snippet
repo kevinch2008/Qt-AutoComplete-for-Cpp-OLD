@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+paintingActive($1);
+]]></content>
+	<tabTrigger>paintingActive</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

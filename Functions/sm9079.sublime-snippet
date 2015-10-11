@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+smooth($1);
+]]></content>
+	<tabTrigger>smooth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

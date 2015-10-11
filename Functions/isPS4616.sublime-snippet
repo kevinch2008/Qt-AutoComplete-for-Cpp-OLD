@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isParameterSupported($1);
+]]></content>
+	<tabTrigger>isParameterSupported</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

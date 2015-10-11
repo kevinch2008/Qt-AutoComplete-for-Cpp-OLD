@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMacNativeWidget
+]]></content>
+	<tabTrigger>QMacNativeWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

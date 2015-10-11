@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+trimComponentCache($1);
+]]></content>
+	<tabTrigger>trimComponentCache</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

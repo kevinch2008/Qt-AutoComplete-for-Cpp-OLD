@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+azimuth($1);
+]]></content>
+	<tabTrigger>azimuth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

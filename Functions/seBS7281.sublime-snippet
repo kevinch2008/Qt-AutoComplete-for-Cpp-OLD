@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setButtonSymbols($1);
+]]></content>
+	<tabTrigger>setButtonSymbols</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

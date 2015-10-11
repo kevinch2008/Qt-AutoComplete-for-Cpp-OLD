@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mapToScene($1);
+]]></content>
+	<tabTrigger>mapToScene</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

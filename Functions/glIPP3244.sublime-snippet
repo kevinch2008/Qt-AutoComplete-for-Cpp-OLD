@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glIsProgramPipeline($1);
+]]></content>
+	<tabTrigger>glIsProgramPipeline</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

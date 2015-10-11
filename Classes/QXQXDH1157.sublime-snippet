@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlDefaultHandler
+]]></content>
+	<tabTrigger>QXmlDefaultHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

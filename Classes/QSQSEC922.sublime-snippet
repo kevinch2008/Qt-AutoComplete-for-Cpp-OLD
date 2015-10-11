@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSslEllipticCurve
+]]></content>
+	<tabTrigger>QSslEllipticCurve</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

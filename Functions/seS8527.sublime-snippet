@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSeparator($1);
+]]></content>
+	<tabTrigger>setSeparator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

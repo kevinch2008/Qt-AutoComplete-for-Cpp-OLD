@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isBound($1);
+]]></content>
+	<tabTrigger>isBound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

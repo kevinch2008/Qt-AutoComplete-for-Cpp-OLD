@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updatePolish($1);
+]]></content>
+	<tabTrigger>updatePolish</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

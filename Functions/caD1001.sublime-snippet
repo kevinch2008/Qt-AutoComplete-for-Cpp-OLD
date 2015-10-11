@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cacheDirectory($1);
+]]></content>
+	<tabTrigger>cacheDirectory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

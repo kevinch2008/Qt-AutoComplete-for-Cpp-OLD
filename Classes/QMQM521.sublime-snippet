@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMatrix
+]]></content>
+	<tabTrigger>QMatrix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedBufferFormats($1);
+]]></content>
+	<tabTrigger>supportedBufferFormats</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

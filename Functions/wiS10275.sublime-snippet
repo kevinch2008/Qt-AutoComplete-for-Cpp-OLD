@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+wizardStyle($1);
+]]></content>
+	<tabTrigger>wizardStyle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

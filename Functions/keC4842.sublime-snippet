@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+keyCount($1);
+]]></content>
+	<tabTrigger>keyCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sessionTicketLifeTimeHint($1);
+]]></content>
+	<tabTrigger>sessionTicketLifeTimeHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

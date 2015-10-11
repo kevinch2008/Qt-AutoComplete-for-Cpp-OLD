@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+smoothSizes($1);
+]]></content>
+	<tabTrigger>smoothSizes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

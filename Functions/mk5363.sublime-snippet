@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mkpath($1);
+]]></content>
+	<tabTrigger>mkpath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

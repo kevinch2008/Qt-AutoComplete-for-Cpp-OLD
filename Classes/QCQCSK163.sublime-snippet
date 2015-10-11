@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCollatorSortKey
+]]></content>
+	<tabTrigger>QCollatorSortKey</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

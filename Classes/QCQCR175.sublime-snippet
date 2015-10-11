@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCompassReading
+]]></content>
+	<tabTrigger>QCompassReading</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

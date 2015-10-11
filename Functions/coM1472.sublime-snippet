@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+contextMenu($1);
+]]></content>
+	<tabTrigger>contextMenu</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

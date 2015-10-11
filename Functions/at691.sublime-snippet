@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+attachment($1);
+]]></content>
+	<tabTrigger>attachment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

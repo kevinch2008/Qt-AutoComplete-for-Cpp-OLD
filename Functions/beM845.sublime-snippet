@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+beginMacro($1);
+]]></content>
+	<tabTrigger>beginMacro</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

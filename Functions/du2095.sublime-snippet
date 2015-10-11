@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+duplex($1);
+]]></content>
+	<tabTrigger>duplex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

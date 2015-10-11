@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGenerateMipmap($1);
+]]></content>
+	<tabTrigger>glGenerateMipmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

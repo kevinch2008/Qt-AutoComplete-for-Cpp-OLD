@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isPhase2($1);
+]]></content>
+	<tabTrigger>isPhase2</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minimumLevelOfDetail($1);
+]]></content>
+	<tabTrigger>minimumLevelOfDetail</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

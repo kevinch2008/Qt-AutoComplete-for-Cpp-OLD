@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scrollBarMaximum($1);
+]]></content>
+	<tabTrigger>scrollBarMaximum</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

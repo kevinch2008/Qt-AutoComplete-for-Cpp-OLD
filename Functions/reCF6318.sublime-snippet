@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readChannelFinished($1);
+]]></content>
+	<tabTrigger>readChannelFinished</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

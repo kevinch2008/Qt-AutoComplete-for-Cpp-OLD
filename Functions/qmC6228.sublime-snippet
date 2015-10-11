@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlContext($1);
+]]></content>
+	<tabTrigger>qmlContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

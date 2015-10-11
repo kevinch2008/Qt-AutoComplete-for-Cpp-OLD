@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMeteringMode($1);
+]]></content>
+	<tabTrigger>setMeteringMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+videoFrameProbed($1);
+]]></content>
+	<tabTrigger>videoFrameProbed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

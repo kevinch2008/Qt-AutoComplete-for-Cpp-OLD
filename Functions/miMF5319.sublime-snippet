@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minMagFilters($1);
+]]></content>
+	<tabTrigger>minMagFilters</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

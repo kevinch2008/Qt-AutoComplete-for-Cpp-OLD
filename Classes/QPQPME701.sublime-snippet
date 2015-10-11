@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlaceManagerEngine
+]]></content>
+	<tabTrigger>QPlaceManagerEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

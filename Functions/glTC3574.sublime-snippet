@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTexCoord4f($1);
+]]></content>
+	<tabTrigger>glTexCoord4f</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+timeZoneAbbreviation($1);
+]]></content>
+	<tabTrigger>timeZoneAbbreviation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

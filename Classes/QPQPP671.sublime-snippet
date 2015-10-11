@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPainterPath
+]]></content>
+	<tabTrigger>QPainterPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

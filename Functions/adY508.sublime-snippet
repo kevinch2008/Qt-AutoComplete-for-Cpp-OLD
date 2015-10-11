@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addYears($1);
+]]></content>
+	<tabTrigger>addYears</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+elementsByTagNameNS($1);
+]]></content>
+	<tabTrigger>elementsByTagNameNS</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

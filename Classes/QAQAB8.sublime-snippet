@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractButton
+]]></content>
+	<tabTrigger>QAbstractButton</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

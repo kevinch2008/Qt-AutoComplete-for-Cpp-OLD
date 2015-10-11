@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractVideoFilter
+]]></content>
+	<tabTrigger>QAbstractVideoFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSensorChangesInterface
+]]></content>
+	<tabTrigger>QSensorChangesInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

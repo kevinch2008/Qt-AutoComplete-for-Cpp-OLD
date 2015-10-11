@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+takeHorizontalHeaderItem($1);
+]]></content>
+	<tabTrigger>takeHorizontalHeaderItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

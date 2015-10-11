@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fuzzyEquals($1);
+]]></content>
+	<tabTrigger>fuzzyEquals</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

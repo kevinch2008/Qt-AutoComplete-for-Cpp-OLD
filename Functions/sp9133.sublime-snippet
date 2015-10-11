@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+splitter($1);
+]]></content>
+	<tabTrigger>splitter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setupFinished($1);
+]]></content>
+	<tabTrigger>setupFinished</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

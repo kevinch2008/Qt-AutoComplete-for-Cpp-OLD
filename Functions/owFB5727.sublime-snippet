@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ownsFindBuffer($1);
+]]></content>
+	<tabTrigger>ownsFindBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

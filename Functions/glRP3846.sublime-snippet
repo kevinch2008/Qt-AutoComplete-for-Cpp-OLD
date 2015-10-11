@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globalRestorePolicy($1);
+]]></content>
+	<tabTrigger>globalRestorePolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

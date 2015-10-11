@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGraphicsObject
+]]></content>
+	<tabTrigger>QGraphicsObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTexStorage2D($1);
+]]></content>
+	<tabTrigger>glTexStorage2D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

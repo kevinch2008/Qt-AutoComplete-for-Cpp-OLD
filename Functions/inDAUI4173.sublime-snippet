@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+indexDataAsUInt($1);
+]]></content>
+	<tabTrigger>indexDataAsUInt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDefaultDropAction($1);
+]]></content>
+	<tabTrigger>setDefaultDropAction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

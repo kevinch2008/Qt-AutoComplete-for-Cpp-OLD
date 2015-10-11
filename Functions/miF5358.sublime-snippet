@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mipmapFiltering($1);
+]]></content>
+	<tabTrigger>mipmapFiltering</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

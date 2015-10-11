@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setKeyValueAt($1);
+]]></content>
+	<tabTrigger>setKeyValueAt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

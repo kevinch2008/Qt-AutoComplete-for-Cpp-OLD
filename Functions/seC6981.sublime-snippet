@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectedCells($1);
+]]></content>
+	<tabTrigger>selectedCells</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

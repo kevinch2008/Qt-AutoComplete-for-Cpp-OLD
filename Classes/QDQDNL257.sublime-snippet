@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDomNodeList
+]]></content>
+	<tabTrigger>QDomNodeList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

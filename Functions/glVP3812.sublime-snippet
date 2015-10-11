@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexP2ui($1);
+]]></content>
+	<tabTrigger>glVertexP2ui</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

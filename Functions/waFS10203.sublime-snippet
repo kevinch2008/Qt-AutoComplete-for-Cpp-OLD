@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+waitForSamples($1);
+]]></content>
+	<tabTrigger>waitForSamples</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

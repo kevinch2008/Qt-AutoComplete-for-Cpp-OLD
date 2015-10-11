@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNotchTarget($1);
+]]></content>
+	<tabTrigger>setNotchTarget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

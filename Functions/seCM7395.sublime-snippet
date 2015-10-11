@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCompositionMode($1);
+]]></content>
+	<tabTrigger>setCompositionMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

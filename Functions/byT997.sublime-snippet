@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bytesTotal($1);
+]]></content>
+	<tabTrigger>bytesTotal</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

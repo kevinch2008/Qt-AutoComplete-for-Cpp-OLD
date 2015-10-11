@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dynamicCall($1);
+]]></content>
+	<tabTrigger>dynamicCall</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCDATASection($1);
+]]></content>
+	<tabTrigger>isCDATASection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

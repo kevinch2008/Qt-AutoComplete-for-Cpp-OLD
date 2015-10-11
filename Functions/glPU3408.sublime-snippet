@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glProgramUniform2d($1);
+]]></content>
+	<tabTrigger>glProgramUniform2d</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

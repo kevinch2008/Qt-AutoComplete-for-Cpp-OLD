@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createProxyForChildWidget($1);
+]]></content>
+	<tabTrigger>createProxyForChildWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

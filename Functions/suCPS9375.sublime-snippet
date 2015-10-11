@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsCustomPageSizes($1);
+]]></content>
+	<tabTrigger>supportsCustomPageSizes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

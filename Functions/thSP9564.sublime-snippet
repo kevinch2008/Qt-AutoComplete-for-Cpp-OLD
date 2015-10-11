@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+themeSearchPaths($1);
+]]></content>
+	<tabTrigger>themeSearchPaths</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

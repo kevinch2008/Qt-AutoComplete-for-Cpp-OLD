@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glNamedBufferStorage($1);
+]]></content>
+	<tabTrigger>glNamedBufferStorage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

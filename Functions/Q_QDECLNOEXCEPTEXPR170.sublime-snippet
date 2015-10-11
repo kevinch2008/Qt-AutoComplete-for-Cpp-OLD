@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_DECL_NOEXCEPT_EXPR($1);
+]]></content>
+	<tabTrigger>Q_DECL_NOEXCEPT_EXPR</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

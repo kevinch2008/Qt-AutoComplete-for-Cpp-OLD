@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSectionsMovable($1);
+]]></content>
+	<tabTrigger>setSectionsMovable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

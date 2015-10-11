@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glInvalidateTexImage($1);
+]]></content>
+	<tabTrigger>glInvalidateTexImage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

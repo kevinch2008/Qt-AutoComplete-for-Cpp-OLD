@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minorDeviceClass($1);
+]]></content>
+	<tabTrigger>minorDeviceClass</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

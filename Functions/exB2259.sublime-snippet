@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+execBatch($1);
+]]></content>
+	<tabTrigger>execBatch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

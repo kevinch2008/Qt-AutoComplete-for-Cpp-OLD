@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStrength($1);
+]]></content>
+	<tabTrigger>setStrength</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

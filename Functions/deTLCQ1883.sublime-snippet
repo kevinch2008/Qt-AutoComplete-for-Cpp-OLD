@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+destroyThreadLocalChangeQueue($1);
+]]></content>
+	<tabTrigger>destroyThreadLocalChangeQueue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

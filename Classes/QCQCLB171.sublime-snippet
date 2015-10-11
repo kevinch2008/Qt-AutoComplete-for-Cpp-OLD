@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCommandLinkButton
+]]></content>
+	<tabTrigger>QCommandLinkButton</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

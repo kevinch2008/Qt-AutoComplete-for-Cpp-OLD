@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toEulerAngles($1);
+]]></content>
+	<tabTrigger>toEulerAngles</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maxResourcesEntries($1);
+]]></content>
+	<tabTrigger>maxResourcesEntries</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

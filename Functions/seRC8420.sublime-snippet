@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRestartCommand($1);
+]]></content>
+	<tabTrigger>setRestartCommand</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

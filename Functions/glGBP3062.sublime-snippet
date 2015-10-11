@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetBufferParameteriv($1);
+]]></content>
+	<tabTrigger>glGetBufferParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

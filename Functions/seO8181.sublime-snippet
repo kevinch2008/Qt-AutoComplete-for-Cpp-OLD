@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOffset($1);
+]]></content>
+	<tabTrigger>setOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

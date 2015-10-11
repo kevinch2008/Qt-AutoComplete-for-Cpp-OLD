@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setModelChangeType($1);
+]]></content>
+	<tabTrigger>setModelChangeType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

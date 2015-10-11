@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bufferAvailableChanged($1);
+]]></content>
+	<tabTrigger>bufferAvailableChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

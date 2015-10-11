@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAccelerated($1);
+]]></content>
+	<tabTrigger>isAccelerated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

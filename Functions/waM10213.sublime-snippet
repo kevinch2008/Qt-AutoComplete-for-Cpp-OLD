@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+watchMode($1);
+]]></content>
+	<tabTrigger>watchMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNumericMode($1);
+]]></content>
+	<tabTrigger>setNumericMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

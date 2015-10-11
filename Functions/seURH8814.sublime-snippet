@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUniformRowHeights($1);
+]]></content>
+	<tabTrigger>setUniformRowHeights</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

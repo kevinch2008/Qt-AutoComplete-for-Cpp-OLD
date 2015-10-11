@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGeoRouteSegment
+]]></content>
+	<tabTrigger>QGeoRouteSegment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

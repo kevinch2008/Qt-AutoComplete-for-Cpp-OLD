@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sendCustomRequest($1);
+]]></content>
+	<tabTrigger>sendCustomRequest</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

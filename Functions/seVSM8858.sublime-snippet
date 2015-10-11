@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVerticalScrollMode($1);
+]]></content>
+	<tabTrigger>setVerticalScrollMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

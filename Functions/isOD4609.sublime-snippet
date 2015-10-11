@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isOpacityDirty($1);
+]]></content>
+	<tabTrigger>isOpacityDirty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

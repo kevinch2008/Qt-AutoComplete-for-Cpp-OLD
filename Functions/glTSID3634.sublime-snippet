@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTextureSubImage3D($1);
+]]></content>
+	<tabTrigger>glTextureSubImage3D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

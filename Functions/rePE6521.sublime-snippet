@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removePostedEvents($1);
+]]></content>
+	<tabTrigger>removePostedEvents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

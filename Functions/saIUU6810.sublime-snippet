@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+satellitesInUseUpdated($1);
+]]></content>
+	<tabTrigger>satellitesInUseUpdated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

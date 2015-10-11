@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGraphicsRectItem
+]]></content>
+	<tabTrigger>QGraphicsRectItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

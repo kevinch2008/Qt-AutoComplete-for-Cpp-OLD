@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serverDirPath($1);
+]]></content>
+	<tabTrigger>serverDirPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

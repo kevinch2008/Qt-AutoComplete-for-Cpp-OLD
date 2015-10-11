@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSequential($1);
+]]></content>
+	<tabTrigger>isSequential</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCosmetic($1);
+]]></content>
+	<tabTrigger>setCosmetic</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

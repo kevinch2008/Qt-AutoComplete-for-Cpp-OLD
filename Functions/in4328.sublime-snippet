@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+intersect($1);
+]]></content>
+	<tabTrigger>intersect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

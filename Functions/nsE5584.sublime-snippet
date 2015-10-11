@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nsecsElapsed($1);
+]]></content>
+	<tabTrigger>nsecsElapsed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

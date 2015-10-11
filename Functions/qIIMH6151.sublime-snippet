@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qInstallMessageHandler($1);
+]]></content>
+	<tabTrigger>qInstallMessageHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

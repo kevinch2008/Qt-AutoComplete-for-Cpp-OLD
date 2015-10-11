@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isPersistentOpenGLContext($1);
+]]></content>
+	<tabTrigger>isPersistentOpenGLContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

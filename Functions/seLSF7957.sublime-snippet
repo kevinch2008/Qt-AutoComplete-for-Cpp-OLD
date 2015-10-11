@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLastScaleFactor($1);
+]]></content>
+	<tabTrigger>setLastScaleFactor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

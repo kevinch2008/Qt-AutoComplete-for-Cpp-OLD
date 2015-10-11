@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setYScale($1);
+]]></content>
+	<tabTrigger>setYScale</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

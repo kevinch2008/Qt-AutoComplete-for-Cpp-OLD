@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentRowChanged($1);
+]]></content>
+	<tabTrigger>currentRowChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

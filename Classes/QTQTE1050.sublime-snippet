@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTimeEdit
+]]></content>
+	<tabTrigger>QTimeEdit</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

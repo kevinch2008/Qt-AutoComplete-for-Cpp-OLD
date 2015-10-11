@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+protocolDescriptor($1);
+]]></content>
+	<tabTrigger>protocolDescriptor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

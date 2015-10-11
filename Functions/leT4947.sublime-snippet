@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lessThan($1);
+]]></content>
+	<tabTrigger>lessThan</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

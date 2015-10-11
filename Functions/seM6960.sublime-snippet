@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+secureMode($1);
+]]></content>
+	<tabTrigger>secureMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

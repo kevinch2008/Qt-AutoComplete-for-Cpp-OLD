@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createServiceObject($1);
+]]></content>
+	<tabTrigger>createServiceObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

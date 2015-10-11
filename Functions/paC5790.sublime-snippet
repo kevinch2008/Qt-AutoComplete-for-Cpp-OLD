@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parentContext($1);
+]]></content>
+	<tabTrigger>parentContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+accelerationModeChanged($1);
+]]></content>
+	<tabTrigger>accelerationModeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

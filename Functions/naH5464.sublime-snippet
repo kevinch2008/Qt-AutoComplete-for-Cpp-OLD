@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeHandle($1);
+]]></content>
+	<tabTrigger>nativeHandle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

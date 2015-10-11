@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+activateResourceFilePaths($1);
+]]></content>
+	<tabTrigger>activateResourceFilePaths</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

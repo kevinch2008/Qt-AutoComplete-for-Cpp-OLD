@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setKeyboardTracking($1);
+]]></content>
+	<tabTrigger>setKeyboardTracking</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

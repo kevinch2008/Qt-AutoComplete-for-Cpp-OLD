@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumScaleFactor($1);
+]]></content>
+	<tabTrigger>maximumScaleFactor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

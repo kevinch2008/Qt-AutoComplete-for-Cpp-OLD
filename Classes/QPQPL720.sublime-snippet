@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPluginLoader
+]]></content>
+	<tabTrigger>QPluginLoader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

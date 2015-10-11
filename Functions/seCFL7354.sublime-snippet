@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCodecForLocale($1);
+]]></content>
+	<tabTrigger>setCodecForLocale</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

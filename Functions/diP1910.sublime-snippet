@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+digit2Pressed($1);
+]]></content>
+	<tabTrigger>digit2Pressed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

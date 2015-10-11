@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSharedRenderer($1);
+]]></content>
+	<tabTrigger>setSharedRenderer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

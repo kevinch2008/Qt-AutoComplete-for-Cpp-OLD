@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fullPage($1);
+]]></content>
+	<tabTrigger>fullPage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

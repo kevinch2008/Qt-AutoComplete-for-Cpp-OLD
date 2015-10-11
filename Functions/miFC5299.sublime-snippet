@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+microFocusChanged($1);
+]]></content>
+	<tabTrigger>microFocusChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

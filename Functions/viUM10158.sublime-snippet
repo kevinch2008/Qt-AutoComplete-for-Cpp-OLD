@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+viewportUpdateMode($1);
+]]></content>
+	<tabTrigger>viewportUpdateMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

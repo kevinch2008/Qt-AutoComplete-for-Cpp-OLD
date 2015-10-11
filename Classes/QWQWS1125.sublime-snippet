@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebSettings
+]]></content>
+	<tabTrigger>QWebSettings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

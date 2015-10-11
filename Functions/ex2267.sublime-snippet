@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+exited($1);
+]]></content>
+	<tabTrigger>exited</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

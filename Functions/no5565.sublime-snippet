@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nospace($1);
+]]></content>
+	<tabTrigger>nospace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

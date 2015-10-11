@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFromLittleEndian($1);
+]]></content>
+	<tabTrigger>qFromLittleEndian</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

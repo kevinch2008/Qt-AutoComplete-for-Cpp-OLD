@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoDefault($1);
+]]></content>
+	<tabTrigger>setAutoDefault</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

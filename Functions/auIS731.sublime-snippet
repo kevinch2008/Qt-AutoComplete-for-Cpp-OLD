@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoInsertSpaces($1);
+]]></content>
+	<tabTrigger>autoInsertSpaces</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

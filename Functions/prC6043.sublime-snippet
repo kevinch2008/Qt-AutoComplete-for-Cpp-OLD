@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+progressChanged($1);
+]]></content>
+	<tabTrigger>progressChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

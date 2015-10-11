@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTextGenerated($1);
+]]></content>
+	<tabTrigger>isTextGenerated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

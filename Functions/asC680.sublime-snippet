@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+asynchronousChanged($1);
+]]></content>
+	<tabTrigger>asynchronousChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

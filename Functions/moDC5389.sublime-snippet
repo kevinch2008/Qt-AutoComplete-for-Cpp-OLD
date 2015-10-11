@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mouseDClick($1);
+]]></content>
+	<tabTrigger>mouseDClick</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

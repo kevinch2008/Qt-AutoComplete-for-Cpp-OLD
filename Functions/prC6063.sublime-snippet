@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+propertyCount($1);
+]]></content>
+	<tabTrigger>propertyCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

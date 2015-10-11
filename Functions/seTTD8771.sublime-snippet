@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setToolTipDuration($1);
+]]></content>
+	<tabTrigger>setToolTipDuration</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qDBusRegisterMetaType($1);
+]]></content>
+	<tabTrigger>qDBusRegisterMetaType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

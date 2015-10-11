@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlClearTypeRegistrations($1);
+]]></content>
+	<tabTrigger>qmlClearTypeRegistrations</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

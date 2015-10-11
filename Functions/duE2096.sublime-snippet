@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+duplicatesEnabled($1);
+]]></content>
+	<tabTrigger>duplicatesEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+segmentStyle($1);
+]]></content>
+	<tabTrigger>segmentStyle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUserStyleSheetUrl($1);
+]]></content>
+	<tabTrigger>setUserStyleSheetUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setQuitOnLastWindowClosed($1);
+]]></content>
+	<tabTrigger>setQuitOnLastWindowClosed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

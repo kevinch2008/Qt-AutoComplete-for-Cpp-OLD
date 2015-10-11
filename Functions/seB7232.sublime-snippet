@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBand($1);
+]]></content>
+	<tabTrigger>setBand</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

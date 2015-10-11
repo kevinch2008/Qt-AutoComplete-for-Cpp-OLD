@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTapReading
+]]></content>
+	<tabTrigger>QTapReading</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

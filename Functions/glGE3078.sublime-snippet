@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetError($1);
+]]></content>
+	<tabTrigger>glGetError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rowMaximumHeight($1);
+]]></content>
+	<tabTrigger>rowMaximumHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

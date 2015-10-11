@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unsetHotSpot($1);
+]]></content>
+	<tabTrigger>unsetHotSpot</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

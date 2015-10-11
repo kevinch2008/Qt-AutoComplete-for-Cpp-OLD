@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glLogicOp($1);
+]]></content>
+	<tabTrigger>glLogicOp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+symLinkTarget($1);
+]]></content>
+	<tabTrigger>symLinkTarget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

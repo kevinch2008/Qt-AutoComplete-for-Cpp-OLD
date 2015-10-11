@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dumpObjectTree($1);
+]]></content>
+	<tabTrigger>dumpObjectTree</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

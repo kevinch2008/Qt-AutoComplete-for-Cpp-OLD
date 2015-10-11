@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumOpticalZoom($1);
+]]></content>
+	<tabTrigger>maximumOpticalZoom</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

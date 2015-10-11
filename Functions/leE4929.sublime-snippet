@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+leaveEvent($1);
+]]></content>
+	<tabTrigger>leaveEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

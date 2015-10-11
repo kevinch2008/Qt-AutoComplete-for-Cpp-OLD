@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qPixelFormatGrayscale($1);
+]]></content>
+	<tabTrigger>qPixelFormatGrayscale</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

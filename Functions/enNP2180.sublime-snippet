@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endNativePainting($1);
+]]></content>
+	<tabTrigger>endNativePainting</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

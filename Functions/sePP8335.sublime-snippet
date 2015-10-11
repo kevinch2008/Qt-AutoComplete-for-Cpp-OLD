@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPrintProgram($1);
+]]></content>
+	<tabTrigger>setPrintProgram</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

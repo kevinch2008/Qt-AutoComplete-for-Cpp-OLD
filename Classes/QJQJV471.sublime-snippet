@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QJsonValue
+]]></content>
+	<tabTrigger>QJsonValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

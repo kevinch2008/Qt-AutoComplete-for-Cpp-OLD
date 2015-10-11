@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+uncaughtException($1);
+]]></content>
+	<tabTrigger>uncaughtException</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

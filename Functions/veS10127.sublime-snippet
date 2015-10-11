@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+verticalStretch($1);
+]]></content>
+	<tabTrigger>verticalStretch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

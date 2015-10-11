@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isComboBoxEditable($1);
+]]></content>
+	<tabTrigger>isComboBoxEditable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+anchorHref($1);
+]]></content>
+	<tabTrigger>anchorHref</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

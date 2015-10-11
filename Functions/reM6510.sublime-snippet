@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeMappings($1);
+]]></content>
+	<tabTrigger>removeMappings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

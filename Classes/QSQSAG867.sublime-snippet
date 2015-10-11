@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSequentialAnimationGroup
+]]></content>
+	<tabTrigger>QSequentialAnimationGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

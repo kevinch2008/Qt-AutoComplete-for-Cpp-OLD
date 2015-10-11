@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSeparatorsCollapsible($1);
+]]></content>
+	<tabTrigger>setSeparatorsCollapsible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

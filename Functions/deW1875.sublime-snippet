@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+descriptorWritten($1);
+]]></content>
+	<tabTrigger>descriptorWritten</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

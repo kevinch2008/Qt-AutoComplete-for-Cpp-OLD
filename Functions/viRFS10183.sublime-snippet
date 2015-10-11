@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visualRegionForSelection($1);
+]]></content>
+	<tabTrigger>visualRegionForSelection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

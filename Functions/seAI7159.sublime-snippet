@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setArrayIndex($1);
+]]></content>
+	<tabTrigger>setArrayIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

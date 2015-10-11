@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QQuickImageProvider
+]]></content>
+	<tabTrigger>QQuickImageProvider</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

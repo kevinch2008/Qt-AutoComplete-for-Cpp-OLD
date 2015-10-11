@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+textEchoMode($1);
+]]></content>
+	<tabTrigger>textEchoMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

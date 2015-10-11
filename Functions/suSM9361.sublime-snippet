@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedShareModes($1);
+]]></content>
+	<tabTrigger>supportedShareModes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

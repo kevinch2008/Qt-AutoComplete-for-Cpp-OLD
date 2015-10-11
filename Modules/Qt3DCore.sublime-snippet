@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <Qt3DCore>
+]]></content>
+	<tabTrigger>Qt3DCore</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

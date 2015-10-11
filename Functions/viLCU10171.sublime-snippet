@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visitedLinksContainsUrl($1);
+]]></content>
+	<tabTrigger>visitedLinksContainsUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_OS_MAC($1);
+]]></content>
+	<tabTrigger>Q_OS_MAC</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

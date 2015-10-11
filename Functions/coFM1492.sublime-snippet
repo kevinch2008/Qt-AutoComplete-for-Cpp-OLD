@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+convertFromMime($1);
+]]></content>
+	<tabTrigger>convertFromMime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

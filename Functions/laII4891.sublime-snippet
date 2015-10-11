@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastIndexIn($1);
+]]></content>
+	<tabTrigger>lastIndexIn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

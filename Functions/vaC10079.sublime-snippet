@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+validateCookie($1);
+]]></content>
+	<tabTrigger>validateCookie</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

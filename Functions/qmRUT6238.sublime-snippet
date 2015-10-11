@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlRegisterUncreatableType($1);
+]]></content>
+	<tabTrigger>qmlRegisterUncreatableType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

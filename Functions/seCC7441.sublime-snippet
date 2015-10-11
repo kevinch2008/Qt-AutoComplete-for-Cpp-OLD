@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCountryCode($1);
+]]></content>
+	<tabTrigger>setCountryCode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractNativeEventFilter
+]]></content>
+	<tabTrigger>QAbstractNativeEventFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

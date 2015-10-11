@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPageStep($1);
+]]></content>
+	<tabTrigger>setPageStep</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+virtual_hook($1);
+]]></content>
+	<tabTrigger>virtual_hook</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

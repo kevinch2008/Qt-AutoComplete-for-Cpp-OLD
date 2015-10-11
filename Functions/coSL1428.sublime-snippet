@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+constScanLine($1);
+]]></content>
+	<tabTrigger>constScanLine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setGreenF($1);
+]]></content>
+	<tabTrigger>setGreenF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

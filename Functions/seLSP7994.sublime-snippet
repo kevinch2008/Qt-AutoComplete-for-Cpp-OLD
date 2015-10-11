@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLocalStoragePath($1);
+]]></content>
+	<tabTrigger>setLocalStoragePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

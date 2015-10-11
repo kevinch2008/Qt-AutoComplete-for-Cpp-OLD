@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTextureStorage2DMultisample($1);
+]]></content>
+	<tabTrigger>glTextureStorage2DMultisample</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

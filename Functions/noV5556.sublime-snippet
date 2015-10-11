@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+normalVector($1);
+]]></content>
+	<tabTrigger>normalVector</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

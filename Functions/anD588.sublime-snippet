@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+angleDelta($1);
+]]></content>
+	<tabTrigger>angleDelta</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

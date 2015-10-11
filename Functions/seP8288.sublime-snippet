@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPixmap($1);
+]]></content>
+	<tabTrigger>setPixmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

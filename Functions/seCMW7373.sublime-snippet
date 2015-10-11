@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setColumnMaximumWidth($1);
+]]></content>
+	<tabTrigger>setColumnMaximumWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

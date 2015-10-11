@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIp($1);
+]]></content>
+	<tabTrigger>setIp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

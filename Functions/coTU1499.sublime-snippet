@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+convertToUnicode($1);
+]]></content>
+	<tabTrigger>convertToUnicode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

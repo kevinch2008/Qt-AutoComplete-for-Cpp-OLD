@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+downloadProgress($1);
+]]></content>
+	<tabTrigger>downloadProgress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

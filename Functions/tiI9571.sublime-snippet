@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tickInterval($1);
+]]></content>
+	<tabTrigger>tickInterval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

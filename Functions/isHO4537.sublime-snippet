@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isHttpOnly($1);
+]]></content>
+	<tabTrigger>isHttpOnly</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

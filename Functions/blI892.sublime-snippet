@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blockInserted($1);
+]]></content>
+	<tabTrigger>blockInserted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

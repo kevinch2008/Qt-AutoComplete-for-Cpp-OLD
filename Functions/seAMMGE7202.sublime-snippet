@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoMipMapGenerationEnabled($1);
+]]></content>
+	<tabTrigger>setAutoMipMapGenerationEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

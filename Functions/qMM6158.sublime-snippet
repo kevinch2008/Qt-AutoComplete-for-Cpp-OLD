@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qMin($1);
+]]></content>
+	<tabTrigger>qMin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

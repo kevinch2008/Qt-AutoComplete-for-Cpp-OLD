@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMouseEvent
+]]></content>
+	<tabTrigger>QMouseEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

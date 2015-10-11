@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scriptClass($1);
+]]></content>
+	<tabTrigger>scriptClass</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

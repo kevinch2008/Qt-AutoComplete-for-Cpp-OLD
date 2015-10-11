@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allocateStorage($1);
+]]></content>
+	<tabTrigger>allocateStorage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

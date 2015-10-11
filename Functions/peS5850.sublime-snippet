@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+periodSize($1);
+]]></content>
+	<tabTrigger>periodSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

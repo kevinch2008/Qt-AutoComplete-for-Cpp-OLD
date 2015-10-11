@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+flowControlChanged($1);
+]]></content>
+	<tabTrigger>flowControlChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

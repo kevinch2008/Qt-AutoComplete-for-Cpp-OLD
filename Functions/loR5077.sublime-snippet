@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+loopsRemaining($1);
+]]></content>
+	<tabTrigger>loopsRemaining</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

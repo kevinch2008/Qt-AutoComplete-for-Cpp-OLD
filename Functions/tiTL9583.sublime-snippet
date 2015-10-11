@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+timeToLive($1);
+]]></content>
+	<tabTrigger>timeToLive</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

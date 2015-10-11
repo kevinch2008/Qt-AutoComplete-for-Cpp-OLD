@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createGeocodingManagerEngine($1);
+]]></content>
+	<tabTrigger>createGeocodingManagerEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

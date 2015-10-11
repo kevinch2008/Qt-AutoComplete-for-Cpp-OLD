@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateBehavior($1);
+]]></content>
+	<tabTrigger>updateBehavior</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

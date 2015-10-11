@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractEventDispatcher
+]]></content>
+	<tabTrigger>QAbstractEventDispatcher</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

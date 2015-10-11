@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_PROCESSOR_MIPS($1);
+]]></content>
+	<tabTrigger>Q_PROCESSOR_MIPS</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

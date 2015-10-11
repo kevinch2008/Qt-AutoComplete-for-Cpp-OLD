@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTearOffMenuVisible($1);
+]]></content>
+	<tabTrigger>isTearOffMenuVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

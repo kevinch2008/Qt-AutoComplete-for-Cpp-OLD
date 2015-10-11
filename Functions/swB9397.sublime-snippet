@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+swapBuffers($1);
+]]></content>
+	<tabTrigger>swapBuffers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlAttachedPropertiesObject($1);
+]]></content>
+	<tabTrigger>qmlAttachedPropertiesObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

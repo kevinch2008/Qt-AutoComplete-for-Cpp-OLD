@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isPortrait($1);
+]]></content>
+	<tabTrigger>isPortrait</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoBufferSwap($1);
+]]></content>
+	<tabTrigger>setAutoBufferSwap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

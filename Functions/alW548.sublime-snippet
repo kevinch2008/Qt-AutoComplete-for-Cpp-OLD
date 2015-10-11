@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allWindows($1);
+]]></content>
+	<tabTrigger>allWindows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

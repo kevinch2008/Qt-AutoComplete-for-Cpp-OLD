@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+interfaceID($1);
+]]></content>
+	<tabTrigger>interfaceID</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

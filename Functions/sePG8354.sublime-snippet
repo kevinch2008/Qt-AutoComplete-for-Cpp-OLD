@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPropertyGroup($1);
+]]></content>
+	<tabTrigger>setPropertyGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

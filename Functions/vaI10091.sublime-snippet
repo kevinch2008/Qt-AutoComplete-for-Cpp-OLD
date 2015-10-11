@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+valueInterface($1);
+]]></content>
+	<tabTrigger>valueInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

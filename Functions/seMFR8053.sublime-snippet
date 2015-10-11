@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaximumFrameRate($1);
+]]></content>
+	<tabTrigger>setMaximumFrameRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

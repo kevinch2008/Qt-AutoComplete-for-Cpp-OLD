@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetnMapdv($1);
+]]></content>
+	<tabTrigger>glGetnMapdv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

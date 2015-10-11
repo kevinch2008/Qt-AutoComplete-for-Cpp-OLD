@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGroupBox
+]]></content>
+	<tabTrigger>QGroupBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

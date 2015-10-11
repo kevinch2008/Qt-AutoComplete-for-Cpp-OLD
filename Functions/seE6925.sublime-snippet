@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+searchEngine($1);
+]]></content>
+	<tabTrigger>searchEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+remainingTime($1);
+]]></content>
+	<tabTrigger>remainingTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAttributeNS($1);
+]]></content>
+	<tabTrigger>setAttributeNS</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

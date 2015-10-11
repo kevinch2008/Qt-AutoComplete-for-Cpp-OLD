@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeImageProvider($1);
+]]></content>
+	<tabTrigger>removeImageProvider</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

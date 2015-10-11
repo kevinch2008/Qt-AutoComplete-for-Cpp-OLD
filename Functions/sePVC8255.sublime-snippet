@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPatchVertexCount($1);
+]]></content>
+	<tabTrigger>setPatchVertexCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

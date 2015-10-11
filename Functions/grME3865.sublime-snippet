@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+grabMouseEvent($1);
+]]></content>
+	<tabTrigger>grabMouseEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

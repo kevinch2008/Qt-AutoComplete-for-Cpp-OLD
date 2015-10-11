@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexAttribI3uiv($1);
+]]></content>
+	<tabTrigger>glVertexAttribI3uiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

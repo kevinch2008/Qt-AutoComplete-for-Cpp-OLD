@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastPos($1);
+]]></content>
+	<tabTrigger>lastPos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+userProperty($1);
+]]></content>
+	<tabTrigger>userProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

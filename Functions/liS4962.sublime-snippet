@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lightnessSize($1);
+]]></content>
+	<tabTrigger>lightnessSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

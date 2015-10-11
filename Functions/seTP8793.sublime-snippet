@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTransientParent($1);
+]]></content>
+	<tabTrigger>setTransientParent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

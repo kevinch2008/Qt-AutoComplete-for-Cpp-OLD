@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDrawTransformFeedbackInstanced($1);
+]]></content>
+	<tabTrigger>glDrawTransformFeedbackInstanced</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

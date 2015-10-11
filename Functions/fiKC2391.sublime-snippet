@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+filterKeyColumn($1);
+]]></content>
+	<tabTrigger>filterKeyColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBindBuffersRange($1);
+]]></content>
+	<tabTrigger>glBindBuffersRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

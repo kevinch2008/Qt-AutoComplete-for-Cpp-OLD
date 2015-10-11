@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMinimumMargins($1);
+]]></content>
+	<tabTrigger>setMinimumMargins</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

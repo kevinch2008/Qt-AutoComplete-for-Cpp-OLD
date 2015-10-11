@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resizeAnchor($1);
+]]></content>
+	<tabTrigger>resizeAnchor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

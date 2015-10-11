@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromRgb($1);
+]]></content>
+	<tabTrigger>fromRgb</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

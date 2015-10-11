@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fileSystemType($1);
+]]></content>
+	<tabTrigger>fileSystemType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

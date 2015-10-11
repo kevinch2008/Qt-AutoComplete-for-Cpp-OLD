@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+functionStartLineNumber($1);
+]]></content>
+	<tabTrigger>functionStartLineNumber</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

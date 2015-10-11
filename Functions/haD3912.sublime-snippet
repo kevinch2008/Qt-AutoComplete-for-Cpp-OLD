@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasDependency($1);
+]]></content>
+	<tabTrigger>hasDependency</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

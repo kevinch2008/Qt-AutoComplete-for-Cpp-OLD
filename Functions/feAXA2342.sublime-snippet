@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fetchAndXorAcquire($1);
+]]></content>
+	<tabTrigger>fetchAndXorAcquire</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

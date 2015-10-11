@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readOnGadget($1);
+]]></content>
+	<tabTrigger>readOnGadget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

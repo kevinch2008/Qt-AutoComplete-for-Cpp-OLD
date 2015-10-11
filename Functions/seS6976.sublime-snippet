@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectStatement($1);
+]]></content>
+	<tabTrigger>selectStatement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasUrls($1);
+]]></content>
+	<tabTrigger>hasUrls</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

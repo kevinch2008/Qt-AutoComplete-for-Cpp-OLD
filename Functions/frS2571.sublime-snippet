@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+freeSize($1);
+]]></content>
+	<tabTrigger>freeSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

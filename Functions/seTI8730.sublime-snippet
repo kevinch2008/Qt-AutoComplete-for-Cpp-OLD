@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTextIndent($1);
+]]></content>
+	<tabTrigger>setTextIndent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

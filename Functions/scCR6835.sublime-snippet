@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scaledClipRect($1);
+]]></content>
+	<tabTrigger>scaledClipRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

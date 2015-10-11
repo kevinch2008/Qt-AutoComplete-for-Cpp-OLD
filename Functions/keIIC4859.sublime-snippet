@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+keyboardInputIntervalChanged($1);
+]]></content>
+	<tabTrigger>keyboardInputIntervalChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

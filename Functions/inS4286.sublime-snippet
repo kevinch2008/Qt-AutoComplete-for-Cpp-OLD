@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+insertSubstitutions($1);
+]]></content>
+	<tabTrigger>insertSubstitutions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

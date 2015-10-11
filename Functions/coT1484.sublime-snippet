@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+controlTypes($1);
+]]></content>
+	<tabTrigger>controlTypes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

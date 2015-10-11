@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+localizedActionName($1);
+]]></content>
+	<tabTrigger>localizedActionName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

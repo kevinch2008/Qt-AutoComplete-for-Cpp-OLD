@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLocales($1);
+]]></content>
+	<tabTrigger>setLocales</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

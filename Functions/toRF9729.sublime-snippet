@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toRectF($1);
+]]></content>
+	<tabTrigger>toRectF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

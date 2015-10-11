@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reportContentOrientationChange($1);
+]]></content>
+	<tabTrigger>reportContentOrientationChange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

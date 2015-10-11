@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mappedReduced($1);
+]]></content>
+	<tabTrigger>mappedReduced</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

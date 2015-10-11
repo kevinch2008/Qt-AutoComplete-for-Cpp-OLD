@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nextMediaChanged($1);
+]]></content>
+	<tabTrigger>nextMediaChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

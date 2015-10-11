@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QByteArray
+]]></content>
+	<tabTrigger>QByteArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

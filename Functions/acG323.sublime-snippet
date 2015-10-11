@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+actionGeometry($1);
+]]></content>
+	<tabTrigger>actionGeometry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rebind($1);
+]]></content>
+	<tabTrigger>rebind</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

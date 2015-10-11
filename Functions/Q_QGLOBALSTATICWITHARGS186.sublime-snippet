@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_GLOBAL_STATIC_WITH_ARGS($1);
+]]></content>
+	<tabTrigger>Q_GLOBAL_STATIC_WITH_ARGS</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

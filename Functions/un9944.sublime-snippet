@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+united($1);
+]]></content>
+	<tabTrigger>united</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

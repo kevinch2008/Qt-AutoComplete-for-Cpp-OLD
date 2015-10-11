@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+completionModel($1);
+]]></content>
+	<tabTrigger>completionModel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

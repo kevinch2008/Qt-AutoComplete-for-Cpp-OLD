@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRealNumberPrecision($1);
+]]></content>
+	<tabTrigger>setRealNumberPrecision</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

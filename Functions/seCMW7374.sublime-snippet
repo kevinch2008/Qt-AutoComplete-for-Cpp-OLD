@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setColumnMinimumWidth($1);
+]]></content>
+	<tabTrigger>setColumnMinimumWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

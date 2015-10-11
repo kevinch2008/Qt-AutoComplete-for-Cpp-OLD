@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isDesignable($1);
+]]></content>
+	<tabTrigger>isDesignable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

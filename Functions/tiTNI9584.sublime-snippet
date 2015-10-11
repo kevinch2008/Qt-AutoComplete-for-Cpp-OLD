@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+timeToNextInstruction($1);
+]]></content>
+	<tabTrigger>timeToNextInstruction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+platformNativeInterface($1);
+]]></content>
+	<tabTrigger>platformNativeInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

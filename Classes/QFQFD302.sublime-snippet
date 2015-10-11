@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QFontDialog
+]]></content>
+	<tabTrigger>QFontDialog</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

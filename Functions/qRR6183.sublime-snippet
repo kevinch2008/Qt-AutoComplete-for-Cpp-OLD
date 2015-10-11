@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRgba($1);
+]]></content>
+	<tabTrigger>qRgba</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

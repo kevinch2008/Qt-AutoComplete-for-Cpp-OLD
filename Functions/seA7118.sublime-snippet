@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAgent($1);
+]]></content>
+	<tabTrigger>setAgent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setReadOnly($1);
+]]></content>
+	<tabTrigger>setReadOnly</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

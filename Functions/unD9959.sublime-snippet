@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unregisterDocumentation($1);
+]]></content>
+	<tabTrigger>unregisterDocumentation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

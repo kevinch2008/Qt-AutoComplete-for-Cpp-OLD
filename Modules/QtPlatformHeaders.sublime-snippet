@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtPlatformHeaders>
+]]></content>
+	<tabTrigger>QtPlatformHeaders</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scrollToSubstring($1);
+]]></content>
+	<tabTrigger>scrollToSubstring</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

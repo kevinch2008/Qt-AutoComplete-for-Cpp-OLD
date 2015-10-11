@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIncubationController($1);
+]]></content>
+	<tabTrigger>setIncubationController</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

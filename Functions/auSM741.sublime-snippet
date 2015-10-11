@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoScrollMargin($1);
+]]></content>
+	<tabTrigger>autoScrollMargin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

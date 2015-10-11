@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stationNameChanged($1);
+]]></content>
+	<tabTrigger>stationNameChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

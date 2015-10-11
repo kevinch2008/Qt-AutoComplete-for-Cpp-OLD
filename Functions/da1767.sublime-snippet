@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+day($1);
+]]></content>
+	<tabTrigger>day</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

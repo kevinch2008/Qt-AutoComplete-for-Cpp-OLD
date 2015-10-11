@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusPolicy($1);
+]]></content>
+	<tabTrigger>focusPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

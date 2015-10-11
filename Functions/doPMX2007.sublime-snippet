@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dotsPerMeterX($1);
+]]></content>
+	<tabTrigger>dotsPerMeterX</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

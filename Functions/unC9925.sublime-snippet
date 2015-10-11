@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ungetChar($1);
+]]></content>
+	<tabTrigger>ungetChar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

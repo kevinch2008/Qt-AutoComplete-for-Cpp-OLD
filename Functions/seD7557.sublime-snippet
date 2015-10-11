@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDisabled($1);
+]]></content>
+	<tabTrigger>setDisabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

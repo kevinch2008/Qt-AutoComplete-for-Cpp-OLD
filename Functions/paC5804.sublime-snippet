@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parseContinue($1);
+]]></content>
+	<tabTrigger>parseContinue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

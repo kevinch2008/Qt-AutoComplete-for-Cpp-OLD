@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGeoManeuver
+]]></content>
+	<tabTrigger>QGeoManeuver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

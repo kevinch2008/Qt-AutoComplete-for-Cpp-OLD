@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+chunkCount($1);
+]]></content>
+	<tabTrigger>chunkCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

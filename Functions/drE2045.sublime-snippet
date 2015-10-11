@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+drawEllipse($1);
+]]></content>
+	<tabTrigger>drawEllipse</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

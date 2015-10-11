@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unmanageWidget($1);
+]]></content>
+	<tabTrigger>unmanageWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

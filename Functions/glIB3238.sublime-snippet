@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glIsBuffer($1);
+]]></content>
+	<tabTrigger>glIsBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

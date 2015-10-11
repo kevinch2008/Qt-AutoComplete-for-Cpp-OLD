@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qUtf8Printable($1);
+]]></content>
+	<tabTrigger>qUtf8Printable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

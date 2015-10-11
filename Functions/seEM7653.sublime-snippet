@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setExposureMode($1);
+]]></content>
+	<tabTrigger>setExposureMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

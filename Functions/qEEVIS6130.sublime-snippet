@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qEnvironmentVariableIsSet($1);
+]]></content>
+	<tabTrigger>qEnvironmentVariableIsSet</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

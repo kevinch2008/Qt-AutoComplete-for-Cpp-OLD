@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isService($1);
+]]></content>
+	<tabTrigger>isService</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

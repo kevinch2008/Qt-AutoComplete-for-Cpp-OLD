@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+applicationCacheQuotaExceeded($1);
+]]></content>
+	<tabTrigger>applicationCacheQuotaExceeded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+indexingStarted($1);
+]]></content>
+	<tabTrigger>indexingStarted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

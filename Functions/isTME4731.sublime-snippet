@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTextModeEnabled($1);
+]]></content>
+	<tabTrigger>isTextModeEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

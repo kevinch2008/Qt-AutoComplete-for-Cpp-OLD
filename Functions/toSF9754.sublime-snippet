@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toSurfaceFormat($1);
+]]></content>
+	<tabTrigger>toSurfaceFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

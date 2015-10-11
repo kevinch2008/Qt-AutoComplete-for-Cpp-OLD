@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+adjust($1);
+]]></content>
+	<tabTrigger>adjust</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

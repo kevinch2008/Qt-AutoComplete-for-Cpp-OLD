@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+firstRouteSegment($1);
+]]></content>
+	<tabTrigger>firstRouteSegment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

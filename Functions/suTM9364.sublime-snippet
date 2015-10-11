@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedTravelModes($1);
+]]></content>
+	<tabTrigger>supportedTravelModes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

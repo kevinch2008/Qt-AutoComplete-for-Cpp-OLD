@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTextColor($1);
+]]></content>
+	<tabTrigger>setTextColor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

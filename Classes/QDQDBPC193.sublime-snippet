@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDBusPendingCall
+]]></content>
+	<tabTrigger>QDBusPendingCall</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

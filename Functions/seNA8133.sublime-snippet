@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNativeArguments($1);
+]]></content>
+	<tabTrigger>setNativeArguments</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

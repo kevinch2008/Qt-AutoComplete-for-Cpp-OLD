@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+push_back($1);
+]]></content>
+	<tabTrigger>push_back</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

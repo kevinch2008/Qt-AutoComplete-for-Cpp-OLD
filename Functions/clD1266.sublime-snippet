@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cloneDatabase($1);
+]]></content>
+	<tabTrigger>cloneDatabase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

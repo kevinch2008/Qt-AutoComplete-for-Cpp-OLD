@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSslCertificateExtension
+]]></content>
+	<tabTrigger>QSslCertificateExtension</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+accessibleInterface($1);
+]]></content>
+	<tabTrigger>accessibleInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

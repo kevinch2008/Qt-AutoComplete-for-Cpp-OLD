@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+testAndSetRelease($1);
+]]></content>
+	<tabTrigger>testAndSetRelease</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

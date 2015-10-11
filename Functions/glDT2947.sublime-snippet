@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDeleteTextures($1);
+]]></content>
+	<tabTrigger>glDeleteTextures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

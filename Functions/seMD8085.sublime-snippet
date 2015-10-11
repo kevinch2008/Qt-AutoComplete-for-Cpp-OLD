@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMinimumDate($1);
+]]></content>
+	<tabTrigger>setMinimumDate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isRelativePath($1);
+]]></content>
+	<tabTrigger>isRelativePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

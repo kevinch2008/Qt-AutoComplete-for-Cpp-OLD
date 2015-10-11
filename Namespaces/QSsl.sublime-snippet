@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QSsl>
+]]></content>
+	<tabTrigger>QSsl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

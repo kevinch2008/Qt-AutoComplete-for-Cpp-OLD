@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QUndoStack
+]]></content>
+	<tabTrigger>QUndoStack</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

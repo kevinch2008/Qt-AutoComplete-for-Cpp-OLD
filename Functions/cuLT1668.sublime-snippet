@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentLoopTime($1);
+]]></content>
+	<tabTrigger>currentLoopTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

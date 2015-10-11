@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_INT64_C($1);
+]]></content>
+	<tabTrigger>Q_INT64_C</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

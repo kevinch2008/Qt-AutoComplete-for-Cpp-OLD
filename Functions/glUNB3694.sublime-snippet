@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glUnmapNamedBuffer($1);
+]]></content>
+	<tabTrigger>glUnmapNamedBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

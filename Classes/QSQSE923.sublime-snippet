@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSslError
+]]></content>
+	<tabTrigger>QSslError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

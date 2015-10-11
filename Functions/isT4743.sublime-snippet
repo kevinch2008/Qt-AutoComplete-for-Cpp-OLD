@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTristate($1);
+]]></content>
+	<tabTrigger>isTristate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

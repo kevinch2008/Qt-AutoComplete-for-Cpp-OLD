@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDoubleValue($1);
+]]></content>
+	<tabTrigger>setDoubleValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

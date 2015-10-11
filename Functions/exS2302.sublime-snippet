@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+extraSelections($1);
+]]></content>
+	<tabTrigger>extraSelections</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

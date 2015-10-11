@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glIndexdv($1);
+]]></content>
+	<tabTrigger>glIndexdv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

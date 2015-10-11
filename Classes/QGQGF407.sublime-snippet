@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGyroscopeFilter
+]]></content>
+	<tabTrigger>QGyroscopeFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

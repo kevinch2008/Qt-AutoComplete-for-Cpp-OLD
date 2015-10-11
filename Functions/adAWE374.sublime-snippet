@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addAccessWhitelistEntry($1);
+]]></content>
+	<tabTrigger>addAccessWhitelistEntry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+childrenCollapsible($1);
+]]></content>
+	<tabTrigger>childrenCollapsible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

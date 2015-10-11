@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFramePosition($1);
+]]></content>
+	<tabTrigger>setFramePosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

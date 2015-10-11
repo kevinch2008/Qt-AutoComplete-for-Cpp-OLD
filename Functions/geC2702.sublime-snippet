@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+geometriesChanged($1);
+]]></content>
+	<tabTrigger>geometriesChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

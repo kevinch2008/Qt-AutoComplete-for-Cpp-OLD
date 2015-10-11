@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+usagePolicies($1);
+]]></content>
+	<tabTrigger>usagePolicies</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

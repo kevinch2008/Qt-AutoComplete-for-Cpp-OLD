@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFixedHeight($1);
+]]></content>
+	<tabTrigger>setFixedHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

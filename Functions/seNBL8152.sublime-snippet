@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNonBreakableLines($1);
+]]></content>
+	<tabTrigger>setNonBreakableLines</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

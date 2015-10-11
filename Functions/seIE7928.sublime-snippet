@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setItemsExpandable($1);
+]]></content>
+	<tabTrigger>setItemsExpandable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

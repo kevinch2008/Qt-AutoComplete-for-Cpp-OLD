@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maxThreadCount($1);
+]]></content>
+	<tabTrigger>maxThreadCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

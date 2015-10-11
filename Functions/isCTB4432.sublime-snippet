@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isConnectedToBackend($1);
+]]></content>
+	<tabTrigger>isConnectedToBackend</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMetaDataReaderControl_iid($1);
+]]></content>
+	<tabTrigger>QMetaDataReaderControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

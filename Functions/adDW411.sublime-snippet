@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addDockWidget($1);
+]]></content>
+	<tabTrigger>addDockWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

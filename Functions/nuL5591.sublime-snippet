@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+numberLiteral($1);
+]]></content>
+	<tabTrigger>numberLiteral</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

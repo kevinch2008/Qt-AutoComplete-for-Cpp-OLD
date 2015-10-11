@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glHint($1);
+]]></content>
+	<tabTrigger>glHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

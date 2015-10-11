@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setServerName($1);
+]]></content>
+	<tabTrigger>setServerName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

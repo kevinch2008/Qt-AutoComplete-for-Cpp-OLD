@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+letterSpacing($1);
+]]></content>
+	<tabTrigger>letterSpacing</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

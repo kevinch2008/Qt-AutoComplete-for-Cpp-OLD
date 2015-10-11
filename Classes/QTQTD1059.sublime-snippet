@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTouchDevice
+]]></content>
+	<tabTrigger>QTouchDevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

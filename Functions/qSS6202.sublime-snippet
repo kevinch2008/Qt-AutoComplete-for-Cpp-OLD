@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qSleep($1);
+]]></content>
+	<tabTrigger>qSleep</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

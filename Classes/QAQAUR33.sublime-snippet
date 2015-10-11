@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractUriResolver
+]]></content>
+	<tabTrigger>QAbstractUriResolver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+flashMode($1);
+]]></content>
+	<tabTrigger>flashMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

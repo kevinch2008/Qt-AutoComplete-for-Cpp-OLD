@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glProgramParameteri($1);
+]]></content>
+	<tabTrigger>glProgramParameteri</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

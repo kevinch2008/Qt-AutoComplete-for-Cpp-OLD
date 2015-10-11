@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tiltAboutViewCenter($1);
+]]></content>
+	<tabTrigger>tiltAboutViewCenter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

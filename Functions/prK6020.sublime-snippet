@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+privateKey($1);
+]]></content>
+	<tabTrigger>privateKey</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

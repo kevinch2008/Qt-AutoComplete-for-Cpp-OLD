@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+openGLFeatures($1);
+]]></content>
+	<tabTrigger>openGLFeatures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

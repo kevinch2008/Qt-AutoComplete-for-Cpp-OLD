@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visualId($1);
+]]></content>
+	<tabTrigger>visualId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

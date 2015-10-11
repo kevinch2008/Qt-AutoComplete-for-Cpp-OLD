@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultDuplexMode($1);
+]]></content>
+	<tabTrigger>defaultDuplexMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtWin>
+]]></content>
+	<tabTrigger>QtWin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

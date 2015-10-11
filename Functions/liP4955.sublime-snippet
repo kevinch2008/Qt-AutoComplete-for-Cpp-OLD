@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+licensedProducts($1);
+]]></content>
+	<tabTrigger>licensedProducts</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

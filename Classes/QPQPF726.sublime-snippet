@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPressureFilter
+]]></content>
+	<tabTrigger>QPressureFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

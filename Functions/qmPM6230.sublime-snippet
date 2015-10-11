@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlProtectModule($1);
+]]></content>
+	<tabTrigger>qmlProtectModule</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

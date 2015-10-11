@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QFETCH($1);
+]]></content>
+	<tabTrigger>QFETCH</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

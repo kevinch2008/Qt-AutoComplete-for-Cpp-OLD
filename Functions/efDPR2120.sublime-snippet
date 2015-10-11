@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+effectiveDevicePixelRatio($1);
+]]></content>
+	<tabTrigger>effectiveDevicePixelRatio</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

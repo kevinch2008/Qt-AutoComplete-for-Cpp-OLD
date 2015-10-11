@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+replacementLength($1);
+]]></content>
+	<tabTrigger>replacementLength</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

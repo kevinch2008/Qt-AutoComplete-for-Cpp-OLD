@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasRegisteredDebugStreamOperator($1);
+]]></content>
+	<tabTrigger>hasRegisteredDebugStreamOperator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

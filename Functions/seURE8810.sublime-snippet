@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUndoRedoEnabled($1);
+]]></content>
+	<tabTrigger>setUndoRedoEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

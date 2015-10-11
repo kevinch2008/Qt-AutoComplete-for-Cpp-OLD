@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getHsvF($1);
+]]></content>
+	<tabTrigger>getHsvF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

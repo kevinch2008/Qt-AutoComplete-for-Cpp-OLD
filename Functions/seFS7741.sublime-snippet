@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFontStretch($1);
+]]></content>
+	<tabTrigger>setFontStretch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

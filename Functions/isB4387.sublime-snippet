@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isBlacklisted($1);
+]]></content>
+	<tabTrigger>isBlacklisted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

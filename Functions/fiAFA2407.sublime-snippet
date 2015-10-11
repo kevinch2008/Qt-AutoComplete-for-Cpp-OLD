@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+findAdapterForAddress($1);
+]]></content>
+	<tabTrigger>findAdapterForAddress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

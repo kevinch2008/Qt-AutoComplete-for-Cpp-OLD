@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endEditBlock($1);
+]]></content>
+	<tabTrigger>endEditBlock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

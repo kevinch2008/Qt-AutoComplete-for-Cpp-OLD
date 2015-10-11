@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNativeResolution($1);
+]]></content>
+	<tabTrigger>setNativeResolution</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

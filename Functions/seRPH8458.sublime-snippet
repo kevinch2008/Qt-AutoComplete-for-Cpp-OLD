@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRowPreferredHeight($1);
+]]></content>
+	<tabTrigger>setRowPreferredHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

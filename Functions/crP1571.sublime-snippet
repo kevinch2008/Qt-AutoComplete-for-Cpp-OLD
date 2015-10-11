@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createPlugin($1);
+]]></content>
+	<tabTrigger>createPlugin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoDetectImageFormat($1);
+]]></content>
+	<tabTrigger>setAutoDetectImageFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

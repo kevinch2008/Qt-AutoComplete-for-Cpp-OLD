@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mediaCount($1);
+]]></content>
+	<tabTrigger>mediaCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

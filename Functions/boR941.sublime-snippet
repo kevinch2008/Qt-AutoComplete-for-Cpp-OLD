@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+boundingRegion($1);
+]]></content>
+	<tabTrigger>boundingRegion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

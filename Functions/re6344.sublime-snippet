@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+realm($1);
+]]></content>
+	<tabTrigger>realm</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

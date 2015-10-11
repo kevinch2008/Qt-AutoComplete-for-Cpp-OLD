@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parameterTypes($1);
+]]></content>
+	<tabTrigger>parameterTypes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

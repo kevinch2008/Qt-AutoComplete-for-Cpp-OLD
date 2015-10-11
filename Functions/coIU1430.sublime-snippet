@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+constructIconUrl($1);
+]]></content>
+	<tabTrigger>constructIconUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

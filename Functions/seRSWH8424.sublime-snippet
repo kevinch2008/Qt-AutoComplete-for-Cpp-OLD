@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRetainSizeWhenHidden($1);
+]]></content>
+	<tabTrigger>setRetainSizeWhenHidden</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_DECLARE_NDEFRECORD($1);
+]]></content>
+	<tabTrigger>Q_DECLARE_NDEFRECORD</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

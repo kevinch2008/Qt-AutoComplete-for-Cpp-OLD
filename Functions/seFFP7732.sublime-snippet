@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFontFixedPitch($1);
+]]></content>
+	<tabTrigger>setFontFixedPitch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

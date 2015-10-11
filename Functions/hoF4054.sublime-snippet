@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hostFound($1);
+]]></content>
+	<tabTrigger>hostFound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

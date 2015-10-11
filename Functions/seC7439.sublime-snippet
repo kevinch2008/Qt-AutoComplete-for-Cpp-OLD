@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCount($1);
+]]></content>
+	<tabTrigger>setCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

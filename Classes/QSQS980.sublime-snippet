@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSurface
+]]></content>
+	<tabTrigger>QSurface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

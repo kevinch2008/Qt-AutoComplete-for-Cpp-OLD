@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qWaitForWindowExposed($1);
+]]></content>
+	<tabTrigger>qWaitForWindowExposed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetPointerv($1);
+]]></content>
+	<tabTrigger>glGetPointerv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

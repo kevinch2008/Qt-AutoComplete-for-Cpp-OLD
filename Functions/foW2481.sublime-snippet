@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusWindow($1);
+]]></content>
+	<tabTrigger>focusWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

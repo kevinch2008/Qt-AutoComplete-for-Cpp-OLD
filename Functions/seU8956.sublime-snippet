@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setupUi($1);
+]]></content>
+	<tabTrigger>setupUi</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

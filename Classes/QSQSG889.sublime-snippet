@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSizeGrip
+]]></content>
+	<tabTrigger>QSizeGrip</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

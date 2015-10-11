@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCaptureDestinationSupported($1);
+]]></content>
+	<tabTrigger>isCaptureDestinationSupported</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRound64($1);
+]]></content>
+	<tabTrigger>qRound64</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

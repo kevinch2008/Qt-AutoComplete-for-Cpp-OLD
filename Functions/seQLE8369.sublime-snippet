@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setQuitLockEnabled($1);
+]]></content>
+	<tabTrigger>setQuitLockEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

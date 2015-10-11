@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+typeFlags($1);
+]]></content>
+	<tabTrigger>typeFlags</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

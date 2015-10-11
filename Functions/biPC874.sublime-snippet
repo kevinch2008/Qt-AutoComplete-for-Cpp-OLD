@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bitPlaneCount($1);
+]]></content>
+	<tabTrigger>bitPlaneCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

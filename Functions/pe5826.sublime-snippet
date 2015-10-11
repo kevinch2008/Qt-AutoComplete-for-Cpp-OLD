@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peek($1);
+]]></content>
+	<tabTrigger>peek</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

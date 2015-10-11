@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+greenBufferSize($1);
+]]></content>
+	<tabTrigger>greenBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+numRowsAffected($1);
+]]></content>
+	<tabTrigger>numRowsAffected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

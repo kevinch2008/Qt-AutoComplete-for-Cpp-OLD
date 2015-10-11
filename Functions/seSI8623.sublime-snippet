@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStandardItem($1);
+]]></content>
+	<tabTrigger>setStandardItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

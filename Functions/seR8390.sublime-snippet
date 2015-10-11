@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRects($1);
+]]></content>
+	<tabTrigger>setRects</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

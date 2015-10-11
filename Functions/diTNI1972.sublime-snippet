@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+distanceToNextInstruction($1);
+]]></content>
+	<tabTrigger>distanceToNextInstruction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

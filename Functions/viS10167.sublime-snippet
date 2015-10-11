@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visibilityScope($1);
+]]></content>
+	<tabTrigger>visibilityScope</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

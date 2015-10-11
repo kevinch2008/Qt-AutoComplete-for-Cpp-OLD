@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMediaTimeInterval
+]]></content>
+	<tabTrigger>QMediaTimeInterval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+deselect($1);
+]]></content>
+	<tabTrigger>deselect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

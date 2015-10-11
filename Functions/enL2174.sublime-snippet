@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endLayout($1);
+]]></content>
+	<tabTrigger>endLayout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

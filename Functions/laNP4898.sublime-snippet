@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastNormalizedPos($1);
+]]></content>
+	<tabTrigger>lastNormalizedPos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toPersistentModelIndex($1);
+]]></content>
+	<tabTrigger>toPersistentModelIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

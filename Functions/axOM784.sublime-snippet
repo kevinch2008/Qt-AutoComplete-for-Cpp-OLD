@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+axesOrientationMode($1);
+]]></content>
+	<tabTrigger>axesOrientationMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

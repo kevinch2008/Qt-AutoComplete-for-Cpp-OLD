@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+queryChanged($1);
+]]></content>
+	<tabTrigger>queryChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

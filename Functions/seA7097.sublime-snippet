@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAccum($1);
+]]></content>
+	<tabTrigger>setAccum</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setExcludeAreas($1);
+]]></content>
+	<tabTrigger>setExcludeAreas</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serviceRegistered($1);
+]]></content>
+	<tabTrigger>serviceRegistered</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

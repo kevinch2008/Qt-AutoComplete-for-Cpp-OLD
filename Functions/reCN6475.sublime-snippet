@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeChildNode($1);
+]]></content>
+	<tabTrigger>removeChildNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

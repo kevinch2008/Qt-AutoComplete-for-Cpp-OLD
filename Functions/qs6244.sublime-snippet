@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qsrand($1);
+]]></content>
+	<tabTrigger>qsrand</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

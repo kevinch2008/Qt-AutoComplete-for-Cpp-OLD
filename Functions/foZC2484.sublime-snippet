@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusZonesChanged($1);
+]]></content>
+	<tabTrigger>focusZonesChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

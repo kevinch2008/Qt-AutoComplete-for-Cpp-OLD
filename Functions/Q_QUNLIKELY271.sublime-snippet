@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_UNLIKELY($1);
+]]></content>
+	<tabTrigger>Q_UNLIKELY</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

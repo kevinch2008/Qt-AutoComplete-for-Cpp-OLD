@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+treeWidget($1);
+]]></content>
+	<tabTrigger>treeWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

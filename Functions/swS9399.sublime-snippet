@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+swapSections($1);
+]]></content>
+	<tabTrigger>swapSections</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

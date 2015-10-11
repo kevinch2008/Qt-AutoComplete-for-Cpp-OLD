@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTextureParameterIuiv($1);
+]]></content>
+	<tabTrigger>glTextureParameterIuiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+formWindowAdded($1);
+]]></content>
+	<tabTrigger>formWindowAdded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNameFilterDetailsVisible($1);
+]]></content>
+	<tabTrigger>setNameFilterDetailsVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromHslF($1);
+]]></content>
+	<tabTrigger>fromHslF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

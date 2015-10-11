@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mdiArea($1);
+]]></content>
+	<tabTrigger>mdiArea</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toLongLong($1);
+]]></content>
+	<tabTrigger>toLongLong</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoMaximizeThreshold($1);
+]]></content>
+	<tabTrigger>setAutoMaximizeThreshold</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

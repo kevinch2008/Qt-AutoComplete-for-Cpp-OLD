@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getProcAddress($1);
+]]></content>
+	<tabTrigger>getProcAddress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

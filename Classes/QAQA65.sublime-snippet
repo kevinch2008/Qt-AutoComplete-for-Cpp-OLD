@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAltimeter
+]]></content>
+	<tabTrigger>QAltimeter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

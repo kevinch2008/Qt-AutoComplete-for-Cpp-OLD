@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setReturnGeoValues($1);
+]]></content>
+	<tabTrigger>setReturnGeoValues</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontDatabaseChanged($1);
+]]></content>
+	<tabTrigger>fontDatabaseChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rubberBandSelectionMode($1);
+]]></content>
+	<tabTrigger>rubberBandSelectionMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

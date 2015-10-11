@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtMacExtras>
+]]></content>
+	<tabTrigger>QtMacExtras</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

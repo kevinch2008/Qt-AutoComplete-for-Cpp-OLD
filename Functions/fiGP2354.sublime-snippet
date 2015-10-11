@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fieldGrowthPolicy($1);
+]]></content>
+	<tabTrigger>fieldGrowthPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

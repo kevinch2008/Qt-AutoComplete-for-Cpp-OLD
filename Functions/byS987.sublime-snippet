@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+byteStride($1);
+]]></content>
+	<tabTrigger>byteStride</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

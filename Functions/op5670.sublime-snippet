@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operatorint($1);
+]]></content>
+	<tabTrigger>operatorint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

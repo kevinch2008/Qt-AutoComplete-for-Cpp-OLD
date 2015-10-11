@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSocketOption($1);
+]]></content>
+	<tabTrigger>setSocketOption</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

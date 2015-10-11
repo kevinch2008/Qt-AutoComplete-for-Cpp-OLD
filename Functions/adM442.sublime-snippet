@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addMapping($1);
+]]></content>
+	<tabTrigger>addMapping</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

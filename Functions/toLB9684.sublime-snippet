@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toLocal8Bit($1);
+]]></content>
+	<tabTrigger>toLocal8Bit</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

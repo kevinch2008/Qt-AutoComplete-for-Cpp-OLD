@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addExtraNamespaceDeclarations($1);
+]]></content>
+	<tabTrigger>addExtraNamespaceDeclarations</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

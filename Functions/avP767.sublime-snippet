@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availablePorts($1);
+]]></content>
+	<tabTrigger>availablePorts</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

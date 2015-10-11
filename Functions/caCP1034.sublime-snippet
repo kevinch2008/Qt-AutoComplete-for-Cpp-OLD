@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canChangeProperty($1);
+]]></content>
+	<tabTrigger>canChangeProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

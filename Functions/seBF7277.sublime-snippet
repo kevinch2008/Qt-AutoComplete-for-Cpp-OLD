@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBufferFormat($1);
+]]></content>
+	<tabTrigger>setBufferFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

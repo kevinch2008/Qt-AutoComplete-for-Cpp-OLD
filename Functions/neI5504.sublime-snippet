@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+newIterator($1);
+]]></content>
+	<tabTrigger>newIterator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

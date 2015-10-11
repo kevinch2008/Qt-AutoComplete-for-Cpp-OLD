@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+drawStaticTextItem($1);
+]]></content>
+	<tabTrigger>drawStaticTextItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

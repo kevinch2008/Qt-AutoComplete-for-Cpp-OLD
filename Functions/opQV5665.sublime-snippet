@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operatorQVariant($1);
+]]></content>
+	<tabTrigger>operatorQVariant</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

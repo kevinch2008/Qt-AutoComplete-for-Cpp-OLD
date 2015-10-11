@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+logicalDpiX($1);
+]]></content>
+	<tabTrigger>logicalDpiX</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

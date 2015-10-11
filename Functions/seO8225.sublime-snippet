@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOvershoot($1);
+]]></content>
+	<tabTrigger>setOvershoot</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

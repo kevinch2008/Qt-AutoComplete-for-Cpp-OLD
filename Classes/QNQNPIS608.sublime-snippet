@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QNmeaPositionInfoSource
+]]></content>
+	<tabTrigger>QNmeaPositionInfoSource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

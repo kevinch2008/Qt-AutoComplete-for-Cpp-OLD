@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isResultReadyAt($1);
+]]></content>
+	<tabTrigger>isResultReadyAt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

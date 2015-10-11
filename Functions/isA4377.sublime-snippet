@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAttribute($1);
+]]></content>
+	<tabTrigger>isAttribute</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

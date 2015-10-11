@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setColumnPreferredWidth($1);
+]]></content>
+	<tabTrigger>setColumnPreferredWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

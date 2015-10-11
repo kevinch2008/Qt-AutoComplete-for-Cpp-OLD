@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+equal_range($1);
+]]></content>
+	<tabTrigger>equal_range</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

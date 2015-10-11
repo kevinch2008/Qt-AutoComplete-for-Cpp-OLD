@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glColorMaski($1);
+]]></content>
+	<tabTrigger>glColorMaski</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

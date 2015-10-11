@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fileMode($1);
+]]></content>
+	<tabTrigger>fileMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

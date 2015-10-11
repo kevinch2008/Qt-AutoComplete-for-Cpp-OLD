@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+farPlaneChanged($1);
+]]></content>
+	<tabTrigger>farPlaneChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

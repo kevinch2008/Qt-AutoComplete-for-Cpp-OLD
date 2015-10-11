@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCenter($1);
+]]></content>
+	<tabTrigger>setCenter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

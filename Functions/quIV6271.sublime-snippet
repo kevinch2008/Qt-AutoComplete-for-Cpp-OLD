@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+queryItemValue($1);
+]]></content>
+	<tabTrigger>queryItemValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

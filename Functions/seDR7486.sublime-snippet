@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDataRates($1);
+]]></content>
+	<tabTrigger>setDataRates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

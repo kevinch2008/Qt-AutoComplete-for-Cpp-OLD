@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSlot($1);
+]]></content>
+	<tabTrigger>isSlot</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

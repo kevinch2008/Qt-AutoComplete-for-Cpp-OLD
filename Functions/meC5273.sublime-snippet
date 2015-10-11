@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mergeCells($1);
+]]></content>
+	<tabTrigger>mergeCells</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

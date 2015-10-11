@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlNodeModelIndex
+]]></content>
+	<tabTrigger>QXmlNodeModelIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

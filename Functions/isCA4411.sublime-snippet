@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isClassAvailable($1);
+]]></content>
+	<tabTrigger>isClassAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

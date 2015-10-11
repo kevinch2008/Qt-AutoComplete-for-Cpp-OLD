@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QT_REQUIRE_VERSION($1);
+]]></content>
+	<tabTrigger>QT_REQUIRE_VERSION</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

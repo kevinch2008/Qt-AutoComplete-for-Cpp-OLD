@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setZoomMode($1);
+]]></content>
+	<tabTrigger>setZoomMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

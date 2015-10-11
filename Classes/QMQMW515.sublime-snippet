@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMainWindow
+]]></content>
+	<tabTrigger>QMainWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

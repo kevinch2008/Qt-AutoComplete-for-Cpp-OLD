@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serviceClassToString($1);
+]]></content>
+	<tabTrigger>serviceClassToString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

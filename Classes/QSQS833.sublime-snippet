@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QScreen
+]]></content>
+	<tabTrigger>QScreen</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

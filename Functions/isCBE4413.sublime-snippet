@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isClearButtonEnabled($1);
+]]></content>
+	<tabTrigger>isClearButtonEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

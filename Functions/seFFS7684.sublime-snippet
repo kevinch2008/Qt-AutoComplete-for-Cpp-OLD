@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFilterFixedString($1);
+]]></content>
+	<tabTrigger>setFilterFixedString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

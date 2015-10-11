@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createFilterRunnable($1);
+]]></content>
+	<tabTrigger>createFilterRunnable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

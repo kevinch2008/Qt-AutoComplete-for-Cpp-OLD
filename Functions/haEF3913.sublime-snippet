@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasEditFocus($1);
+]]></content>
+	<tabTrigger>hasEditFocus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toggleAction($1);
+]]></content>
+	<tabTrigger>toggleAction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

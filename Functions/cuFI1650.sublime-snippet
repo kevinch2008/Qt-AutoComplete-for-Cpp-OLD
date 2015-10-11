@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentFocusItem($1);
+]]></content>
+	<tabTrigger>currentFocusItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

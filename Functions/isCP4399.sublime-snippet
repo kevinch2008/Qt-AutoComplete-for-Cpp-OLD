@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCachingProxy($1);
+]]></content>
+	<tabTrigger>isCachingProxy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

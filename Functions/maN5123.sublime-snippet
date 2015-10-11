@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+managerName($1);
+]]></content>
+	<tabTrigger>managerName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

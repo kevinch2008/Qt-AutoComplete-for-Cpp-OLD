@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSocketError($1);
+]]></content>
+	<tabTrigger>setSocketError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

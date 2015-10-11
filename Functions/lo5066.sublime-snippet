@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lookup($1);
+]]></content>
+	<tabTrigger>lookup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

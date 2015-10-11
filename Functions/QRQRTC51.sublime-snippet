@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QRadioTunerControl_iid($1);
+]]></content>
+	<tabTrigger>QRadioTunerControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

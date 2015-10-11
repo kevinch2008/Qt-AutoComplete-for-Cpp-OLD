@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDelayedReply($1);
+]]></content>
+	<tabTrigger>setDelayedReply</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

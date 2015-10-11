@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSaveToDisk($1);
+]]></content>
+	<tabTrigger>setSaveToDisk</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

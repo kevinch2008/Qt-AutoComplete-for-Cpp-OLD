@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDomDocumentType
+]]></content>
+	<tabTrigger>QDomDocumentType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

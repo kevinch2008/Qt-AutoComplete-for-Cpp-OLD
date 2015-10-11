@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumIdentityLength($1);
+]]></content>
+	<tabTrigger>maximumIdentityLength</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

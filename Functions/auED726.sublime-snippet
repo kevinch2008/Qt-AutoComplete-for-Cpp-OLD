@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoExpandDelay($1);
+]]></content>
+	<tabTrigger>autoExpandDelay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

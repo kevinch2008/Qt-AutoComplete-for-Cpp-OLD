@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qInf($1);
+]]></content>
+	<tabTrigger>qInf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setInputChannelMode($1);
+]]></content>
+	<tabTrigger>setInputChannelMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

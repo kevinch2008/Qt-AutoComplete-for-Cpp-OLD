@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetPixelMapusv($1);
+]]></content>
+	<tabTrigger>glGetPixelMapusv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

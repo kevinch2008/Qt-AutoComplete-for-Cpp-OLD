@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+alternateBase($1);
+]]></content>
+	<tabTrigger>alternateBase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

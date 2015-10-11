@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMediaVideoProbeControl_iid($1);
+]]></content>
+	<tabTrigger>QMediaVideoProbeControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

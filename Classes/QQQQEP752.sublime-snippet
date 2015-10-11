@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QQmlExtensionPlugin
+]]></content>
+	<tabTrigger>QQmlExtensionPlugin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

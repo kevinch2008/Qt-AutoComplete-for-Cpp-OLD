@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAmbientTemperatureSensor
+]]></content>
+	<tabTrigger>QAmbientTemperatureSensor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

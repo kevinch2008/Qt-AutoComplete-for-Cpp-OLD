@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlStreamAttributes
+]]></content>
+	<tabTrigger>QXmlStreamAttributes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

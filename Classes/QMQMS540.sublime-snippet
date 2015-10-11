@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMediaService
+]]></content>
+	<tabTrigger>QMediaService</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

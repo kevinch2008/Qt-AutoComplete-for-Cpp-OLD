@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAmbientLightFilter
+]]></content>
+	<tabTrigger>QAmbientLightFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

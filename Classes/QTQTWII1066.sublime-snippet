@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTreeWidgetItemIterator
+]]></content>
+	<tabTrigger>QTreeWidgetItemIterator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

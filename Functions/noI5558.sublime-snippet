@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+normalizeIndexes($1);
+]]></content>
+	<tabTrigger>normalizeIndexes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

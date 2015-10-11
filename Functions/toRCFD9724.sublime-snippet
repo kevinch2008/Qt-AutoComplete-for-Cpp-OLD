@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toRawCFData($1);
+]]></content>
+	<tabTrigger>toRawCFData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

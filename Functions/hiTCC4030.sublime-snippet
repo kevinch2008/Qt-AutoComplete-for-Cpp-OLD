@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hitTestComplexControl($1);
+]]></content>
+	<tabTrigger>hitTestComplexControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

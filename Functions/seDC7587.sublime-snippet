@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDragCursor($1);
+]]></content>
+	<tabTrigger>setDragCursor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

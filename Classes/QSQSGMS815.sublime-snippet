@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSGMaterialShader
+]]></content>
+	<tabTrigger>QSGMaterialShader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

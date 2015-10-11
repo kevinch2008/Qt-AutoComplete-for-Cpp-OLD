@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+boolProperty($1);
+]]></content>
+	<tabTrigger>boolProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

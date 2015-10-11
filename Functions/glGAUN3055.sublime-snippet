@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetActiveUniformName($1);
+]]></content>
+	<tabTrigger>glGetActiveUniformName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

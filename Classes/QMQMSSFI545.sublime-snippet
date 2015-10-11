@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMediaServiceSupportedFormatsInterface
+]]></content>
+	<tabTrigger>QMediaServiceSupportedFormatsInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

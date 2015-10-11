@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setContextForObject($1);
+]]></content>
+	<tabTrigger>setContextForObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

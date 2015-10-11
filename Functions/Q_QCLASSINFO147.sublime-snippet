@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_CLASSINFO($1);
+]]></content>
+	<tabTrigger>Q_CLASSINFO</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

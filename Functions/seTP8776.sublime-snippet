@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTopPadding($1);
+]]></content>
+	<tabTrigger>setTopPadding</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

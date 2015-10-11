@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+deletePreviousChar($1);
+]]></content>
+	<tabTrigger>deletePreviousChar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+videoBitRate($1);
+]]></content>
+	<tabTrigger>videoBitRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

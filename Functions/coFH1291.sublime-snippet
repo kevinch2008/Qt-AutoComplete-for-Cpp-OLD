@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+codecForHtml($1);
+]]></content>
+	<tabTrigger>codecForHtml</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

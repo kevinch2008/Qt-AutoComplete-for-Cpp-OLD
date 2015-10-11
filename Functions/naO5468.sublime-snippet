@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeOrientation($1);
+]]></content>
+	<tabTrigger>nativeOrientation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

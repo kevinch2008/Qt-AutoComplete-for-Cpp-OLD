@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+standardWindow($1);
+]]></content>
+	<tabTrigger>standardWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

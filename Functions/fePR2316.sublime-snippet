@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+featurePermissionRequested($1);
+]]></content>
+	<tabTrigger>featurePermissionRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

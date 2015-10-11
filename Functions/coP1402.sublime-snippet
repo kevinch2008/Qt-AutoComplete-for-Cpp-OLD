@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+connectPath($1);
+]]></content>
+	<tabTrigger>connectPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toReversed($1);
+]]></content>
+	<tabTrigger>toReversed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

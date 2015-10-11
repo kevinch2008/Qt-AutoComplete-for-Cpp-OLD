@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumMargins($1);
+]]></content>
+	<tabTrigger>maximumMargins</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

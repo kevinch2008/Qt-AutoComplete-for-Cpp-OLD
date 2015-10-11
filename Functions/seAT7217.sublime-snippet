@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoTransform($1);
+]]></content>
+	<tabTrigger>setAutoTransform</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

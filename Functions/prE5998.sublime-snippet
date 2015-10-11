@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+primaryEmail($1);
+]]></content>
+	<tabTrigger>primaryEmail</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

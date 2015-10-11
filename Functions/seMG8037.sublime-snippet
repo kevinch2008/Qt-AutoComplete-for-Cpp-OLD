@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaskGenerator($1);
+]]></content>
+	<tabTrigger>setMaskGenerator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

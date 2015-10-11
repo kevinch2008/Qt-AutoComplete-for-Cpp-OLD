@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoValue($1);
+]]></content>
+	<tabTrigger>setAutoValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

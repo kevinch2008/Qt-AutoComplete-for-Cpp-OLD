@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAnonymousAuthenticationAllowed($1);
+]]></content>
+	<tabTrigger>setAnonymousAuthenticationAllowed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

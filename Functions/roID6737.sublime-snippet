@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rootIsDecorated($1);
+]]></content>
+	<tabTrigger>rootIsDecorated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

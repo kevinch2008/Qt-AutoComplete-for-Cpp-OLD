@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glConvolutionParameterfv($1);
+]]></content>
+	<tabTrigger>glConvolutionParameterfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

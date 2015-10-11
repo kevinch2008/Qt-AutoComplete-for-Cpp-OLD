@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getOpenFileUrl($1);
+]]></content>
+	<tabTrigger>getOpenFileUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

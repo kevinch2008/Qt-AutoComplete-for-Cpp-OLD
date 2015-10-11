@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glLoadMatrixf($1);
+]]></content>
+	<tabTrigger>glLoadMatrixf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

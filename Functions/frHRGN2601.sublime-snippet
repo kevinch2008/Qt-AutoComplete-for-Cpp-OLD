@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromHRGN($1);
+]]></content>
+	<tabTrigger>fromHRGN</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

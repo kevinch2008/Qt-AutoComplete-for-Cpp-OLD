@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPageLayout($1);
+]]></content>
+	<tabTrigger>setPageLayout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

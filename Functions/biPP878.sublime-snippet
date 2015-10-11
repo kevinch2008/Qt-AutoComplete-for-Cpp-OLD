@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bitsPerPixel($1);
+]]></content>
+	<tabTrigger>bitsPerPixel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+grid($1);
+]]></content>
+	<tabTrigger>grid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

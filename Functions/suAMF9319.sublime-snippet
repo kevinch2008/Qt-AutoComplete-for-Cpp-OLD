@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedAreaMonitorFeatures($1);
+]]></content>
+	<tabTrigger>supportedAreaMonitorFeatures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

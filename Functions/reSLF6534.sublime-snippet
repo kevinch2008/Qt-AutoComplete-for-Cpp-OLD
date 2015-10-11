@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeStaleLockFile($1);
+]]></content>
+	<tabTrigger>removeStaleLockFile</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

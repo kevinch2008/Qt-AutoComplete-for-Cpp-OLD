@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDescent($1);
+]]></content>
+	<tabTrigger>setDescent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

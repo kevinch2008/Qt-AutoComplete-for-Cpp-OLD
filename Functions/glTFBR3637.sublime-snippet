@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTransformFeedbackBufferRange($1);
+]]></content>
+	<tabTrigger>glTransformFeedbackBufferRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

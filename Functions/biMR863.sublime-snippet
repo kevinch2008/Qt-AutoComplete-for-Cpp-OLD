@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+binaryMessageReceived($1);
+]]></content>
+	<tabTrigger>binaryMessageReceived</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

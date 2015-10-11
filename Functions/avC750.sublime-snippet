@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availableCameras($1);
+]]></content>
+	<tabTrigger>availableCameras</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

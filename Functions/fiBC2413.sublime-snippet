@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+findBufferChanged($1);
+]]></content>
+	<tabTrigger>findBufferChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

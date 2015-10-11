@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+primeInsert($1);
+]]></content>
+	<tabTrigger>primeInsert</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

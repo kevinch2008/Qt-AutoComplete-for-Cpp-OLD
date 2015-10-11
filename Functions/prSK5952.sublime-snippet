@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+preSharedKey($1);
+]]></content>
+	<tabTrigger>preSharedKey</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

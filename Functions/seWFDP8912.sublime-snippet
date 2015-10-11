@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWindowFlip3DPolicy($1);
+]]></content>
+	<tabTrigger>setWindowFlip3DPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

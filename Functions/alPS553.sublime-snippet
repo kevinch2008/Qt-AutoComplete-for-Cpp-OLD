@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allocatorPoolSize($1);
+]]></content>
+	<tabTrigger>allocatorPoolSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sendTextMessage($1);
+]]></content>
+	<tabTrigger>sendTextMessage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

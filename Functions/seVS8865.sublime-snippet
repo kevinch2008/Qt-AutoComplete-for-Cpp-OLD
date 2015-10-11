@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVideoSettings($1);
+]]></content>
+	<tabTrigger>setVideoSettings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

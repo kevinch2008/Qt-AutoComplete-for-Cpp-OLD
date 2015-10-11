@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+itemCollapsed($1);
+]]></content>
+	<tabTrigger>itemCollapsed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

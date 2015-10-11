@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+offlineWebApplicationCachePath($1);
+]]></content>
+	<tabTrigger>offlineWebApplicationCachePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

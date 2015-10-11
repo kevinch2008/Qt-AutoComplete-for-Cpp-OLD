@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+topLevelWindows($1);
+]]></content>
+	<tabTrigger>topLevelWindows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetTextureLevelParameterfv($1);
+]]></content>
+	<tabTrigger>glGetTextureLevelParameterfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

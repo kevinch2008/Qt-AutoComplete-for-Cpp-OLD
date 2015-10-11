@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glWindowPos3sv($1);
+]]></content>
+	<tabTrigger>glWindowPos3sv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

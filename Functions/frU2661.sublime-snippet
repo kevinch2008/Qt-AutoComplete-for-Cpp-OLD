@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromUtf8($1);
+]]></content>
+	<tabTrigger>fromUtf8</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

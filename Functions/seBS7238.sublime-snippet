@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBatchSize($1);
+]]></content>
+	<tabTrigger>setBatchSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearPositionalArguments($1);
+]]></content>
+	<tabTrigger>clearPositionalArguments</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDesignerObjectInspectorInterface
+]]></content>
+	<tabTrigger>QDesignerObjectInspectorInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

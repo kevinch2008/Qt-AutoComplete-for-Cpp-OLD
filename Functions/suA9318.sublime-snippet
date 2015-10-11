@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedApertures($1);
+]]></content>
+	<tabTrigger>supportedApertures</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

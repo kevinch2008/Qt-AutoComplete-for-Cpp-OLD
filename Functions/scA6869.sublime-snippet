@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+screenAdded($1);
+]]></content>
+	<tabTrigger>screenAdded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

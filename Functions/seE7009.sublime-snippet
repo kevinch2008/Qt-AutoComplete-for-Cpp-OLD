@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectionEnd($1);
+]]></content>
+	<tabTrigger>selectionEnd</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

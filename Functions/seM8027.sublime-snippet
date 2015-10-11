@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setManeuver($1);
+]]></content>
+	<tabTrigger>setManeuver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

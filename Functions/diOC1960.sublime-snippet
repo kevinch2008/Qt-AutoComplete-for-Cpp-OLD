@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dismissOnClick($1);
+]]></content>
+	<tabTrigger>dismissOnClick</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

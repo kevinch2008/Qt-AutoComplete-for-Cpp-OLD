@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sceneGraphChanged($1);
+]]></content>
+	<tabTrigger>sceneGraphChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

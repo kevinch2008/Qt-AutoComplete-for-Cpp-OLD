@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QColumnView
+]]></content>
+	<tabTrigger>QColumnView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

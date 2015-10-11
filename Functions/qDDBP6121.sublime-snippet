@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qDrawBorderPixmap($1);
+]]></content>
+	<tabTrigger>qDrawBorderPixmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

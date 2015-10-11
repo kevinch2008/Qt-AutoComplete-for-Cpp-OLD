@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTexParameteri($1);
+]]></content>
+	<tabTrigger>glTexParameteri</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

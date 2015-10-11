@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peerName($1);
+]]></content>
+	<tabTrigger>peerName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+objectCast($1);
+]]></content>
+	<tabTrigger>objectCast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

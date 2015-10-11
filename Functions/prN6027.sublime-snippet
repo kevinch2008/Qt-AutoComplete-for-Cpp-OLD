@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+processName($1);
+]]></content>
+	<tabTrigger>processName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

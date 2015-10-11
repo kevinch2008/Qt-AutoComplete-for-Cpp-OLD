@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mousePressAndHoldInterval($1);
+]]></content>
+	<tabTrigger>mousePressAndHoldInterval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

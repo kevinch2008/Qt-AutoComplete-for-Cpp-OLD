@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+registerAspect($1);
+]]></content>
+	<tabTrigger>registerAspect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTextureBufferRange($1);
+]]></content>
+	<tabTrigger>glTextureBufferRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

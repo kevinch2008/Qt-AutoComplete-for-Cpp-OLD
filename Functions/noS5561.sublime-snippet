@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+normalizedSignature($1);
+]]></content>
+	<tabTrigger>normalizedSignature</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

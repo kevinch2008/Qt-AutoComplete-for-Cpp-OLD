@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMetaEnum
+]]></content>
+	<tabTrigger>QMetaEnum</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

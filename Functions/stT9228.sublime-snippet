@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+statusTip($1);
+]]></content>
+	<tabTrigger>statusTip</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

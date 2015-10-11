@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTouchWindowTouchType($1);
+]]></content>
+	<tabTrigger>setTouchWindowTouchType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

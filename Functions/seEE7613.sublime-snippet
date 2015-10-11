@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setEffectEnabled($1);
+]]></content>
+	<tabTrigger>setEffectEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

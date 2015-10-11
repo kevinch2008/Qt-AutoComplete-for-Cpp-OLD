@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetIntegeri_v($1);
+]]></content>
+	<tabTrigger>glGetIntegeri_v</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

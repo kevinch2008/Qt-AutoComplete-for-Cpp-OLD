@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+noforcepoint($1);
+]]></content>
+	<tabTrigger>noforcepoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

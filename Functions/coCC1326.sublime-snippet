@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+columnCountChanged($1);
+]]></content>
+	<tabTrigger>columnCountChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

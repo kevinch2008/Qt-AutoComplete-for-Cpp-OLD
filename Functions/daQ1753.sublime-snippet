@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+databaseQuota($1);
+]]></content>
+	<tabTrigger>databaseQuota</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

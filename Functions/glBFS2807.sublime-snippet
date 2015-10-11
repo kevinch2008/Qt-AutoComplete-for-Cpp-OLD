@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBlendFuncSeparate($1);
+]]></content>
+	<tabTrigger>glBlendFuncSeparate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

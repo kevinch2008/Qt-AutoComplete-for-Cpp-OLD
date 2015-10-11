@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+absoluteDir($1);
+]]></content>
+	<tabTrigger>absoluteDir</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

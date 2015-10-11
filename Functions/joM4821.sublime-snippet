@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+jobManager($1);
+]]></content>
+	<tabTrigger>jobManager</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontCapitalization($1);
+]]></content>
+	<tabTrigger>fontCapitalization</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

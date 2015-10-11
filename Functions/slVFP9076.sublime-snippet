@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sliderValueFromPosition($1);
+]]></content>
+	<tabTrigger>sliderValueFromPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTextWidth($1);
+]]></content>
+	<tabTrigger>setTextWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumWidthChanged($1);
+]]></content>
+	<tabTrigger>maximumWidthChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

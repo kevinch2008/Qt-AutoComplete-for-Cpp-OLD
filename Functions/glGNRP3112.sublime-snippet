@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetNamedRenderbufferParameteriv($1);
+]]></content>
+	<tabTrigger>glGetNamedRenderbufferParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

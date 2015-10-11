@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFacingPagesViewMode($1);
+]]></content>
+	<tabTrigger>setFacingPagesViewMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

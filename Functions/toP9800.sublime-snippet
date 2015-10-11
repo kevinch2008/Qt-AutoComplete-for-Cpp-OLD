@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+togglePaused($1);
+]]></content>
+	<tabTrigger>togglePaused</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

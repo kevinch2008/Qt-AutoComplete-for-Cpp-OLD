@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+slerp($1);
+]]></content>
+	<tabTrigger>slerp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

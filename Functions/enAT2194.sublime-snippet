@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ensureActiveTarget($1);
+]]></content>
+	<tabTrigger>ensureActiveTarget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

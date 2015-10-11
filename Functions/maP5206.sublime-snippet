@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maxPoint($1);
+]]></content>
+	<tabTrigger>maxPoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

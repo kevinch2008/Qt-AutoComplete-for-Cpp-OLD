@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sort($1);
+]]></content>
+	<tabTrigger>sort</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

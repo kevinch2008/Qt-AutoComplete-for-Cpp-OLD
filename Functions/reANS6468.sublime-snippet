@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeAttributeNS($1);
+]]></content>
+	<tabTrigger>removeAttributeNS</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mergeCharFormat($1);
+]]></content>
+	<tabTrigger>mergeCharFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

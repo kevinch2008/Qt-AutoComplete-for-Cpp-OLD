@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+viewTransformEnabled($1);
+]]></content>
+	<tabTrigger>viewTransformEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

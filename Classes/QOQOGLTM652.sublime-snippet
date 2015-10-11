@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QOpenGLTimeMonitor
+]]></content>
+	<tabTrigger>QOpenGLTimeMonitor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

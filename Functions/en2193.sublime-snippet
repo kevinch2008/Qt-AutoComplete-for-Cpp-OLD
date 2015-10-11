@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+enqueue($1);
+]]></content>
+	<tabTrigger>enqueue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QStyleOptionFocusRect
+]]></content>
+	<tabTrigger>QStyleOptionFocusRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

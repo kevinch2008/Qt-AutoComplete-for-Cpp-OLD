@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writeDTD($1);
+]]></content>
+	<tabTrigger>writeDTD</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

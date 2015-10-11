@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFloor($1);
+]]></content>
+	<tabTrigger>qFloor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+marginsPixels($1);
+]]></content>
+	<tabTrigger>marginsPixels</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minimumRenderSize($1);
+]]></content>
+	<tabTrigger>minimumRenderSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

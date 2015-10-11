@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAntennaConnected($1);
+]]></content>
+	<tabTrigger>isAntennaConnected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

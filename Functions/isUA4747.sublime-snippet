@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isUndoAvailable($1);
+]]></content>
+	<tabTrigger>isUndoAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

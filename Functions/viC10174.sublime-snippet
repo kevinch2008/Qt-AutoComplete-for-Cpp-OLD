@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visualColumn($1);
+]]></content>
+	<tabTrigger>visualColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

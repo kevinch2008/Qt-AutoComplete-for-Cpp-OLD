@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+countryToString($1);
+]]></content>
+	<tabTrigger>countryToString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

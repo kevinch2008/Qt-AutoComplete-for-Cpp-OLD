@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mountedVolumes($1);
+]]></content>
+	<tabTrigger>mountedVolumes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

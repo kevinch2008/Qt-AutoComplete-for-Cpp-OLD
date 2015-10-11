@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearMinimumTime($1);
+]]></content>
+	<tabTrigger>clearMinimumTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDrawingMode($1);
+]]></content>
+	<tabTrigger>setDrawingMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_OS_RELIANT($1);
+]]></content>
+	<tabTrigger>Q_OS_RELIANT</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

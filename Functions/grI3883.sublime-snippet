@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+groupId($1);
+]]></content>
+	<tabTrigger>groupId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

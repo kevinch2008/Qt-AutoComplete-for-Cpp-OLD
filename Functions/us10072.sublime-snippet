@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+usleep($1);
+]]></content>
+	<tabTrigger>usleep</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

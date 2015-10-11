@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createSeparatedList($1);
+]]></content>
+	<tabTrigger>createSeparatedList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

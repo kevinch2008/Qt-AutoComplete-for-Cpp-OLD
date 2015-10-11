@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSkipImages($1);
+]]></content>
+	<tabTrigger>setSkipImages</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

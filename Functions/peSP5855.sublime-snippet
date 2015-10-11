@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+persistentStoragePath($1);
+]]></content>
+	<tabTrigger>persistentStoragePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

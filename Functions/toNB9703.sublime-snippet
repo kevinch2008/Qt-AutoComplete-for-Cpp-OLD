@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toNextBoundary($1);
+]]></content>
+	<tabTrigger>toNextBoundary</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

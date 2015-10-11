@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glCullFace($1);
+]]></content>
+	<tabTrigger>glCullFace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

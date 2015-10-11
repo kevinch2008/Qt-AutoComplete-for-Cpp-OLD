@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+uniformOpacityName($1);
+]]></content>
+	<tabTrigger>uniformOpacityName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

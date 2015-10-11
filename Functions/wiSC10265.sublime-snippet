@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+windowStateChanged($1);
+]]></content>
+	<tabTrigger>windowStateChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

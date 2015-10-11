@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+internalId($1);
+]]></content>
+	<tabTrigger>internalId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

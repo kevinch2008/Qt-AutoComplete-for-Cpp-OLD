@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+workingDirectory($1);
+]]></content>
+	<tabTrigger>workingDirectory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

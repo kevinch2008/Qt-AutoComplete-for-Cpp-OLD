@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAXFACTORY_END($1);
+]]></content>
+	<tabTrigger>QAXFACTORY_END</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

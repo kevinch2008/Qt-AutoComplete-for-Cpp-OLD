@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+collectGarbage($1);
+]]></content>
+	<tabTrigger>collectGarbage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtWebChannel>
+]]></content>
+	<tabTrigger>QtWebChannel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

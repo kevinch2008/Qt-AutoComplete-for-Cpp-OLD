@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+verticalMovementX($1);
+]]></content>
+	<tabTrigger>verticalMovementX</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

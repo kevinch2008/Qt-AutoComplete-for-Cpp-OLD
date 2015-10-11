@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStaticContents($1);
+]]></content>
+	<tabTrigger>setStaticContents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

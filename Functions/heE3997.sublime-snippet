@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+helpEvent($1);
+]]></content>
+	<tabTrigger>helpEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

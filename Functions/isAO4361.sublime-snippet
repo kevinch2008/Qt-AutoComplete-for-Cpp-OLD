@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAlwaysOn($1);
+]]></content>
+	<tabTrigger>isAlwaysOn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

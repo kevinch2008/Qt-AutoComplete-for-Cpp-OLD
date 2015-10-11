@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+checkConnectArgs($1);
+]]></content>
+	<tabTrigger>checkConnectArgs</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

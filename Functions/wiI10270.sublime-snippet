@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+windowsId($1);
+]]></content>
+	<tabTrigger>windowsId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

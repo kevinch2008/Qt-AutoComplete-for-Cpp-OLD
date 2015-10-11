@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glSecondaryColor3bv($1);
+]]></content>
+	<tabTrigger>glSecondaryColor3bv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reload($1);
+]]></content>
+	<tabTrigger>reload</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

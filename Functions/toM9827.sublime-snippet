@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+topMargin($1);
+]]></content>
+	<tabTrigger>topMargin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

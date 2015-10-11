@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+internalTextureFormat($1);
+]]></content>
+	<tabTrigger>internalTextureFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+expanding($1);
+]]></content>
+	<tabTrigger>expanding</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

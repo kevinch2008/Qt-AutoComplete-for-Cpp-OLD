@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMultiDrawArrays($1);
+]]></content>
+	<tabTrigger>glMultiDrawArrays</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

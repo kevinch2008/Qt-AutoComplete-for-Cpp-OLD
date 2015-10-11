@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPaintDevice($1);
+]]></content>
+	<tabTrigger>setPaintDevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

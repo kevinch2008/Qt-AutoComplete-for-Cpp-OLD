@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetGraphicsResetStatus($1);
+]]></content>
+	<tabTrigger>glGetGraphicsResetStatus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

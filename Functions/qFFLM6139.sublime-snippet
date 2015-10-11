@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFormatLogMessage($1);
+]]></content>
+	<tabTrigger>qFormatLogMessage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

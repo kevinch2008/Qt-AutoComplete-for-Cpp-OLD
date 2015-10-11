@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+standardBaudRates($1);
+]]></content>
+	<tabTrigger>standardBaudRates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

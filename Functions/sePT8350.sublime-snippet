@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setProjectionType($1);
+]]></content>
+	<tabTrigger>setProjectionType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

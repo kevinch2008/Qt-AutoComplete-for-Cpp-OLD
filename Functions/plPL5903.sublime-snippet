@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pluginPathList($1);
+]]></content>
+	<tabTrigger>pluginPathList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

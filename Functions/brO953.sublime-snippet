@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+brushOrigin($1);
+]]></content>
+	<tabTrigger>brushOrigin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

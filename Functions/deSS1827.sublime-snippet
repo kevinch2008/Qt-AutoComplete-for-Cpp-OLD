@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultSectionSize($1);
+]]></content>
+	<tabTrigger>defaultSectionSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

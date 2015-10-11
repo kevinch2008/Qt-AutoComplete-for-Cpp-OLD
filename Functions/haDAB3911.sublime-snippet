@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasDefaultAlphaBuffer($1);
+]]></content>
+	<tabTrigger>hasDefaultAlphaBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

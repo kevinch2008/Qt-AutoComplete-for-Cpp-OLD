@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+profile($1);
+]]></content>
+	<tabTrigger>profile</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

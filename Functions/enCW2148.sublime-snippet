@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+encloseContentsWith($1);
+]]></content>
+	<tabTrigger>encloseContentsWith</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

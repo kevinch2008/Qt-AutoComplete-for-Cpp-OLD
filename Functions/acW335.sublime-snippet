@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+activateWindow($1);
+]]></content>
+	<tabTrigger>activateWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

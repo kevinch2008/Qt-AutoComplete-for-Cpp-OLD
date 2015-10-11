@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+redSize($1);
+]]></content>
+	<tabTrigger>redSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

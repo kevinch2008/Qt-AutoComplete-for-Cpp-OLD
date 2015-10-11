@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operationType($1);
+]]></content>
+	<tabTrigger>operationType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

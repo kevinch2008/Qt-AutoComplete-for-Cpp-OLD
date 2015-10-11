@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clsid($1);
+]]></content>
+	<tabTrigger>clsid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

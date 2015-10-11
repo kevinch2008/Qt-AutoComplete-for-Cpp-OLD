@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QOpenGLDebugMessage
+]]></content>
+	<tabTrigger>QOpenGLDebugMessage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

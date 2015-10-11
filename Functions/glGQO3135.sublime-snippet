@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetQueryObjectui64v($1);
+]]></content>
+	<tabTrigger>glGetQueryObjectui64v</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

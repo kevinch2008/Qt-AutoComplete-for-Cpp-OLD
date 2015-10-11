@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMetaInformation($1);
+]]></content>
+	<tabTrigger>setMetaInformation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

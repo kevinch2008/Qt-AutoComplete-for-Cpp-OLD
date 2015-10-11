@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSqlError
+]]></content>
+	<tabTrigger>QSqlError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

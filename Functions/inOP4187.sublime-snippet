@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+indexOfProperty($1);
+]]></content>
+	<tabTrigger>indexOfProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

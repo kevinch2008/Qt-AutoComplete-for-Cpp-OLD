@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+registerTypes($1);
+]]></content>
+	<tabTrigger>registerTypes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

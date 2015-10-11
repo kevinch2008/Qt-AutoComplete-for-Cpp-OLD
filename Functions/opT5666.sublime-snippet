@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operatorT($1);
+]]></content>
+	<tabTrigger>operatorT</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

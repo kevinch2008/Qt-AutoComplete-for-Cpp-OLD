@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+asprintf($1);
+]]></content>
+	<tabTrigger>asprintf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

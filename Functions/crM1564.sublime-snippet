@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createMenu($1);
+]]></content>
+	<tabTrigger>createMenu</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

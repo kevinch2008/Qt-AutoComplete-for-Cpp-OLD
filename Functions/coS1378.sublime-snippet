@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+completeSuffix($1);
+]]></content>
+	<tabTrigger>completeSuffix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

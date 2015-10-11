@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rwidth($1);
+]]></content>
+	<tabTrigger>rwidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

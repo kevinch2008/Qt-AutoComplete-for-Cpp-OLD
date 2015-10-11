@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClearDepthf($1);
+]]></content>
+	<tabTrigger>glClearDepthf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

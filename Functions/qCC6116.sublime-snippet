@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qCritical($1);
+]]></content>
+	<tabTrigger>qCritical</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

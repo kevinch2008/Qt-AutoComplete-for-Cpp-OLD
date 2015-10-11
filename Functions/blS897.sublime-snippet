@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blockSignals($1);
+]]></content>
+	<tabTrigger>blockSignals</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

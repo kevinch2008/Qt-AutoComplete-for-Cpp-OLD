@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glEvalCoord1d($1);
+]]></content>
+	<tabTrigger>glEvalCoord1d</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

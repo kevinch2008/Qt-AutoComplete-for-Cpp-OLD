@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlSchemaValidator
+]]></content>
+	<tabTrigger>QXmlSchemaValidator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

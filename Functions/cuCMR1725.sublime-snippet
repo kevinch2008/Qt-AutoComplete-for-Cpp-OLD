@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+customContextMenuRequested($1);
+]]></content>
+	<tabTrigger>customContextMenuRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

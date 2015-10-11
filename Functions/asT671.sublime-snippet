@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+aspectType($1);
+]]></content>
+	<tabTrigger>aspectType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

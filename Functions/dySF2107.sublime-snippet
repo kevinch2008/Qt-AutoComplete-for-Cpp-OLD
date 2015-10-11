@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dynamicSortFilter($1);
+]]></content>
+	<tabTrigger>dynamicSortFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

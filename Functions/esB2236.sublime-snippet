@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+escapeButton($1);
+]]></content>
+	<tabTrigger>escapeButton</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

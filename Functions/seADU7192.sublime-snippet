@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoDetectUnicode($1);
+]]></content>
+	<tabTrigger>setAutoDetectUnicode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

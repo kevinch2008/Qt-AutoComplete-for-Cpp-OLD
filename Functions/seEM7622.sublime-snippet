@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setEncodingMode($1);
+]]></content>
+	<tabTrigger>setEncodingMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

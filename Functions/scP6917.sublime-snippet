@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scrollerProperties($1);
+]]></content>
+	<tabTrigger>scrollerProperties</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

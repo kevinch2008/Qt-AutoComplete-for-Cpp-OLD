@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetTransformFeedbackVarying($1);
+]]></content>
+	<tabTrigger>glGetTransformFeedbackVarying</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

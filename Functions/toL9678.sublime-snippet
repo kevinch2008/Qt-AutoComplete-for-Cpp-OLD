@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toLast($1);
+]]></content>
+	<tabTrigger>toLast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

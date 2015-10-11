@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSatelliteSystem($1);
+]]></content>
+	<tabTrigger>setSatelliteSystem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

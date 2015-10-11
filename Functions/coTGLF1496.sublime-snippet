@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+convertToGLFormat($1);
+]]></content>
+	<tabTrigger>convertToGLFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

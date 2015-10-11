@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+filterAcceptsRow($1);
+]]></content>
+	<tabTrigger>filterAcceptsRow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

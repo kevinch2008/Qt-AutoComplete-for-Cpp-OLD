@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+undefinedValue($1);
+]]></content>
+	<tabTrigger>undefinedValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

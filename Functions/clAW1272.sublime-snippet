@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+closeAllWindows($1);
+]]></content>
+	<tabTrigger>closeAllWindows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

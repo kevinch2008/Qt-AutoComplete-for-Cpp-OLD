@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+locale($1);
+]]></content>
+	<tabTrigger>locale</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

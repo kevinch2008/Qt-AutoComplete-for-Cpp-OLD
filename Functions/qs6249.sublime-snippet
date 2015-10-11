@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qstrlen($1);
+]]></content>
+	<tabTrigger>qstrlen</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

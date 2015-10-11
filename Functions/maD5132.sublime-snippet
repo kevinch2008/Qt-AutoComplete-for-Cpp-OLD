@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mapDependables($1);
+]]></content>
+	<tabTrigger>mapDependables</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

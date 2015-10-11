@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetQueryObjectuiv($1);
+]]></content>
+	<tabTrigger>glGetQueryObjectuiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

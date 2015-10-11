@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSizePolicy
+]]></content>
+	<tabTrigger>QSizePolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

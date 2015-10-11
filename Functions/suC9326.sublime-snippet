@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedCiphers($1);
+]]></content>
+	<tabTrigger>supportedCiphers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

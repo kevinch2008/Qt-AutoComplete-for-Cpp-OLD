@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sessionTicket($1);
+]]></content>
+	<tabTrigger>sessionTicket</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

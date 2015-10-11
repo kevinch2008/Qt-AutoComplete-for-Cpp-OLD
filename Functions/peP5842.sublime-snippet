@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+penProperty($1);
+]]></content>
+	<tabTrigger>penProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

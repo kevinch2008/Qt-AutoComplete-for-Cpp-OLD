@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+channelCount($1);
+]]></content>
+	<tabTrigger>channelCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

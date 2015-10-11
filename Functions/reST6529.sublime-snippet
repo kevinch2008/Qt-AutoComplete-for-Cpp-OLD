@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeSelectedText($1);
+]]></content>
+	<tabTrigger>removeSelectedText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+restoreGeometry($1);
+]]></content>
+	<tabTrigger>restoreGeometry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

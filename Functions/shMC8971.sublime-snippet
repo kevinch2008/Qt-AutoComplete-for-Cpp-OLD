@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+shareModesChanged($1);
+]]></content>
+	<tabTrigger>shareModesChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

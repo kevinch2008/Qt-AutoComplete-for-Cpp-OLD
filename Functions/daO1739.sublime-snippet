@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dashOffset($1);
+]]></content>
+	<tabTrigger>dashOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasOwnProperty($1);
+]]></content>
+	<tabTrigger>hasOwnProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

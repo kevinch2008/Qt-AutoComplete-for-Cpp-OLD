@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+propertyEditor($1);
+]]></content>
+	<tabTrigger>propertyEditor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

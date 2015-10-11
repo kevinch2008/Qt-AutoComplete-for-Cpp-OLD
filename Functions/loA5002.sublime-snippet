@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+loadAcquire($1);
+]]></content>
+	<tabTrigger>loadAcquire</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

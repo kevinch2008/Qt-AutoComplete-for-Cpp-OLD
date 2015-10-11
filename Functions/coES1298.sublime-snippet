@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+collapseExtendedSearch($1);
+]]></content>
+	<tabTrigger>collapseExtendedSearch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+saveFrameStateRequested($1);
+]]></content>
+	<tabTrigger>saveFrameStateRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

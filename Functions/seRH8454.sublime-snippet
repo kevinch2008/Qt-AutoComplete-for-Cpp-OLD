@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRowHidden($1);
+]]></content>
+	<tabTrigger>setRowHidden</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

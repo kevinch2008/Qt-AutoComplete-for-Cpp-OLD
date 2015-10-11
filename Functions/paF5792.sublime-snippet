@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parentFrame($1);
+]]></content>
+	<tabTrigger>parentFrame</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+namespaceBindings($1);
+]]></content>
+	<tabTrigger>namespaceBindings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+conjugated($1);
+]]></content>
+	<tabTrigger>conjugated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

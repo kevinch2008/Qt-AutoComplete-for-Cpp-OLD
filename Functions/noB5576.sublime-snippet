@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+notificationsBlocked($1);
+]]></content>
+	<tabTrigger>notificationsBlocked</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

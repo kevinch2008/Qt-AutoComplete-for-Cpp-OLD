@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scrollContentsBy($1);
+]]></content>
+	<tabTrigger>scrollContentsBy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

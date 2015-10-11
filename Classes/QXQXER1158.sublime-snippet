@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlEntityResolver
+]]></content>
+	<tabTrigger>QXmlEntityResolver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

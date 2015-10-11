@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qWeakPointerCast($1);
+]]></content>
+	<tabTrigger>qWeakPointerCast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

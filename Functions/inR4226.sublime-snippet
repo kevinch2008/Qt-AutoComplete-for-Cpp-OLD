@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+initializeRemote($1);
+]]></content>
+	<tabTrigger>initializeRemote</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

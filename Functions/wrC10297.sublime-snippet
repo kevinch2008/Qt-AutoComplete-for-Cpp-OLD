@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writeComment($1);
+]]></content>
+	<tabTrigger>writeComment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

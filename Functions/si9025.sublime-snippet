@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sibling($1);
+]]></content>
+	<tabTrigger>sibling</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSystemTrayAvailable($1);
+]]></content>
+	<tabTrigger>isSystemTrayAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

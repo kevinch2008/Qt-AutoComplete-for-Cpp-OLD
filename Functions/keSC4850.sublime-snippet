@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+keySequenceChanged($1);
+]]></content>
+	<tabTrigger>keySequenceChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

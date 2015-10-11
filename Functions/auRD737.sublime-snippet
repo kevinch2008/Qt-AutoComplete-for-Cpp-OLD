@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoRepeatDelay($1);
+]]></content>
+	<tabTrigger>autoRepeatDelay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasMatch($1);
+]]></content>
+	<tabTrigger>hasMatch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

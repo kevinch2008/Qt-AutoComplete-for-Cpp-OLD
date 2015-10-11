@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+temperature($1);
+]]></content>
+	<tabTrigger>temperature</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operatorQString($1);
+]]></content>
+	<tabTrigger>operatorQString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

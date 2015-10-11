@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isGrayscale($1);
+]]></content>
+	<tabTrigger>isGrayscale</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

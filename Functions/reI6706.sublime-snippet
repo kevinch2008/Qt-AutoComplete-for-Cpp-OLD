@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reviewId($1);
+]]></content>
+	<tabTrigger>reviewId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

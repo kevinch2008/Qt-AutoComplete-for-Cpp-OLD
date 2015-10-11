@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fullRectPoints($1);
+]]></content>
+	<tabTrigger>fullRectPoints</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

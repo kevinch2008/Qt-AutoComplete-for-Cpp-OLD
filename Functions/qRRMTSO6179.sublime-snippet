@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRegisterMetaTypeStreamOperators($1);
+]]></content>
+	<tabTrigger>qRegisterMetaTypeStreamOperators</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

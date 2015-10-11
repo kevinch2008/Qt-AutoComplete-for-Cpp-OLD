@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPinchGesture
+]]></content>
+	<tabTrigger>QPinchGesture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

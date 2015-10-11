@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globalY($1);
+]]></content>
+	<tabTrigger>globalY</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hueF($1);
+]]></content>
+	<tabTrigger>hueF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+translateKeyEvent($1);
+]]></content>
+	<tabTrigger>translateKeyEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

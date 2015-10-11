@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isConnected($1);
+]]></content>
+	<tabTrigger>isConnected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

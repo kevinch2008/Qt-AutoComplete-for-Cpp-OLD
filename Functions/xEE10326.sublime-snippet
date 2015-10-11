@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+xExtent($1);
+]]></content>
+	<tabTrigger>xExtent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

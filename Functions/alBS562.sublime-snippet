@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+alphaBufferSize($1);
+]]></content>
+	<tabTrigger>alphaBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

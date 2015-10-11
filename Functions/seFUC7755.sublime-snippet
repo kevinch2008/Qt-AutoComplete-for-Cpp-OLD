@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setForwardUnsupportedContent($1);
+]]></content>
+	<tabTrigger>setForwardUnsupportedContent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

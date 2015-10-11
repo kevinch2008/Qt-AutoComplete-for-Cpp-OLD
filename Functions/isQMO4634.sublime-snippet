@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isQMetaObject($1);
+]]></content>
+	<tabTrigger>isQMetaObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

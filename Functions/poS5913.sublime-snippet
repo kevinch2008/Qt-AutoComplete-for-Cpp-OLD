@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pointSizes($1);
+]]></content>
+	<tabTrigger>pointSizes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

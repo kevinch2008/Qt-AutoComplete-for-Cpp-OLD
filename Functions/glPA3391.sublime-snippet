@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPopAttrib($1);
+]]></content>
+	<tabTrigger>glPopAttrib</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

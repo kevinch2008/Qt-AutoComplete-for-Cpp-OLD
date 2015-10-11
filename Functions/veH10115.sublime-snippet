@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+verticalHeader($1);
+]]></content>
+	<tabTrigger>verticalHeader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peerVerifyMode($1);
+]]></content>
+	<tabTrigger>peerVerifyMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

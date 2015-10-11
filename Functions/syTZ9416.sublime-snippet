@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+systemTimeZone($1);
+]]></content>
+	<tabTrigger>systemTimeZone</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

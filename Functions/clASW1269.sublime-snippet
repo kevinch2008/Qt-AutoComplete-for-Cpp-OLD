@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+closeActiveSubWindow($1);
+]]></content>
+	<tabTrigger>closeActiveSubWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

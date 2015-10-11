@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+generatedIconPixmap($1);
+]]></content>
+	<tabTrigger>generatedIconPixmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

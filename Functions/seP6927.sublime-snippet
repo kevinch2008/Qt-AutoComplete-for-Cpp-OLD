@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+searchPaths($1);
+]]></content>
+	<tabTrigger>searchPaths</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

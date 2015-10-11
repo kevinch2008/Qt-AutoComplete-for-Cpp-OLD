@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stepUp($1);
+]]></content>
+	<tabTrigger>stepUp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

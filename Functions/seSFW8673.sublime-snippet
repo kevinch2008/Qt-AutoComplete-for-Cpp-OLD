@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSupportedFeatureWeights($1);
+]]></content>
+	<tabTrigger>setSupportedFeatureWeights</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

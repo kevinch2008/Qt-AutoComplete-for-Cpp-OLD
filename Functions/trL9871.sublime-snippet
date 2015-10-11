@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+translationList($1);
+]]></content>
+	<tabTrigger>translationList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

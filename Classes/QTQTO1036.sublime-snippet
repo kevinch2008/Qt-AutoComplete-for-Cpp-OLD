@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTextOption
+]]></content>
+	<tabTrigger>QTextOption</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

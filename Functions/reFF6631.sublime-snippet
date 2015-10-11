@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resetFontFamily($1);
+]]></content>
+	<tabTrigger>resetFontFamily</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

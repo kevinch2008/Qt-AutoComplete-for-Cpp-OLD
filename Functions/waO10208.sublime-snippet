@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+wakeOne($1);
+]]></content>
+	<tabTrigger>wakeOne</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

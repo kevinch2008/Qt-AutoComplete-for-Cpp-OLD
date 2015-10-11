@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isDTD($1);
+]]></content>
+	<tabTrigger>isDTD</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

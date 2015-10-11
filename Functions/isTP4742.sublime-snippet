@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTransparentProxy($1);
+]]></content>
+	<tabTrigger>isTransparentProxy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

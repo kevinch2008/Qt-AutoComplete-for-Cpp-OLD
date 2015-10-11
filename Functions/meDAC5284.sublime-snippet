@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+metaDataAvailableChanged($1);
+]]></content>
+	<tabTrigger>metaDataAvailableChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

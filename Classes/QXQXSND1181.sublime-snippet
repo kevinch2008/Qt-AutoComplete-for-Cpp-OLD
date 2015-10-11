@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlStreamNamespaceDeclaration
+]]></content>
+	<tabTrigger>QXmlStreamNamespaceDeclaration</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

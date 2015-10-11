@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lineWrapMode($1);
+]]></content>
+	<tabTrigger>lineWrapMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearUndoRedoStacks($1);
+]]></content>
+	<tabTrigger>clearUndoRedoStacks</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

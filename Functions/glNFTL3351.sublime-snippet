@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glNamedFramebufferTextureLayer($1);
+]]></content>
+	<tabTrigger>glNamedFramebufferTextureLayer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

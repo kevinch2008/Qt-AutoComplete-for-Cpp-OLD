@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+yCbCrColorSpace($1);
+]]></content>
+	<tabTrigger>yCbCrColorSpace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

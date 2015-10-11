@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromPolar($1);
+]]></content>
+	<tabTrigger>fromPolar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

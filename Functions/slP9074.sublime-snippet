@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sliderPressed($1);
+]]></content>
+	<tabTrigger>sliderPressed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

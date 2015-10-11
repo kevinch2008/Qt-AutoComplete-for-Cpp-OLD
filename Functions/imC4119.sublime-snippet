@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+imageCaptured($1);
+]]></content>
+	<tabTrigger>imageCaptured</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

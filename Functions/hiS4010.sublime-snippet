@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hideSection($1);
+]]></content>
+	<tabTrigger>hideSection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

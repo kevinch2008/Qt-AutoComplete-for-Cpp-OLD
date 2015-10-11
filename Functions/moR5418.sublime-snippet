@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+moveRows($1);
+]]></content>
+	<tabTrigger>moveRows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

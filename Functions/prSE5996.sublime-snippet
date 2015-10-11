@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+previousSiblingElement($1);
+]]></content>
+	<tabTrigger>previousSiblingElement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

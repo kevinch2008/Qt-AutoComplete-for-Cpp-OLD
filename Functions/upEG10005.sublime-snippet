@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateEditorGeometry($1);
+]]></content>
+	<tabTrigger>updateEditorGeometry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

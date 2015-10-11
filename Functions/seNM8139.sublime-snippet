@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNavigationMode($1);
+]]></content>
+	<tabTrigger>setNavigationMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

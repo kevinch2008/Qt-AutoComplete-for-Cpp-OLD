@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setProjectionMatrix($1);
+]]></content>
+	<tabTrigger>setProjectionMatrix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+underlineColor($1);
+]]></content>
+	<tabTrigger>underlineColor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

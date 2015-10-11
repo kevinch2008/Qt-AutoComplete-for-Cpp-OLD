@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+msecsTo($1);
+]]></content>
+	<tabTrigger>msecsTo</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

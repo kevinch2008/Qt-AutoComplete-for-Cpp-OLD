@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+decimalPoint($1);
+]]></content>
+	<tabTrigger>decimalPoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

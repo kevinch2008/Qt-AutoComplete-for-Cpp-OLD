@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearOverlayIcon($1);
+]]></content>
+	<tabTrigger>clearOverlayIcon</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

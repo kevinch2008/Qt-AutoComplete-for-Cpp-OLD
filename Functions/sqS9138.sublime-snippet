@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sqlStatement($1);
+]]></content>
+	<tabTrigger>sqlStatement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPixmapCache
+]]></content>
+	<tabTrigger>QPixmapCache</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

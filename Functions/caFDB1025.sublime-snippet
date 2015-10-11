@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+calledFromDBus($1);
+]]></content>
+	<tabTrigger>calledFromDBus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

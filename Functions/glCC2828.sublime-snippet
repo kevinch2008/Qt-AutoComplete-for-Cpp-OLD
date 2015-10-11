@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClearColor($1);
+]]></content>
+	<tabTrigger>glClearColor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cursorRectangle($1);
+]]></content>
+	<tabTrigger>cursorRectangle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

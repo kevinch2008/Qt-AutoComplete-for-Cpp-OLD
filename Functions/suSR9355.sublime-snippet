@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedSampleRates($1);
+]]></content>
+	<tabTrigger>supportedSampleRates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

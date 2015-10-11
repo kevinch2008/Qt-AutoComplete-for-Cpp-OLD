@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QProgressBar
+]]></content>
+	<tabTrigger>QProgressBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

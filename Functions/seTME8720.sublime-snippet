@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTestModeEnabled($1);
+]]></content>
+	<tabTrigger>setTestModeEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

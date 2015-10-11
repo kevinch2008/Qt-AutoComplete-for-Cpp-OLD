@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sortCaseSensitivity($1);
+]]></content>
+	<tabTrigger>sortCaseSensitivity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

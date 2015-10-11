@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isOverridable($1);
+]]></content>
+	<tabTrigger>isOverridable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

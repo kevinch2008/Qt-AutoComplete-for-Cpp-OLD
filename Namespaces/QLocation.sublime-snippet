@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QLocation>
+]]></content>
+	<tabTrigger>QLocation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

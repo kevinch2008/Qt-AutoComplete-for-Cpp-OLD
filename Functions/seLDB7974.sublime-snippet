@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLevelofDetailBias($1);
+]]></content>
+	<tabTrigger>setLevelofDetailBias</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

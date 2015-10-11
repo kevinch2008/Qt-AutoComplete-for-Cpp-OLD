@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allowedItems($1);
+]]></content>
+	<tabTrigger>allowedItems</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

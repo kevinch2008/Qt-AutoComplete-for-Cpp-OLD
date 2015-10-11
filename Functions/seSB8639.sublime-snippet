@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStatusBar($1);
+]]></content>
+	<tabTrigger>setStatusBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

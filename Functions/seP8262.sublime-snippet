@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPayload($1);
+]]></content>
+	<tabTrigger>setPayload</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

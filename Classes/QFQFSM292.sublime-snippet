@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QFileSystemModel
+]]></content>
+	<tabTrigger>QFileSystemModel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

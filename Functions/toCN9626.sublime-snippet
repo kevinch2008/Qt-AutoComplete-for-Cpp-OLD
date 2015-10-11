@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toClarkName($1);
+]]></content>
+	<tabTrigger>toClarkName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

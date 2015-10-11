@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+preeditAreaText($1);
+]]></content>
+	<tabTrigger>preeditAreaText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

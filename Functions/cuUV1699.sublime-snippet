@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentUnicodeVersion($1);
+]]></content>
+	<tabTrigger>currentUnicodeVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

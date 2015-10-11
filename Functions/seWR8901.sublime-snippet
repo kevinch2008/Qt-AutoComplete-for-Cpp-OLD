@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWidgetResizable($1);
+]]></content>
+	<tabTrigger>setWidgetResizable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

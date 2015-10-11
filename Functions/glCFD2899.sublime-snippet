@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glConvolutionFilter1D($1);
+]]></content>
+	<tabTrigger>glConvolutionFilter1D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

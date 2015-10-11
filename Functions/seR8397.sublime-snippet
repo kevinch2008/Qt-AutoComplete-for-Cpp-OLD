@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRelation($1);
+]]></content>
+	<tabTrigger>setRelation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

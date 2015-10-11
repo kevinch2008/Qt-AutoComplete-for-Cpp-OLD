@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaximumSectionSize($1);
+]]></content>
+	<tabTrigger>setMaximumSectionSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

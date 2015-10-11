@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availablePlaybackRangesChanged($1);
+]]></content>
+	<tabTrigger>availablePlaybackRangesChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

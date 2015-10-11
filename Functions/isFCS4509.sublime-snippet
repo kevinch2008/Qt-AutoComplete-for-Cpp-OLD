@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isFirstColumnSpanned($1);
+]]></content>
+	<tabTrigger>isFirstColumnSpanned</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

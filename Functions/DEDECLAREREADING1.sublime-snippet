@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+DECLARE_READING($1);
+]]></content>
+	<tabTrigger>DECLARE_READING</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMultiTexCoord3dv($1);
+]]></content>
+	<tabTrigger>glMultiTexCoord3dv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

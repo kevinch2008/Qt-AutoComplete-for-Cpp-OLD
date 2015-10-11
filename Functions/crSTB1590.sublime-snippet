@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createStandardToolBar($1);
+]]></content>
+	<tabTrigger>createStandardToolBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

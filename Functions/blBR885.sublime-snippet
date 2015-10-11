@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blockBoundingRect($1);
+]]></content>
+	<tabTrigger>blockBoundingRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestedAperture($1);
+]]></content>
+	<tabTrigger>requestedAperture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

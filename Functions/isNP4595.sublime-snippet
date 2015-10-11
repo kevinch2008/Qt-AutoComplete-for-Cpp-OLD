@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isNativePath($1);
+]]></content>
+	<tabTrigger>isNativePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

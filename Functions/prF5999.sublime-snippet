@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+primaryFax($1);
+]]></content>
+	<tabTrigger>primaryFax</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

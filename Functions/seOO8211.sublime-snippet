@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOriginatingObject($1);
+]]></content>
+	<tabTrigger>setOriginatingObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

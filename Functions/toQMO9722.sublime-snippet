@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toQMetaObject($1);
+]]></content>
+	<tabTrigger>toQMetaObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

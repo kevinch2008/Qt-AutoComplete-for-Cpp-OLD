@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+forwardHistoryCount($1);
+]]></content>
+	<tabTrigger>forwardHistoryCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

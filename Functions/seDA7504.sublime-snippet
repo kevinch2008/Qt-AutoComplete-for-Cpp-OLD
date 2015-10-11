@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDefaultAlignment($1);
+]]></content>
+	<tabTrigger>setDefaultAlignment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

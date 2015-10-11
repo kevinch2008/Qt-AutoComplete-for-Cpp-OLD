@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetNamedBufferParameteri64v($1);
+]]></content>
+	<tabTrigger>glGetNamedBufferParameteri64v</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

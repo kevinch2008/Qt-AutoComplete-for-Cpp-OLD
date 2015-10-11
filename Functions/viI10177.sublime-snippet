@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visualIndex($1);
+]]></content>
+	<tabTrigger>visualIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

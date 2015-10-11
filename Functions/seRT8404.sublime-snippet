@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRenderableType($1);
+]]></content>
+	<tabTrigger>setRenderableType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

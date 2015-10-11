@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pressure($1);
+]]></content>
+	<tabTrigger>pressure</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

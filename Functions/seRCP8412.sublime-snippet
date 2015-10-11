@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setResizeContentsPrecision($1);
+]]></content>
+	<tabTrigger>setResizeContentsPrecision</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

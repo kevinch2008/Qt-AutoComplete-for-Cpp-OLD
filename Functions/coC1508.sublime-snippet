@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+copyCount($1);
+]]></content>
+	<tabTrigger>copyCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

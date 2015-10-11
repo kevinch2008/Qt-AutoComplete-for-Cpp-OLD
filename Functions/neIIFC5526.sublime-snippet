@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nextItemInFocusChain($1);
+]]></content>
+	<tabTrigger>nextItemInFocusChain</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

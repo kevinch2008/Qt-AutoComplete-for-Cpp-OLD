@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+interfaceFromIndex($1);
+]]></content>
+	<tabTrigger>interfaceFromIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFrustumProjection($1);
+]]></content>
+	<tabTrigger>setFrustumProjection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

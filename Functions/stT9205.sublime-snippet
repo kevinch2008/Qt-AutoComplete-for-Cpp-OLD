@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startTimer($1);
+]]></content>
+	<tabTrigger>startTimer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lineHeightType($1);
+]]></content>
+	<tabTrigger>lineHeightType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateDynamicTexture($1);
+]]></content>
+	<tabTrigger>updateDynamicTexture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

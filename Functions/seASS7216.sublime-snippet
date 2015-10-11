@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoStartService($1);
+]]></content>
+	<tabTrigger>setAutoStartService</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

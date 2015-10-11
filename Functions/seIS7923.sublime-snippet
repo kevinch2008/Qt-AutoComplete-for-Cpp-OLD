@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setItemSpacing($1);
+]]></content>
+	<tabTrigger>setItemSpacing</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

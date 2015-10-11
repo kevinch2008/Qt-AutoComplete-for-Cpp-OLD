@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sectionMoved($1);
+]]></content>
+	<tabTrigger>sectionMoved</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

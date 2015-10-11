@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glOrtho($1);
+]]></content>
+	<tabTrigger>glOrtho</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

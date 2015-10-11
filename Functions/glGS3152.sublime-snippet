@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetSynciv($1);
+]]></content>
+	<tabTrigger>glGetSynciv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

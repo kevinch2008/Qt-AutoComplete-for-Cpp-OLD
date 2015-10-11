@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+logicalDotsPerInchChanged($1);
+]]></content>
+	<tabTrigger>logicalDotsPerInchChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

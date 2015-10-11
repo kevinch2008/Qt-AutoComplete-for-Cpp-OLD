@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAccumBufferSize($1);
+]]></content>
+	<tabTrigger>setAccumBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+flavorFor($1);
+]]></content>
+	<tabTrigger>flavorFor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

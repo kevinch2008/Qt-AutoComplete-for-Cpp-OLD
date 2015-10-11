@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStackingMode($1);
+]]></content>
+	<tabTrigger>setStackingMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

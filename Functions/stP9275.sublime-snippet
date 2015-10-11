@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+strokePath($1);
+]]></content>
+	<tabTrigger>strokePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

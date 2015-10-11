@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFirstColumn($1);
+]]></content>
+	<tabTrigger>setFirstColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

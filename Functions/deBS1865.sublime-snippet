@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+depthBufferSize($1);
+]]></content>
+	<tabTrigger>depthBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+audioBitRate($1);
+]]></content>
+	<tabTrigger>audioBitRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

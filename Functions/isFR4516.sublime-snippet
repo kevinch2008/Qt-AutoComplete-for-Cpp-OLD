@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isFlashReady($1);
+]]></content>
+	<tabTrigger>isFlashReady</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

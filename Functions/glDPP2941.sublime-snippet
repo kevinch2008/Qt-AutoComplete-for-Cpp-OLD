@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDeleteProgramPipelines($1);
+]]></content>
+	<tabTrigger>glDeleteProgramPipelines</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

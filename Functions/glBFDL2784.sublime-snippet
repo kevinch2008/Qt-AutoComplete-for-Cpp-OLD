@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBindFragDataLocation($1);
+]]></content>
+	<tabTrigger>glBindFragDataLocation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

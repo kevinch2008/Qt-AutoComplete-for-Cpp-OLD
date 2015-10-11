@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addToJavaScriptWindowObject($1);
+]]></content>
+	<tabTrigger>addToJavaScriptWindowObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

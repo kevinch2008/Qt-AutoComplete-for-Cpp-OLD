@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setToolTipsVisible($1);
+]]></content>
+	<tabTrigger>setToolTipsVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

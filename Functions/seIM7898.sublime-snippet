@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIntMinimum($1);
+]]></content>
+	<tabTrigger>setIntMinimum</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bytesForDuration($1);
+]]></content>
+	<tabTrigger>bytesForDuration</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

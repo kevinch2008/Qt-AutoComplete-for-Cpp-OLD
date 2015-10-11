@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rectPixels($1);
+]]></content>
+	<tabTrigger>rectPixels</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

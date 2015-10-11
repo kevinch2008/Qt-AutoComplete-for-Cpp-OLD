@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glViewport($1);
+]]></content>
+	<tabTrigger>glViewport</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

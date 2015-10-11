@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QIRProximitySensor
+]]></content>
+	<tabTrigger>QIRProximitySensor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

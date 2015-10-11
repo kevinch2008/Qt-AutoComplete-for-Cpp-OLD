@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+efficientBufferSizeChanged($1);
+]]></content>
+	<tabTrigger>efficientBufferSizeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sslConfigurationImplementation($1);
+]]></content>
+	<tabTrigger>sslConfigurationImplementation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

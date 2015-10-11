@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+vertexDataAsTexturedPoint2D($1);
+]]></content>
+	<tabTrigger>vertexDataAsTexturedPoint2D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

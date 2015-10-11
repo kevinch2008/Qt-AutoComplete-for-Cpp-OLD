@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toUInt16($1);
+]]></content>
+	<tabTrigger>toUInt16</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

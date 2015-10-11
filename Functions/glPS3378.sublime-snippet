@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPixelStoref($1);
+]]></content>
+	<tabTrigger>glPixelStoref</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSize
+]]></content>
+	<tabTrigger>QSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

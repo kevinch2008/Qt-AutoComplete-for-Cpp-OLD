@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWaypoints($1);
+]]></content>
+	<tabTrigger>setWaypoints</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+interval($1);
+]]></content>
+	<tabTrigger>interval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

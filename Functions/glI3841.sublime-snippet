@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globalInstance($1);
+]]></content>
+	<tabTrigger>globalInstance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

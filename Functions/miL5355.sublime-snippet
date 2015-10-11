@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mipLevels($1);
+]]></content>
+	<tabTrigger>mipLevels</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

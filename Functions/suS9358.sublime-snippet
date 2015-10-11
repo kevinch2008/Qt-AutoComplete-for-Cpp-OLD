@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedSchemes($1);
+]]></content>
+	<tabTrigger>supportedSchemes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

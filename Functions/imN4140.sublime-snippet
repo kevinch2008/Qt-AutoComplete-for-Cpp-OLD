@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+importNode($1);
+]]></content>
+	<tabTrigger>importNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

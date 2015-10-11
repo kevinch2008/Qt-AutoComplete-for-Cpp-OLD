@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glNamedRenderbufferStorageMultisample($1);
+]]></content>
+	<tabTrigger>glNamedRenderbufferStorageMultisample</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

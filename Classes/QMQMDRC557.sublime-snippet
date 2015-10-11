@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMetaDataReaderControl
+]]></content>
+	<tabTrigger>QMetaDataReaderControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

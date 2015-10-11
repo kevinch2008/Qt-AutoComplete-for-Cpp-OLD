@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTexGend($1);
+]]></content>
+	<tabTrigger>glTexGend</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

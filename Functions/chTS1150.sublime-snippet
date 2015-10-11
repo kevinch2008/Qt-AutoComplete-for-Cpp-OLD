@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+characteristicToString($1);
+]]></content>
+	<tabTrigger>characteristicToString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

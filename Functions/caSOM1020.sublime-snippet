@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+callStaticObjectMethod($1);
+]]></content>
+	<tabTrigger>callStaticObjectMethod</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

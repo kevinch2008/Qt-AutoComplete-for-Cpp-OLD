@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDisableVertexAttribArray($1);
+]]></content>
+	<tabTrigger>glDisableVertexAttribArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

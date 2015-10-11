@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unproject($1);
+]]></content>
+	<tabTrigger>unproject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

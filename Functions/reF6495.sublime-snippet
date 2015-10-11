@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeFormat($1);
+]]></content>
+	<tabTrigger>removeFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

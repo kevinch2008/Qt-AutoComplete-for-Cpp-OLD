@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isFloating($1);
+]]></content>
+	<tabTrigger>isFloating</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

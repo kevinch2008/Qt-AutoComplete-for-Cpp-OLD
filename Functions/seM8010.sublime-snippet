@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setM22($1);
+]]></content>
+	<tabTrigger>setM22</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

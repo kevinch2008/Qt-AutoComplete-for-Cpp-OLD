@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+expandsOnDoubleClick($1);
+]]></content>
+	<tabTrigger>expandsOnDoubleClick</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

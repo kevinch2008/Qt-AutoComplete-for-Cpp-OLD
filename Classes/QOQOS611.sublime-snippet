@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QOffscreenSurface
+]]></content>
+	<tabTrigger>QOffscreenSurface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

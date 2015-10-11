@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPatchParameterfv($1);
+]]></content>
+	<tabTrigger>glPatchParameterfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

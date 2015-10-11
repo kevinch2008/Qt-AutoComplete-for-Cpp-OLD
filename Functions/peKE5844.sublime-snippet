@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pendingKeyEvents($1);
+]]></content>
+	<tabTrigger>pendingKeyEvents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

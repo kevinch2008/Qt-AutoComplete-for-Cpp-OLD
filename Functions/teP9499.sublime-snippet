@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tempPath($1);
+]]></content>
+	<tabTrigger>tempPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

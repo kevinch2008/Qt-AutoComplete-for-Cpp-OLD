@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+determinant($1);
+]]></content>
+	<tabTrigger>determinant</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

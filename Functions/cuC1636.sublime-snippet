@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentCompletion($1);
+]]></content>
+	<tabTrigger>currentCompletion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

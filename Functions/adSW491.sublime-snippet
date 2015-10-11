@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addSubWindow($1);
+]]></content>
+	<tabTrigger>addSubWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

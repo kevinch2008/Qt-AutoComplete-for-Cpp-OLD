@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QException
+]]></content>
+	<tabTrigger>QException</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

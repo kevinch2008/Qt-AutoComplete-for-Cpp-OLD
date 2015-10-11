@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDrawElementsInstanced($1);
+]]></content>
+	<tabTrigger>glDrawElementsInstanced</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

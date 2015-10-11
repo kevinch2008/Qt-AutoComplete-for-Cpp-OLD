@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_FUNC_INFO($1);
+]]></content>
+	<tabTrigger>Q_FUNC_INFO</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fixup($1);
+]]></content>
+	<tabTrigger>fixup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+subscribeToNotification($1);
+]]></content>
+	<tabTrigger>subscribeToNotification</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

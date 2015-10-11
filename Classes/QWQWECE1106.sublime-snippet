@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebEngineCertificateError
+]]></content>
+	<tabTrigger>QWebEngineCertificateError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

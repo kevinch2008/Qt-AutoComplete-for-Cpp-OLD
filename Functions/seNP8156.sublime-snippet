@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNotificationParameters($1);
+]]></content>
+	<tabTrigger>setNotificationParameters</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

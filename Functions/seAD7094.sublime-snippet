@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAccessibleDescription($1);
+]]></content>
+	<tabTrigger>setAccessibleDescription</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

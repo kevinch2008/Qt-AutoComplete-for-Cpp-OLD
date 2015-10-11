@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+skipCurrentElement($1);
+]]></content>
+	<tabTrigger>skipCurrentElement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_ATOMIC_INTnn_FETCH_AND_ADD_IS_ALWAYS_NATIVE($1);
+]]></content>
+	<tabTrigger>Q_ATOMIC_INTnn_FETCH_AND_ADD_IS_ALWAYS_NATIVE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

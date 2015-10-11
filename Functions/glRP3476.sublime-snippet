@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glRasterPos4fv($1);
+]]></content>
+	<tabTrigger>glRasterPos4fv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

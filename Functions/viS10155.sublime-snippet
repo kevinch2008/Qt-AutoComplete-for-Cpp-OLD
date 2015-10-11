@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+viewportSize($1);
+]]></content>
+	<tabTrigger>viewportSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

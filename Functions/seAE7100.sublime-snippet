@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setActionEditor($1);
+]]></content>
+	<tabTrigger>setActionEditor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

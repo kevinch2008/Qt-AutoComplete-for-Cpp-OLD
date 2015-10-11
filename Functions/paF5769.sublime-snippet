@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pairingFinished($1);
+]]></content>
+	<tabTrigger>pairingFinished</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

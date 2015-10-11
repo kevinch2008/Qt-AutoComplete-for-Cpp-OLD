@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tryLock($1);
+]]></content>
+	<tabTrigger>tryLock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

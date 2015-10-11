@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCreatingIndex($1);
+]]></content>
+	<tabTrigger>isCreatingIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

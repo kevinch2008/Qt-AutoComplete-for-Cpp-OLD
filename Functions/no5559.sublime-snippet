@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+normalized($1);
+]]></content>
+	<tabTrigger>normalized</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

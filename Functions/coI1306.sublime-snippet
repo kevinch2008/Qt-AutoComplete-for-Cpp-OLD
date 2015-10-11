@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+collidingItems($1);
+]]></content>
+	<tabTrigger>collidingItems</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

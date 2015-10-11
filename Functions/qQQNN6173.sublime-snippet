@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qQNaN($1);
+]]></content>
+	<tabTrigger>qQNaN</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

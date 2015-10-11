@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+columnAlignment($1);
+]]></content>
+	<tabTrigger>columnAlignment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

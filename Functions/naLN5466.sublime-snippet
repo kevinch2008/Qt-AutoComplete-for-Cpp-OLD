@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeLanguageName($1);
+]]></content>
+	<tabTrigger>nativeLanguageName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

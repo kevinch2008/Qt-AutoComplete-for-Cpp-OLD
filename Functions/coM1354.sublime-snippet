@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+combinedMatrix($1);
+]]></content>
+	<tabTrigger>combinedMatrix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

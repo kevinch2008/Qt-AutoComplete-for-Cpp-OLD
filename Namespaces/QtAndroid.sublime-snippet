@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtAndroid>
+]]></content>
+	<tabTrigger>QtAndroid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

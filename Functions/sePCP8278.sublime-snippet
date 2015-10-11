@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPersistentCookiesPolicy($1);
+]]></content>
+	<tabTrigger>setPersistentCookiesPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

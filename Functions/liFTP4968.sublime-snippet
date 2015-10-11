@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lineForTextPosition($1);
+]]></content>
+	<tabTrigger>lineForTextPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

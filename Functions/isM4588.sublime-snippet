@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isMovable($1);
+]]></content>
+	<tabTrigger>isMovable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

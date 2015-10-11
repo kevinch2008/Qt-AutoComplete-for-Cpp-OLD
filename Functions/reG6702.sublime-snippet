@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reverseGeocode($1);
+]]></content>
+	<tabTrigger>reverseGeocode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

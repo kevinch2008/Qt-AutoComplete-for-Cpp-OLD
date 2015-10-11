@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glSelectBuffer($1);
+]]></content>
+	<tabTrigger>glSelectBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

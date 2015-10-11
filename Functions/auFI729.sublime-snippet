@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoFormattingIndent($1);
+]]></content>
+	<tabTrigger>autoFormattingIndent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

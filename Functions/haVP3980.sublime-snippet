@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasVisitedPage($1);
+]]></content>
+	<tabTrigger>hasVisitedPage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

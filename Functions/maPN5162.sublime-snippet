@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mappedPropertyName($1);
+]]></content>
+	<tabTrigger>mappedPropertyName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

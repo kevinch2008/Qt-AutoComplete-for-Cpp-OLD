@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoRaise($1);
+]]></content>
+	<tabTrigger>autoRaise</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

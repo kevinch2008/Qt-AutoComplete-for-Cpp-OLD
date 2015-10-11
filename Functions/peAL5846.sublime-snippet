@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+percentAtLength($1);
+]]></content>
+	<tabTrigger>percentAtLength</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

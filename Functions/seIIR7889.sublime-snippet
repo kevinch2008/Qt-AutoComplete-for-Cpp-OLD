@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setInputItemRectangle($1);
+]]></content>
+	<tabTrigger>setInputItemRectangle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

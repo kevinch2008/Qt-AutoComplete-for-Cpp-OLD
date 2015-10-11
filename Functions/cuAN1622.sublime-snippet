@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentAppName($1);
+]]></content>
+	<tabTrigger>currentAppName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

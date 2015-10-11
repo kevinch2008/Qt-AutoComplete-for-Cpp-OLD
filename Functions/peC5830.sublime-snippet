@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peerCertificate($1);
+]]></content>
+	<tabTrigger>peerCertificate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

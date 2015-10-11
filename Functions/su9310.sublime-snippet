@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+suffixes($1);
+]]></content>
+	<tabTrigger>suffixes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

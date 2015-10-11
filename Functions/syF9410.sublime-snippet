@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+systemFont($1);
+]]></content>
+	<tabTrigger>systemFont</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

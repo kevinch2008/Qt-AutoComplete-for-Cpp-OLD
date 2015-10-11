@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canConvertToMime($1);
+]]></content>
+	<tabTrigger>canConvertToMime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTickFrequency($1);
+]]></content>
+	<tabTrigger>setTickFrequency</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

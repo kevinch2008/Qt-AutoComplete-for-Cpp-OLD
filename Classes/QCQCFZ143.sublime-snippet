@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCameraFocusZone
+]]></content>
+	<tabTrigger>QCameraFocusZone</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

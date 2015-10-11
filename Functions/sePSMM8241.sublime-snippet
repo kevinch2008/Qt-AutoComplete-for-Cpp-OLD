@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPageSizeMM($1);
+]]></content>
+	<tabTrigger>setPageSizeMM</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

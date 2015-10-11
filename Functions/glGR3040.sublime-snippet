@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGenRenderbuffers($1);
+]]></content>
+	<tabTrigger>glGenRenderbuffers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

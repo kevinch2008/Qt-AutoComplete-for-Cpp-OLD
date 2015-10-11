@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSGDynamicTexture
+]]></content>
+	<tabTrigger>QSGDynamicTexture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

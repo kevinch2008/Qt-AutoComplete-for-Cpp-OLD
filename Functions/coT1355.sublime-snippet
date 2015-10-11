@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+combinedTransform($1);
+]]></content>
+	<tabTrigger>combinedTransform</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

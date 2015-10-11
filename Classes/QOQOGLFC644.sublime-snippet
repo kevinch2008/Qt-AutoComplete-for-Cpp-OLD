@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QOpenGLFunctions_4_5_Compatibility
+]]></content>
+	<tabTrigger>QOpenGLFunctions_4_5_Compatibility</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

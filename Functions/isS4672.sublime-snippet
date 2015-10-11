@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSeekable($1);
+]]></content>
+	<tabTrigger>isSeekable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

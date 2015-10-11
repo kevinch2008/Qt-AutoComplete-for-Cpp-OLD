@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glUniform3fv($1);
+]]></content>
+	<tabTrigger>glUniform3fv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

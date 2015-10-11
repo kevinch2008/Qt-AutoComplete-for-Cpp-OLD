@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+joinPreviousEditBlock($1);
+]]></content>
+	<tabTrigger>joinPreviousEditBlock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

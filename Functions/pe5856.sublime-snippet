@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+perspective($1);
+]]></content>
+	<tabTrigger>perspective</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

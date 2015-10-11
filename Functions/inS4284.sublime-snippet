@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+insertStretch($1);
+]]></content>
+	<tabTrigger>insertStretch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

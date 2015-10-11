@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusInEvent($1);
+]]></content>
+	<tabTrigger>focusInEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

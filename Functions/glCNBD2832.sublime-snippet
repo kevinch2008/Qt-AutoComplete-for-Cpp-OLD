@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClearNamedBufferData($1);
+]]></content>
+	<tabTrigger>glClearNamedBufferData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

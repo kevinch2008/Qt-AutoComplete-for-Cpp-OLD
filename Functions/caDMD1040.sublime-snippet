@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canDropMimeData($1);
+]]></content>
+	<tabTrigger>canDropMimeData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

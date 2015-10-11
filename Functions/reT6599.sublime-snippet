@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestTimeout($1);
+]]></content>
+	<tabTrigger>requestTimeout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QBENCHMARK_ONCE($1);
+]]></content>
+	<tabTrigger>QBENCHMARK_ONCE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

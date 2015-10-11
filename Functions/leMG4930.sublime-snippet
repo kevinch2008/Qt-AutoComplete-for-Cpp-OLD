@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+leaveMulticastGroup($1);
+]]></content>
+	<tabTrigger>leaveMulticastGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

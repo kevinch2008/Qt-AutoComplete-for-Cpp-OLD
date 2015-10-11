@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAudioEncoderSettingsControl_iid($1);
+]]></content>
+	<tabTrigger>QAudioEncoderSettingsControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

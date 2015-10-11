@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumDate($1);
+]]></content>
+	<tabTrigger>maximumDate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

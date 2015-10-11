@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+oldPosF($1);
+]]></content>
+	<tabTrigger>oldPosF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

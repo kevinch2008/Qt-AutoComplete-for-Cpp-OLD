@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <Qt3DInput>
+]]></content>
+	<tabTrigger>Qt3DInput</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

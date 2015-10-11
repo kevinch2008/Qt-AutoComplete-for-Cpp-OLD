@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+detachFromWindow($1);
+]]></content>
+	<tabTrigger>detachFromWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

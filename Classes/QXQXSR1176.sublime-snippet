@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlSimpleReader
+]]></content>
+	<tabTrigger>QXmlSimpleReader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

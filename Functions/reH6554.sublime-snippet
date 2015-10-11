@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+renderHints($1);
+]]></content>
+	<tabTrigger>renderHints</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reblock($1);
+]]></content>
+	<tabTrigger>reblock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

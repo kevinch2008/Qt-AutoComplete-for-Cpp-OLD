@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDoubleRange($1);
+]]></content>
+	<tabTrigger>setDoubleRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

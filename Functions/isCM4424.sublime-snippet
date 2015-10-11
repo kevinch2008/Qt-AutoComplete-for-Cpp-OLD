@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCompactMode($1);
+]]></content>
+	<tabTrigger>isCompactMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

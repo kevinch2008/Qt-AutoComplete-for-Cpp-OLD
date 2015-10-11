@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+waitForDisconnected($1);
+]]></content>
+	<tabTrigger>waitForDisconnected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

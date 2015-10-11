@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAccessibleStateChangeEvent
+]]></content>
+	<tabTrigger>QAccessibleStateChangeEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

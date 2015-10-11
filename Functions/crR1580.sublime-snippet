@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createRequest($1);
+]]></content>
+	<tabTrigger>createRequest</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

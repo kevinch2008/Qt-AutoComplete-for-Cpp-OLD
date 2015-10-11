@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexP4uiv($1);
+]]></content>
+	<tabTrigger>glVertexP4uiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

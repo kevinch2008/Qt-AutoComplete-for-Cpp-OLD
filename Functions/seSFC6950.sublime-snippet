@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sectionSizeFromContents($1);
+]]></content>
+	<tabTrigger>sectionSizeFromContents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

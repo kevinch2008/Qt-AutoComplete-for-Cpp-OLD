@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPostalCode($1);
+]]></content>
+	<tabTrigger>setPostalCode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

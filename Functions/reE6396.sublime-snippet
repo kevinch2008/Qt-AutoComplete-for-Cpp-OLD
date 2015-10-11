@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+registerEngine($1);
+]]></content>
+	<tabTrigger>registerEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

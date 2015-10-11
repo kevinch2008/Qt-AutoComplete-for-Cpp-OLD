@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+leadingIncluded($1);
+]]></content>
+	<tabTrigger>leadingIncluded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

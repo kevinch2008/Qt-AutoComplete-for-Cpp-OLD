@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qstrnicmp($1);
+]]></content>
+	<tabTrigger>qstrnicmp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

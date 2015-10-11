@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFrameSize($1);
+]]></content>
+	<tabTrigger>setFrameSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

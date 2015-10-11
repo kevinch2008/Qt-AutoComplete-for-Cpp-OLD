@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSidebarUrls($1);
+]]></content>
+	<tabTrigger>setSidebarUrls</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

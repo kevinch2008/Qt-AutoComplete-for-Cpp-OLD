@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overlayTransparentColor($1);
+]]></content>
+	<tabTrigger>overlayTransparentColor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

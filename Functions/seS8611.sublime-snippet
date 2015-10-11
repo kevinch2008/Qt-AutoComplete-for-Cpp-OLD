@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSpread($1);
+]]></content>
+	<tabTrigger>setSpread</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

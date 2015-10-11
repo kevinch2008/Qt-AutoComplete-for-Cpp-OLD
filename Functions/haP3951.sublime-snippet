@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasPrevious($1);
+]]></content>
+	<tabTrigger>hasPrevious</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

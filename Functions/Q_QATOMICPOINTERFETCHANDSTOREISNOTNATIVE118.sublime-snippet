@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_NOT_NATIVE($1);
+]]></content>
+	<tabTrigger>Q_ATOMIC_POINTER_FETCH_AND_STORE_IS_NOT_NATIVE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+elidedText($1);
+]]></content>
+	<tabTrigger>elidedText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

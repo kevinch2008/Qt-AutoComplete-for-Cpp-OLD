@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBindSamplers($1);
+]]></content>
+	<tabTrigger>glBindSamplers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

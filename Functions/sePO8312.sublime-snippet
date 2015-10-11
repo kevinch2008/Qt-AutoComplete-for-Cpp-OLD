@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPortraitOrientation($1);
+]]></content>
+	<tabTrigger>setPortraitOrientation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

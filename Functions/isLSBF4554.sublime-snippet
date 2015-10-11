@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isLeastSignificantBitFirst($1);
+]]></content>
+	<tabTrigger>isLeastSignificantBitFirst</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

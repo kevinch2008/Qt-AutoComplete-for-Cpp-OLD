@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+upPressed($1);
+]]></content>
+	<tabTrigger>upPressed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

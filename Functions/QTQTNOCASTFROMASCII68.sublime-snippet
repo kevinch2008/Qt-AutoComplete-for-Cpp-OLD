@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QT_NO_CAST_FROM_ASCII($1);
+]]></content>
+	<tabTrigger>QT_NO_CAST_FROM_ASCII</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

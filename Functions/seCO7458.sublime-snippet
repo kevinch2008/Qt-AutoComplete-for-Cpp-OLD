@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCurrentOrientation($1);
+]]></content>
+	<tabTrigger>setCurrentOrientation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

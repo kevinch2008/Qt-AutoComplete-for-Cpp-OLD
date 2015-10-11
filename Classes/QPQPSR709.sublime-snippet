@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlaceSearchReply
+]]></content>
+	<tabTrigger>QPlaceSearchReply</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

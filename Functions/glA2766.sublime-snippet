@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glAccum($1);
+]]></content>
+	<tabTrigger>glAccum</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

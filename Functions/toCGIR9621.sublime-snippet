@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toCGImageRef($1);
+]]></content>
+	<tabTrigger>toCGImageRef</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

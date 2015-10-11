@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pixelDelta($1);
+]]></content>
+	<tabTrigger>pixelDelta</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

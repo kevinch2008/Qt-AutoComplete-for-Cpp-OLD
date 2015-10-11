@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toHtmlEscaped($1);
+]]></content>
+	<tabTrigger>toHtmlEscaped</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+wraparound($1);
+]]></content>
+	<tabTrigger>wraparound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+connectToHost($1);
+]]></content>
+	<tabTrigger>connectToHost</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIntegerBase($1);
+]]></content>
+	<tabTrigger>setIntegerBase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

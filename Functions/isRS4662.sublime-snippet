@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isRowSelected($1);
+]]></content>
+	<tabTrigger>isRowSelected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMap2f($1);
+]]></content>
+	<tabTrigger>glMap2f</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

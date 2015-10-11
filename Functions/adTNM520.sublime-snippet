@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+advancedToNextMedia($1);
+]]></content>
+	<tabTrigger>advancedToNextMedia</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

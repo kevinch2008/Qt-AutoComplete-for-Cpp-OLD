@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readersAboutToBeInvalidated($1);
+]]></content>
+	<tabTrigger>readersAboutToBeInvalidated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

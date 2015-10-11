@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QBrush
+]]></content>
+	<tabTrigger>QBrush</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

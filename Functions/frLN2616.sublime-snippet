@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromLongName($1);
+]]></content>
+	<tabTrigger>fromLongName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

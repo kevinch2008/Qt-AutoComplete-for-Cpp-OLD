@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mapToGlobal($1);
+]]></content>
+	<tabTrigger>mapToGlobal</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

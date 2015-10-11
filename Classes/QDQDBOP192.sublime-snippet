@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDBusObjectPath
+]]></content>
+	<tabTrigger>QDBusObjectPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

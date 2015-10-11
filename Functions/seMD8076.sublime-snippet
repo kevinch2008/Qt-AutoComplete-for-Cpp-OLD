@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMimeData($1);
+]]></content>
+	<tabTrigger>setMimeData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

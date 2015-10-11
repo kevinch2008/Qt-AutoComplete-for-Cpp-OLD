@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qHashRangeCommutative($1);
+]]></content>
+	<tabTrigger>qHashRangeCommutative</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentImageNumber($1);
+]]></content>
+	<tabTrigger>currentImageNumber</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

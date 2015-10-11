@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtMac>
+]]></content>
+	<tabTrigger>QtMac</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

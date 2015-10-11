@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+quadToSquare($1);
+]]></content>
+	<tabTrigger>quadToSquare</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

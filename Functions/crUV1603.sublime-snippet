@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createUuidV5($1);
+]]></content>
+	<tabTrigger>createUuidV5</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

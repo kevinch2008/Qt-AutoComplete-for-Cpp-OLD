@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOffsetToLastSection($1);
+]]></content>
+	<tabTrigger>setOffsetToLastSection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

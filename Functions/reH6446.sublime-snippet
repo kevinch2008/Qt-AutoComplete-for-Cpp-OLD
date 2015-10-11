@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+relevanceHint($1);
+]]></content>
+	<tabTrigger>relevanceHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

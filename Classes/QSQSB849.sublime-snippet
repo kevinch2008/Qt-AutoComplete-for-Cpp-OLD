@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QScrollBar
+]]></content>
+	<tabTrigger>QScrollBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

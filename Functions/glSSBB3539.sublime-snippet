@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glShaderStorageBlockBinding($1);
+]]></content>
+	<tabTrigger>glShaderStorageBlockBinding</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

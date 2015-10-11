@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTestAndSetWaitFree($1);
+]]></content>
+	<tabTrigger>isTestAndSetWaitFree</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

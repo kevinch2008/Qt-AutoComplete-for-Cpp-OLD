@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromPage($1);
+]]></content>
+	<tabTrigger>fromPage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

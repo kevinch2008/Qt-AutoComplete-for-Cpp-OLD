@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+contentPos($1);
+]]></content>
+	<tabTrigger>contentPos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

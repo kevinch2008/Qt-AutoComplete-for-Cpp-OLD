@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_OS_WIN64($1);
+]]></content>
+	<tabTrigger>Q_OS_WIN64</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

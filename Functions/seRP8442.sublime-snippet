@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRootPath($1);
+]]></content>
+	<tabTrigger>setRootPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

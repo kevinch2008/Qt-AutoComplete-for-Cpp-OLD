@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+viewCenterChanged($1);
+]]></content>
+	<tabTrigger>viewCenterChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

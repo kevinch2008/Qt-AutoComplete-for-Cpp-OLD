@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOutputLocation($1);
+]]></content>
+	<tabTrigger>setOutputLocation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

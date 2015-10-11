@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDeleteTransformFeedbacks($1);
+]]></content>
+	<tabTrigger>glDeleteTransformFeedbacks</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

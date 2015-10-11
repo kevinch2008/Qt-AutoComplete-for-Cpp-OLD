@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getStaticObjectField($1);
+]]></content>
+	<tabTrigger>getStaticObjectField</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

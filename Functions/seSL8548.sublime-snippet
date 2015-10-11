@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSharpeningLevel($1);
+]]></content>
+	<tabTrigger>setSharpeningLevel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

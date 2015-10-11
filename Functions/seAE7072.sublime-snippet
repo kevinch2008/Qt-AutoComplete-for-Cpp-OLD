@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sessionAuthenticationError($1);
+]]></content>
+	<tabTrigger>sessionAuthenticationError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

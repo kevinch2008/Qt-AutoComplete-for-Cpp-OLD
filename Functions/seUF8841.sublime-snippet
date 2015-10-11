@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUuidFilter($1);
+]]></content>
+	<tabTrigger>setUuidFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

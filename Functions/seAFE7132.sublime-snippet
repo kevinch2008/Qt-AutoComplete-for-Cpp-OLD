@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAlternativeFrequenciesEnabled($1);
+]]></content>
+	<tabTrigger>setAlternativeFrequenciesEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isMultisampleEnabled($1);
+]]></content>
+	<tabTrigger>isMultisampleEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

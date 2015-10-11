@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+returnDoubleTapEvents($1);
+]]></content>
+	<tabTrigger>returnDoubleTapEvents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

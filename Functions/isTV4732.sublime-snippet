@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTextVisible($1);
+]]></content>
+	<tabTrigger>isTextVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

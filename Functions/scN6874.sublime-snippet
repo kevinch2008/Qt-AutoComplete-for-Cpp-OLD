@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+screenNumber($1);
+]]></content>
+	<tabTrigger>screenNumber</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

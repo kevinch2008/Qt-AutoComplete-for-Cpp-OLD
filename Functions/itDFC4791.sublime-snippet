@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+itemDelegateForColumn($1);
+]]></content>
+	<tabTrigger>itemDelegateForColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

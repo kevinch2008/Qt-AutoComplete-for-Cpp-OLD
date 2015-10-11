@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availableGeometry($1);
+]]></content>
+	<tabTrigger>availableGeometry</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

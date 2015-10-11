@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dateEditAcceptDelay($1);
+]]></content>
+	<tabTrigger>dateEditAcceptDelay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

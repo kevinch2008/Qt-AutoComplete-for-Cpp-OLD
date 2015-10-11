@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qgraphicsitem_cast($1);
+]]></content>
+	<tabTrigger>qgraphicsitem_cast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

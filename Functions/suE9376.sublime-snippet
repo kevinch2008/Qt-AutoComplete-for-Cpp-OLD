@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsExtension($1);
+]]></content>
+	<tabTrigger>supportsExtension</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

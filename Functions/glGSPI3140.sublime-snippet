@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetSamplerParameterIuiv($1);
+]]></content>
+	<tabTrigger>glGetSamplerParameterIuiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

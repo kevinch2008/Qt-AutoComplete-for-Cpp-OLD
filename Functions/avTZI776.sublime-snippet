@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availableTimeZoneIds($1);
+]]></content>
+	<tabTrigger>availableTimeZoneIds</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTextDirection($1);
+]]></content>
+	<tabTrigger>setTextDirection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

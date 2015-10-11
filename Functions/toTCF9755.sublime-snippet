@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toTableCellFormat($1);
+]]></content>
+	<tabTrigger>toTableCellFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

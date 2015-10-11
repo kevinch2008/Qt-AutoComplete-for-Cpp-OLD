@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setColumnFixedWidth($1);
+]]></content>
+	<tabTrigger>setColumnFixedWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractExtensionFactory
+]]></content>
+	<tabTrigger>QAbstractExtensionFactory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

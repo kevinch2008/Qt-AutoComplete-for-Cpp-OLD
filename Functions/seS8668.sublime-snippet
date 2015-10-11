@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSuggestions($1);
+]]></content>
+	<tabTrigger>setSuggestions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

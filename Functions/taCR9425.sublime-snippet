@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tabCloseRequested($1);
+]]></content>
+	<tabTrigger>tabCloseRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

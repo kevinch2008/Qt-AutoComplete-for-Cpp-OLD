@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setManualIsoSensitivity($1);
+]]></content>
+	<tabTrigger>setManualIsoSensitivity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

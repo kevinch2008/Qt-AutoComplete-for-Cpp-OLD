@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIODevice($1);
+]]></content>
+	<tabTrigger>setIODevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

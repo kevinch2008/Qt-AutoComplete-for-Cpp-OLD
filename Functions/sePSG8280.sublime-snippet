@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPersistentSceneGraph($1);
+]]></content>
+	<tabTrigger>setPersistentSceneGraph</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

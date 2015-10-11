@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+roll($1);
+]]></content>
+	<tabTrigger>roll</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

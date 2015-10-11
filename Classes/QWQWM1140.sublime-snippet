@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWinMime
+]]></content>
+	<tabTrigger>QWinMime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

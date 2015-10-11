@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUnits($1);
+]]></content>
+	<tabTrigger>setUnits</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

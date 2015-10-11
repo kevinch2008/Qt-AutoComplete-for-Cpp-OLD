@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availableDataRates($1);
+]]></content>
+	<tabTrigger>availableDataRates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

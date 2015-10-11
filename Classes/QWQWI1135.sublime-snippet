@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWidgetItem
+]]></content>
+	<tabTrigger>QWidgetItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

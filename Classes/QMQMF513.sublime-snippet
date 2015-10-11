@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMagnetometerFilter
+]]></content>
+	<tabTrigger>QMagnetometerFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

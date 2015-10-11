@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reject($1);
+]]></content>
+	<tabTrigger>reject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

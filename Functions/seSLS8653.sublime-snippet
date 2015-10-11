@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStretchLastSection($1);
+]]></content>
+	<tabTrigger>setStretchLastSection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

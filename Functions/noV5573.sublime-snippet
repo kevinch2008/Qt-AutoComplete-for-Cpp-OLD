@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+notchesVisible($1);
+]]></content>
+	<tabTrigger>notchesVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

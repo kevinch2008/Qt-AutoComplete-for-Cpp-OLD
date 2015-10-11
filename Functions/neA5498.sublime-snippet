@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+newArray($1);
+]]></content>
+	<tabTrigger>newArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

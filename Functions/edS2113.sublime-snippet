@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+editStrategy($1);
+]]></content>
+	<tabTrigger>editStrategy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

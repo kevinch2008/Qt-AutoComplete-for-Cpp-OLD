@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTestAndSetNative($1);
+]]></content>
+	<tabTrigger>isTestAndSetNative</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

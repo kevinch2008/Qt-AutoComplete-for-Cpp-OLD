@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromNSString($1);
+]]></content>
+	<tabTrigger>fromNSString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

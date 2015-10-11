@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWizardStyle($1);
+]]></content>
+	<tabTrigger>setWizardStyle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

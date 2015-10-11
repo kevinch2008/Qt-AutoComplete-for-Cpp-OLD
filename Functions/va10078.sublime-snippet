@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+validate($1);
+]]></content>
+	<tabTrigger>validate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

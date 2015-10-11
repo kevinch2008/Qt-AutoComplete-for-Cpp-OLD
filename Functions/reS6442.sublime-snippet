@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+releaseShortcut($1);
+]]></content>
+	<tabTrigger>releaseShortcut</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

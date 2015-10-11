@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visualNavigation($1);
+]]></content>
+	<tabTrigger>visualNavigation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

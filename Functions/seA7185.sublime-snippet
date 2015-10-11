@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAuthority($1);
+]]></content>
+	<tabTrigger>setAuthority</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

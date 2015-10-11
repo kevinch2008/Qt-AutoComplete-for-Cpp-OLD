@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+codecForName($1);
+]]></content>
+	<tabTrigger>codecForName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

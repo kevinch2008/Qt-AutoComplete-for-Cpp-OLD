@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetTexEnvfv($1);
+]]></content>
+	<tabTrigger>glGetTexEnvfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

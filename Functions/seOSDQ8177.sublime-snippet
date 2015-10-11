@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOfflineStorageDefaultQuota($1);
+]]></content>
+	<tabTrigger>setOfflineStorageDefaultQuota</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

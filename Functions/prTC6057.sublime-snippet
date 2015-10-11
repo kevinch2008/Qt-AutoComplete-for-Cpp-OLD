@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+projectionTypeChanged($1);
+]]></content>
+	<tabTrigger>projectionTypeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

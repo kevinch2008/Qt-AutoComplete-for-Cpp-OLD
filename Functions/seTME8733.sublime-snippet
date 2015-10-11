@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTextModeEnabled($1);
+]]></content>
+	<tabTrigger>setTextModeEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

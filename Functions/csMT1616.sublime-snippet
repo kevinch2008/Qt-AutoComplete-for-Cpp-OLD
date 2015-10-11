@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cssMediaType($1);
+]]></content>
+	<tabTrigger>cssMediaType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

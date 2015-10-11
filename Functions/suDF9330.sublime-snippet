@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedDocumentFormats($1);
+]]></content>
+	<tabTrigger>supportedDocumentFormats</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

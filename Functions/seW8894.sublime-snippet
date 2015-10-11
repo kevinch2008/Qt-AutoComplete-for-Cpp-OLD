@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWeight($1);
+]]></content>
+	<tabTrigger>setWeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

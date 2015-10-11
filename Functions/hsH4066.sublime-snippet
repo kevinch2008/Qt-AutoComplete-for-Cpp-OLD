@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hslHue($1);
+]]></content>
+	<tabTrigger>hslHue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

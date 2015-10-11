@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setParity($1);
+]]></content>
+	<tabTrigger>setParity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

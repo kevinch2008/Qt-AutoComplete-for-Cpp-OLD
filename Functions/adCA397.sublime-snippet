@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addCornerAnchors($1);
+]]></content>
+	<tabTrigger>addCornerAnchors</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

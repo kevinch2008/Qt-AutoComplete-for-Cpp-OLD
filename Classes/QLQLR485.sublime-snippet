@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QLightReading
+]]></content>
+	<tabTrigger>QLightReading</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

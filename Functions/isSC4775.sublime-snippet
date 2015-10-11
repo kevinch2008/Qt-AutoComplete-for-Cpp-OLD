@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isoSensitivityChanged($1);
+]]></content>
+	<tabTrigger>isoSensitivityChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

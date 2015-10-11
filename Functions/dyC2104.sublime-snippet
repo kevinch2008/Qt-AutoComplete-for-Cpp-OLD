@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dynamicCast($1);
+]]></content>
+	<tabTrigger>dynamicCast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

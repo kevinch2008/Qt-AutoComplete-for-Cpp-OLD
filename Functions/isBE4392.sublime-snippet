@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isBreakEnabled($1);
+]]></content>
+	<tabTrigger>isBreakEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

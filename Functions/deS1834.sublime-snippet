@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultSuffix($1);
+]]></content>
+	<tabTrigger>defaultSuffix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

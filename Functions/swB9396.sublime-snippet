@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+swapBehavior($1);
+]]></content>
+	<tabTrigger>swapBehavior</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

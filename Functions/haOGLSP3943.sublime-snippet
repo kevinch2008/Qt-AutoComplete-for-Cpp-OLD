@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasOpenGLShaderPrograms($1);
+]]></content>
+	<tabTrigger>hasOpenGLShaderPrograms</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

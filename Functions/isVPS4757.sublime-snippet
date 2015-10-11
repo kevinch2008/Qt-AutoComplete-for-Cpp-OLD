@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isViewfinderParameterSupported($1);
+]]></content>
+	<tabTrigger>isViewfinderParameterSupported</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

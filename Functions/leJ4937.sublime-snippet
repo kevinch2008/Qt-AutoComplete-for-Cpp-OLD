@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+leftJustified($1);
+]]></content>
+	<tabTrigger>leftJustified</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

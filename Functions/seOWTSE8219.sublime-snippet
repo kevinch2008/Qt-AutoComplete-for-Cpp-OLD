@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOutputWarningsToStandardError($1);
+]]></content>
+	<tabTrigger>setOutputWarningsToStandardError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

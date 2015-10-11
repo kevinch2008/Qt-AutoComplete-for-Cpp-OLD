@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTRY_COMPARE_WITH_TIMEOUT($1);
+]]></content>
+	<tabTrigger>QTRY_COMPARE_WITH_TIMEOUT</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

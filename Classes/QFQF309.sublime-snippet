@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QFuture
+]]></content>
+	<tabTrigger>QFuture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

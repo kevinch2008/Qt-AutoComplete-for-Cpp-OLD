@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+restoreState($1);
+]]></content>
+	<tabTrigger>restoreState</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

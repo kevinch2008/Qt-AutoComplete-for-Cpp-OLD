@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTimeSpec($1);
+]]></content>
+	<tabTrigger>setTimeSpec</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

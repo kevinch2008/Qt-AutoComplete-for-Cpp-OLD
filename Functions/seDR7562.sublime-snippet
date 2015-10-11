@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDisplayRect($1);
+]]></content>
+	<tabTrigger>setDisplayRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

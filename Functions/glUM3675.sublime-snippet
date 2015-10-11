@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glUniformMatrix2fv($1);
+]]></content>
+	<tabTrigger>glUniformMatrix2fv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qAddPostRoutine($1);
+]]></content>
+	<tabTrigger>qAddPostRoutine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

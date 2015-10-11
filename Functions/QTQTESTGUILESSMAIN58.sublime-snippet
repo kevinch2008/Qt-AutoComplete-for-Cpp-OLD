@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTEST_GUILESS_MAIN($1);
+]]></content>
+	<tabTrigger>QTEST_GUILESS_MAIN</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

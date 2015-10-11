@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bottomPadding($1);
+]]></content>
+	<tabTrigger>bottomPadding</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

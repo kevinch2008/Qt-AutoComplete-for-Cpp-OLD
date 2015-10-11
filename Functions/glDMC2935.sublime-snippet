@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDebugMessageControl($1);
+]]></content>
+	<tabTrigger>glDebugMessageControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glUniformMatrix3x4dv($1);
+]]></content>
+	<tabTrigger>glUniformMatrix3x4dv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

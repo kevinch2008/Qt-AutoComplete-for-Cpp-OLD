@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVerticalWrapMode($1);
+]]></content>
+	<tabTrigger>setVerticalWrapMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

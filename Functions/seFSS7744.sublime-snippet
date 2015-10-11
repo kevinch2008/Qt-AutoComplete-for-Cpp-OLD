@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFontStyleStrategy($1);
+]]></content>
+	<tabTrigger>setFontStyleStrategy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

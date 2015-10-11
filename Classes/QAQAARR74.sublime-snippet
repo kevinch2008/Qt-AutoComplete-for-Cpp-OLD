@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAndroidActivityResultReceiver
+]]></content>
+	<tabTrigger>QAndroidActivityResultReceiver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFilterCaseSensitivity($1);
+]]></content>
+	<tabTrigger>setFilterCaseSensitivity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

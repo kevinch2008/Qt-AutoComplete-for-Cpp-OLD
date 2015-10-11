@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toDouble($1);
+]]></content>
+	<tabTrigger>toDouble</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

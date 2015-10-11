@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTableView
+]]></content>
+	<tabTrigger>QTableView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

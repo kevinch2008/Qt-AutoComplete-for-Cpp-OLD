@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFieldOfView($1);
+]]></content>
+	<tabTrigger>setFieldOfView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resolveEntity($1);
+]]></content>
+	<tabTrigger>resolveEntity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCompassFilter
+]]></content>
+	<tabTrigger>QCompassFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

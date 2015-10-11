@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSignature($1);
+]]></content>
+	<tabTrigger>setSignature</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

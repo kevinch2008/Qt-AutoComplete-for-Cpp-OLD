@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSelfSigned($1);
+]]></content>
+	<tabTrigger>isSelfSigned</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

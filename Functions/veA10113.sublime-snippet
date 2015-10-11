@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+verticalAlignment($1);
+]]></content>
+	<tabTrigger>verticalAlignment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

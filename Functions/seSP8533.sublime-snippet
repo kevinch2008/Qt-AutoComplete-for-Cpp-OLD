@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setServiceProvider($1);
+]]></content>
+	<tabTrigger>setServiceProvider</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

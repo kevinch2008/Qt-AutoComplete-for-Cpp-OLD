@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toolBarBreak($1);
+]]></content>
+	<tabTrigger>toolBarBreak</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

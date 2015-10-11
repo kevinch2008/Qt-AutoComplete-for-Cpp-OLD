@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+notchSize($1);
+]]></content>
+	<tabTrigger>notchSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

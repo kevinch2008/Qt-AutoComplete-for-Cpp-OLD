@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QWebSocketProtocol>
+]]></content>
+	<tabTrigger>QWebSocketProtocol</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

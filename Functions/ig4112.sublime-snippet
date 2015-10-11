@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ignore($1);
+]]></content>
+	<tabTrigger>ignore</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

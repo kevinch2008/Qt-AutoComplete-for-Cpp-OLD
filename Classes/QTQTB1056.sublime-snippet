@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QToolBox
+]]></content>
+	<tabTrigger>QToolBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStickyFocus($1);
+]]></content>
+	<tabTrigger>setStickyFocus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

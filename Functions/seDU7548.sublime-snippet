@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDeviceUuid($1);
+]]></content>
+	<tabTrigger>setDeviceUuid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

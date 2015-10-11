@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maxBufferSizeChanged($1);
+]]></content>
+	<tabTrigger>maxBufferSizeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

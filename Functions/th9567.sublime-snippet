@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+thread($1);
+]]></content>
+	<tabTrigger>thread</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

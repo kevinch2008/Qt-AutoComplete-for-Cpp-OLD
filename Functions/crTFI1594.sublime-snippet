@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createTextureFromId($1);
+]]></content>
+	<tabTrigger>createTextureFromId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

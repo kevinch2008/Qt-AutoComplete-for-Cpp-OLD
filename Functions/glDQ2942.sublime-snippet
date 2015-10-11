@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDeleteQueries($1);
+]]></content>
+	<tabTrigger>glDeleteQueries</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

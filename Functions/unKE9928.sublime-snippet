@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ungrabKeyboardEvent($1);
+]]></content>
+	<tabTrigger>ungrabKeyboardEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

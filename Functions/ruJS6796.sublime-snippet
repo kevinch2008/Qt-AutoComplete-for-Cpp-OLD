@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+runJavaScript($1);
+]]></content>
+	<tabTrigger>runJavaScript</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cancelSearching($1);
+]]></content>
+	<tabTrigger>cancelSearching</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

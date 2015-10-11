@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readAllStandardOutput($1);
+]]></content>
+	<tabTrigger>readAllStandardOutput</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

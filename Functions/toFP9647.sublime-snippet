@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toFillPolygons($1);
+]]></content>
+	<tabTrigger>toFillPolygons</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

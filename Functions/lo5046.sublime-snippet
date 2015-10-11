@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+locked($1);
+]]></content>
+	<tabTrigger>locked</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

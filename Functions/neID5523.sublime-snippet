@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nextImageDelay($1);
+]]></content>
+	<tabTrigger>nextImageDelay</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

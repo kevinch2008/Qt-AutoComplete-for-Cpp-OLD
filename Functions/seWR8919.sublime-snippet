@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWindowRole($1);
+]]></content>
+	<tabTrigger>setWindowRole</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

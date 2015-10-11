@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+month($1);
+]]></content>
+	<tabTrigger>month</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

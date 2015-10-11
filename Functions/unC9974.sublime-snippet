@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unselectColumn($1);
+]]></content>
+	<tabTrigger>unselectColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

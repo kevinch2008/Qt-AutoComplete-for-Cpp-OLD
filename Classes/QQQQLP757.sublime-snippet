@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QQmlListProperty
+]]></content>
+	<tabTrigger>QQmlListProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

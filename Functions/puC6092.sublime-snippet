@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pushContext($1);
+]]></content>
+	<tabTrigger>pushContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

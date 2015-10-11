@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+refCount($1);
+]]></content>
+	<tabTrigger>refCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

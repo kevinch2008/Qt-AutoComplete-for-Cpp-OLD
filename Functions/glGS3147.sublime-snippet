@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetShaderiv($1);
+]]></content>
+	<tabTrigger>glGetShaderiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fragmentShader($1);
+]]></content>
+	<tabTrigger>fragmentShader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

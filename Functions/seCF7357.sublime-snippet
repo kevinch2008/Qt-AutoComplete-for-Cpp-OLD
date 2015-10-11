@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCollectionFile($1);
+]]></content>
+	<tabTrigger>setCollectionFile</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

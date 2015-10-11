@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+geometryInputType($1);
+]]></content>
+	<tabTrigger>geometryInputType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setImageHeight($1);
+]]></content>
+	<tabTrigger>setImageHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

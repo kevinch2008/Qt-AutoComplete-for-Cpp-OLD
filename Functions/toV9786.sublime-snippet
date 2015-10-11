@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toVector2d($1);
+]]></content>
+	<tabTrigger>toVector2d</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

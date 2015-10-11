@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+virtualSize($1);
+]]></content>
+	<tabTrigger>virtualSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

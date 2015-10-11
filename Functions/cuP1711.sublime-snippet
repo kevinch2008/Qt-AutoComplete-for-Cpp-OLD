@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cursorPosition($1);
+]]></content>
+	<tabTrigger>cursorPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

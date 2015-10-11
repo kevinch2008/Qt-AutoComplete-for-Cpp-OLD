@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mimeTypeFilters($1);
+]]></content>
+	<tabTrigger>mimeTypeFilters</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

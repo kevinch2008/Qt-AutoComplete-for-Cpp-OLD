@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSG_DECLARE_SIMPLE_SHADER($1);
+]]></content>
+	<tabTrigger>QSG_DECLARE_SIMPLE_SHADER</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

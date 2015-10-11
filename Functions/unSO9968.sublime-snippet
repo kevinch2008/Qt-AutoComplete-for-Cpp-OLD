@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unregisterSceneObserver($1);
+]]></content>
+	<tabTrigger>unregisterSceneObserver</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

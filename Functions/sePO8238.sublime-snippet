@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPageOrder($1);
+]]></content>
+	<tabTrigger>setPageOrder</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

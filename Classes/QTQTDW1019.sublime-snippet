@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTextDocumentWriter
+]]></content>
+	<tabTrigger>QTextDocumentWriter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

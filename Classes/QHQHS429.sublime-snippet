@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QHolsterSensor
+]]></content>
+	<tabTrigger>QHolsterSensor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

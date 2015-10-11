@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QQmlIncubationController
+]]></content>
+	<tabTrigger>QQmlIncubationController</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

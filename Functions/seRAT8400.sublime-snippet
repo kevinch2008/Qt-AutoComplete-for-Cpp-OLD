@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRemoteAddressType($1);
+]]></content>
+	<tabTrigger>setRemoteAddressType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

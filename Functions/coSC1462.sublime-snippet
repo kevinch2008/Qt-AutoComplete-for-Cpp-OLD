@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+contentsScaleChanged($1);
+]]></content>
+	<tabTrigger>contentsScaleChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

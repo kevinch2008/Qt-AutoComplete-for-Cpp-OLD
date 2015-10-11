@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClearNamedFramebufferfi($1);
+]]></content>
+	<tabTrigger>glClearNamedFramebufferfi</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

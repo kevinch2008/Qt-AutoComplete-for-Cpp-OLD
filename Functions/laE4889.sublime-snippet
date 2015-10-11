@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastError($1);
+]]></content>
+	<tabTrigger>lastError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

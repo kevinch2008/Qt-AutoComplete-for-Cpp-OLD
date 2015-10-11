@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setKeyboardGrabEnabled($1);
+]]></content>
+	<tabTrigger>setKeyboardGrabEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

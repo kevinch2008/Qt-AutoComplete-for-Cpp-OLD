@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSampleType($1);
+]]></content>
+	<tabTrigger>setSampleType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

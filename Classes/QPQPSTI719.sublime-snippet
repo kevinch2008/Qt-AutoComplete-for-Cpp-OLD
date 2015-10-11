@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlatformSystemTrayIcon
+]]></content>
+	<tabTrigger>QPlatformSystemTrayIcon</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

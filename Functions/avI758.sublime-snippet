@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+availableInputs($1);
+]]></content>
+	<tabTrigger>availableInputs</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

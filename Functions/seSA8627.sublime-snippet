@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStartAngle($1);
+]]></content>
+	<tabTrigger>setStartAngle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

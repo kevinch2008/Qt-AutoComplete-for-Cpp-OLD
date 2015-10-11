@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+captureMode($1);
+]]></content>
+	<tabTrigger>captureMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+compare($1);
+]]></content>
+	<tabTrigger>compare</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeDynamicProperty($1);
+]]></content>
+	<tabTrigger>removeDynamicProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

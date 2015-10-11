@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+shaders($1);
+]]></content>
+	<tabTrigger>shaders</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

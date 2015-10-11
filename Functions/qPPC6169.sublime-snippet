@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qPopulationCount($1);
+]]></content>
+	<tabTrigger>qPopulationCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

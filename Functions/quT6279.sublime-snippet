@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+queryType($1);
+]]></content>
+	<tabTrigger>queryType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

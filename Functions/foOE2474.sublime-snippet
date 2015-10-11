@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focusOutEvent($1);
+]]></content>
+	<tabTrigger>focusOutEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+frameShape($1);
+]]></content>
+	<tabTrigger>frameShape</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

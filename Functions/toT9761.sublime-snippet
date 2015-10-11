@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toTime_t($1);
+]]></content>
+	<tabTrigger>toTime_t</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

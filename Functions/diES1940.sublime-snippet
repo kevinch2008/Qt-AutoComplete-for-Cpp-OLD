@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+disableEventSink($1);
+]]></content>
+	<tabTrigger>disableEventSink</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentPageChanged($1);
+]]></content>
+	<tabTrigger>currentPageChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

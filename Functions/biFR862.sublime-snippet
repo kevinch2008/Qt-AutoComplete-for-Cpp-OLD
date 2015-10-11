@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+binaryFrameReceived($1);
+]]></content>
+	<tabTrigger>binaryFrameReceived</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

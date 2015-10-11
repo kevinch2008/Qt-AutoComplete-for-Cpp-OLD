@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+redirected($1);
+]]></content>
+	<tabTrigger>redirected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

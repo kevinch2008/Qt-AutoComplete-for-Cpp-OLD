@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGeoCircle
+]]></content>
+	<tabTrigger>QGeoCircle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

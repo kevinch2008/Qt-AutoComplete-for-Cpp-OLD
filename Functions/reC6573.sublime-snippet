@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+replaceChild($1);
+]]></content>
+	<tabTrigger>replaceChild</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

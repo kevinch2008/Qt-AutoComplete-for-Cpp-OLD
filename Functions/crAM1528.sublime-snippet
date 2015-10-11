@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createApplicationMessage($1);
+]]></content>
+	<tabTrigger>createApplicationMessage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFrameRate($1);
+]]></content>
+	<tabTrigger>setFrameRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

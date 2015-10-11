@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+worldTransform($1);
+]]></content>
+	<tabTrigger>worldTransform</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStartDragDistance($1);
+]]></content>
+	<tabTrigger>setStartDragDistance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

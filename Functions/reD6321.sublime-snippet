@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readDatagram($1);
+]]></content>
+	<tabTrigger>readDatagram</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QStyleHintReturn
+]]></content>
+	<tabTrigger>QStyleHintReturn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

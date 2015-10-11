@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIconDatabasePath($1);
+]]></content>
+	<tabTrigger>setIconDatabasePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

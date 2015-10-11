@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QT_NO_URL_CAST_FROM_STRING($1);
+]]></content>
+	<tabTrigger>QT_NO_URL_CAST_FROM_STRING</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

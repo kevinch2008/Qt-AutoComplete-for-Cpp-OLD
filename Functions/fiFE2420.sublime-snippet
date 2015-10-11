@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+findFirstElement($1);
+]]></content>
+	<tabTrigger>findFirstElement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

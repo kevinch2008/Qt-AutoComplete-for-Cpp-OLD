@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fetchAndSubRelaxed($1);
+]]></content>
+	<tabTrigger>fetchAndSubRelaxed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

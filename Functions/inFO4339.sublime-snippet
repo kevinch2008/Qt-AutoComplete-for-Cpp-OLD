@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+invalidateFramebufferObject($1);
+]]></content>
+	<tabTrigger>invalidateFramebufferObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

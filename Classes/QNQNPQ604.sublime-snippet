@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QNetworkProxyQuery
+]]></content>
+	<tabTrigger>QNetworkProxyQuery</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

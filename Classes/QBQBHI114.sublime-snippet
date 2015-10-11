@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QBluetoothHostInfo
+]]></content>
+	<tabTrigger>QBluetoothHostInfo</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

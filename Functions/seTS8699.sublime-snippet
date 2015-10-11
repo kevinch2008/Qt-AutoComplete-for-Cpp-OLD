@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTabStop($1);
+]]></content>
+	<tabTrigger>setTabStop</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWinTaskbarButton
+]]></content>
+	<tabTrigger>QWinTaskbarButton</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAccessibleTableModelChangeEvent
+]]></content>
+	<tabTrigger>QAccessibleTableModelChangeEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

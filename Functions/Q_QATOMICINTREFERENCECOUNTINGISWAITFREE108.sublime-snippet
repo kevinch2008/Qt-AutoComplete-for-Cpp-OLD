@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_ATOMIC_INTnn_REFERENCE_COUNTING_IS_WAIT_FREE($1);
+]]></content>
+	<tabTrigger>Q_ATOMIC_INTnn_REFERENCE_COUNTING_IS_WAIT_FREE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

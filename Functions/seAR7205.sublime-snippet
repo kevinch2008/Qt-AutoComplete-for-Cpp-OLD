@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoRemove($1);
+]]></content>
+	<tabTrigger>setAutoRemove</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

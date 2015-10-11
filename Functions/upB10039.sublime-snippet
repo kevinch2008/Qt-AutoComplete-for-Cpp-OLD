@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+upperBound($1);
+]]></content>
+	<tabTrigger>upperBound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

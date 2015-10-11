@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+frameHeight($1);
+]]></content>
+	<tabTrigger>frameHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+codecForMib($1);
+]]></content>
+	<tabTrigger>codecForMib</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

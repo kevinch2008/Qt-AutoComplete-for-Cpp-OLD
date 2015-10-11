@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIdentity($1);
+]]></content>
+	<tabTrigger>setIdentity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

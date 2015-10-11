@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QLineF
+]]></content>
+	<tabTrigger>QLineF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

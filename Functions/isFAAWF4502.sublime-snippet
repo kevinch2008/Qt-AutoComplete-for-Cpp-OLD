@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isFetchAndAddWaitFree($1);
+]]></content>
+	<tabTrigger>isFetchAndAddWaitFree</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCameraFeedbackControl
+]]></content>
+	<tabTrigger>QCameraFeedbackControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

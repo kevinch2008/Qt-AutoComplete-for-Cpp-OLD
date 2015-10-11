@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+monitorExpired($1);
+]]></content>
+	<tabTrigger>monitorExpired</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

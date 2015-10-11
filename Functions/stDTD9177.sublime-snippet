@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startDTD($1);
+]]></content>
+	<tabTrigger>startDTD</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

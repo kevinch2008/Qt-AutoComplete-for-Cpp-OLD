@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+revertAll($1);
+]]></content>
+	<tabTrigger>revertAll</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

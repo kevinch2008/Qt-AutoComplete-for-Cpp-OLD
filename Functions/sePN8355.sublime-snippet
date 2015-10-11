@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPropertyName($1);
+]]></content>
+	<tabTrigger>setPropertyName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

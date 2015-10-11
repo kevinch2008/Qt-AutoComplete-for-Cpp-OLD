@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glIsTransformFeedback($1);
+]]></content>
+	<tabTrigger>glIsTransformFeedback</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

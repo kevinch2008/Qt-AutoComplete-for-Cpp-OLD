@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endPrefixMapping($1);
+]]></content>
+	<tabTrigger>endPrefixMapping</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

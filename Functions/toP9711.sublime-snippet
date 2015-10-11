@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toPem($1);
+]]></content>
+	<tabTrigger>toPem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

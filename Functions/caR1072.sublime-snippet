@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canonicalResource($1);
+]]></content>
+	<tabTrigger>canonicalResource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

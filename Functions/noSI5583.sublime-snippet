@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+notifySignalIndex($1);
+]]></content>
+	<tabTrigger>notifySignalIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

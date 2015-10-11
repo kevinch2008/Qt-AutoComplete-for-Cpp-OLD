@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+yuvLayout($1);
+]]></content>
+	<tabTrigger>yuvLayout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

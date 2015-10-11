@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rowsAboutToBeRemoved($1);
+]]></content>
+	<tabTrigger>rowsAboutToBeRemoved</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

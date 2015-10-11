@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setChildIndicatorPolicy($1);
+]]></content>
+	<tabTrigger>setChildIndicatorPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+primaryPhone($1);
+]]></content>
+	<tabTrigger>primaryPhone</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

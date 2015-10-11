@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaterial($1);
+]]></content>
+	<tabTrigger>setMaterial</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

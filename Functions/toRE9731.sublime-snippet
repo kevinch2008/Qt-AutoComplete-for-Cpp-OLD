@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toRegularExpression($1);
+]]></content>
+	<tabTrigger>toRegularExpression</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

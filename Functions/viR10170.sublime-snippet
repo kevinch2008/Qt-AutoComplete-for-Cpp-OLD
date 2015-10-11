@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+visibleRegion($1);
+]]></content>
+	<tabTrigger>visibleRegion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+applicationFontFamilies($1);
+]]></content>
+	<tabTrigger>applicationFontFamilies</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

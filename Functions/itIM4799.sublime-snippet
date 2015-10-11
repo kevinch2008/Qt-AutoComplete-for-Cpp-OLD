@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+itemIndexMethod($1);
+]]></content>
+	<tabTrigger>itemIndexMethod</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

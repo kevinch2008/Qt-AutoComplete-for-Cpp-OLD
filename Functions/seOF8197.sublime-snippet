@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOptimizationFlag($1);
+]]></content>
+	<tabTrigger>setOptimizationFlag</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

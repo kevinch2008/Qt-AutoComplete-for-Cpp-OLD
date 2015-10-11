@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDoubleSpinBox
+]]></content>
+	<tabTrigger>QDoubleSpinBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

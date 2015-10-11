@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setObjectInspector($1);
+]]></content>
+	<tabTrigger>setObjectInspector</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

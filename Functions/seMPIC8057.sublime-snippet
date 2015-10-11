@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMaximumPagesInCache($1);
+]]></content>
+	<tabTrigger>setMaximumPagesInCache</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

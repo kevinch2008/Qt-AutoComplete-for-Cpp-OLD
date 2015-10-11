@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glCopyTexImage1D($1);
+]]></content>
+	<tabTrigger>glCopyTexImage1D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+heightValid($1);
+]]></content>
+	<tabTrigger>heightValid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

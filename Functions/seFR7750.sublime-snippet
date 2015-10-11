@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setForegroundRole($1);
+]]></content>
+	<tabTrigger>setForegroundRole</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

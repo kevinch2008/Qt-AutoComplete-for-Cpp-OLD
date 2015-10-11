@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+testFlag($1);
+]]></content>
+	<tabTrigger>testFlag</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

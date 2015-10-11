@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readyReadStandardError($1);
+]]></content>
+	<tabTrigger>readyReadStandardError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

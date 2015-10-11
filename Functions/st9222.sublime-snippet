@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stationary($1);
+]]></content>
+	<tabTrigger>stationary</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

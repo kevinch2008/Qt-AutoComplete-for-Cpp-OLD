@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rotationAt($1);
+]]></content>
+	<tabTrigger>rotationAt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

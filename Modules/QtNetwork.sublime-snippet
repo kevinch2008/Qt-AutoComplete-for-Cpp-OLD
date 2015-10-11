@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtNetwork>
+]]></content>
+	<tabTrigger>QtNetwork</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

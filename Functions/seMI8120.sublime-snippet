@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMulticastInterface($1);
+]]></content>
+	<tabTrigger>setMulticastInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

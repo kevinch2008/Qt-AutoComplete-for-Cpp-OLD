@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWindowModality($1);
+]]></content>
+	<tabTrigger>setWindowModality</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

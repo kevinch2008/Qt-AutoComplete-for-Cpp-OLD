@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+gradient($1);
+]]></content>
+	<tabTrigger>gradient</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

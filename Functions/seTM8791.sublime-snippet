@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTransformationMode($1);
+]]></content>
+	<tabTrigger>setTransformationMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

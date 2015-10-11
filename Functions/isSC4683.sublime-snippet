@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSessionCookie($1);
+]]></content>
+	<tabTrigger>isSessionCookie</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

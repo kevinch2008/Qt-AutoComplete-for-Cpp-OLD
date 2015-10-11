@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QColormap
+]]></content>
+	<tabTrigger>QColormap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

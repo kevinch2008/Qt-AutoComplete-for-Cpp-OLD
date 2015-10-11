@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toolButtonStyleChanged($1);
+]]></content>
+	<tabTrigger>toolButtonStyleChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

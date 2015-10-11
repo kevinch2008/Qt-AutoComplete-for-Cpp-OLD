@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+directWriteFallback($1);
+]]></content>
+	<tabTrigger>directWriteFallback</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

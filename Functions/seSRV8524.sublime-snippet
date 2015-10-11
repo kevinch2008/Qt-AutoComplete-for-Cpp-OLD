@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSelectionRectVisible($1);
+]]></content>
+	<tabTrigger>setSelectionRectVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+indexRowSizeHint($1);
+]]></content>
+	<tabTrigger>indexRowSizeHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

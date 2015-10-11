@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glUniform2uiv($1);
+]]></content>
+	<tabTrigger>glUniform2uiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QScriptValue
+]]></content>
+	<tabTrigger>QScriptValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

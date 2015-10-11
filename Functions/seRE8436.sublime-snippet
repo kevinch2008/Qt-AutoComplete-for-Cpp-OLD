@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRootEntity($1);
+]]></content>
+	<tabTrigger>setRootEntity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

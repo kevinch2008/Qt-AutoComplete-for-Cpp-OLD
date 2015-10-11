@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasOpenGLFramebufferObjects($1);
+]]></content>
+	<tabTrigger>hasOpenGLFramebufferObjects</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

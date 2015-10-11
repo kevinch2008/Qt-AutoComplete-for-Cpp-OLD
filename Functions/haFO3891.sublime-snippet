@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+handlerForObject($1);
+]]></content>
+	<tabTrigger>handlerForObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

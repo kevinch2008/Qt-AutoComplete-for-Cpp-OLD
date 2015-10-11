@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isLetter($1);
+]]></content>
+	<tabTrigger>isLetter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

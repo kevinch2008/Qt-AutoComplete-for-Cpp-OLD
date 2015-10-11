@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qHash($1);
+]]></content>
+	<tabTrigger>qHash</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

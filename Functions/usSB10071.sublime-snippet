@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+usesScrollButtons($1);
+]]></content>
+	<tabTrigger>usesScrollButtons</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

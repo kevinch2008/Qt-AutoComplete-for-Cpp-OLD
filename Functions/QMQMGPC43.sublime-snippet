@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QMediaGaplessPlaybackControl_iid($1);
+]]></content>
+	<tabTrigger>QMediaGaplessPlaybackControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

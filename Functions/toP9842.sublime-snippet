@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+touchPoints($1);
+]]></content>
+	<tabTrigger>touchPoints</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

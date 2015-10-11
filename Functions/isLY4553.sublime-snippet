@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isLeapYear($1);
+]]></content>
+	<tabTrigger>isLeapYear</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

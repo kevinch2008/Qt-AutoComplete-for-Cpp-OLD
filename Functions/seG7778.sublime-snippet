@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setGenerated($1);
+]]></content>
+	<tabTrigger>setGenerated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

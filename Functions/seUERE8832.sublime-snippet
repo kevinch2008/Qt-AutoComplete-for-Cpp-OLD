@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUserEquivalentRangeError($1);
+]]></content>
+	<tabTrigger>setUserEquivalentRangeError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

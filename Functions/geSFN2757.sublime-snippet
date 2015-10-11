@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getSaveFileName($1);
+]]></content>
+	<tabTrigger>getSaveFileName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

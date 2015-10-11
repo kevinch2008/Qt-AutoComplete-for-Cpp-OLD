@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+exclusive($1);
+]]></content>
+	<tabTrigger>exclusive</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

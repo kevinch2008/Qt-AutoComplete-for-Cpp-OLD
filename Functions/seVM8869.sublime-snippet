@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setViewMode($1);
+]]></content>
+	<tabTrigger>setViewMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGLContext
+]]></content>
+	<tabTrigger>QGLContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

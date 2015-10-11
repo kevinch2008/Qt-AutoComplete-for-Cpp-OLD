@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setEasingCurve($1);
+]]></content>
+	<tabTrigger>setEasingCurve</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

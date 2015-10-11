@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+searchBackward($1);
+]]></content>
+	<tabTrigger>searchBackward</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

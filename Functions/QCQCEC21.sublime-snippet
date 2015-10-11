@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCameraExposureControl_iid($1);
+]]></content>
+	<tabTrigger>QCameraExposureControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

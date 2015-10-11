@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAtomicInteger
+]]></content>
+	<tabTrigger>QAtomicInteger</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

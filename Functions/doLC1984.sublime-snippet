@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dockLocationChanged($1);
+]]></content>
+	<tabTrigger>dockLocationChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

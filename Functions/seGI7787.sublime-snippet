@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setGlyphIndexes($1);
+]]></content>
+	<tabTrigger>setGlyphIndexes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

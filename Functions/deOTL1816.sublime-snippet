@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultOuterTessellationLevels($1);
+]]></content>
+	<tabTrigger>defaultOuterTessellationLevels</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

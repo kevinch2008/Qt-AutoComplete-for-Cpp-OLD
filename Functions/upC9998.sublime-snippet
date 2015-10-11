@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateCompleted($1);
+]]></content>
+	<tabTrigger>updateCompleted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

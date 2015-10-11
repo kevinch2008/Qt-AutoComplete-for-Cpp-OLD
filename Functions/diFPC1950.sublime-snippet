@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+disconnectFromPropertyChange($1);
+]]></content>
+	<tabTrigger>disconnectFromPropertyChange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

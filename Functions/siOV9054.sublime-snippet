@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sizeOfVertex($1);
+]]></content>
+	<tabTrigger>sizeOfVertex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+keyPressEvent($1);
+]]></content>
+	<tabTrigger>keyPressEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

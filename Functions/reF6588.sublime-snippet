@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestFocus($1);
+]]></content>
+	<tabTrigger>requestFocus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

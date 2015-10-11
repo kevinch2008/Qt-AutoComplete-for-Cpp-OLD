@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+protocolString($1);
+]]></content>
+	<tabTrigger>protocolString</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

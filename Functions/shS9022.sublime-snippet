@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+shutterSpeed($1);
+]]></content>
+	<tabTrigger>shutterSpeed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

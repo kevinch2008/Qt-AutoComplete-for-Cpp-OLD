@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+curveThreshold($1);
+]]></content>
+	<tabTrigger>curveThreshold</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

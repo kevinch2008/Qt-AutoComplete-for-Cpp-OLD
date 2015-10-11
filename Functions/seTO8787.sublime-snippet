@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTransformOrigin($1);
+]]></content>
+	<tabTrigger>setTransformOrigin</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

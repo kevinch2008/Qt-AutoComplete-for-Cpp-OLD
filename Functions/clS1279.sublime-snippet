@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+closeSubpath($1);
+]]></content>
+	<tabTrigger>closeSubpath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

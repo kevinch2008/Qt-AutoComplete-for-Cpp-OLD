@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetMultisamplefv($1);
+]]></content>
+	<tabTrigger>glGetMultisamplefv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

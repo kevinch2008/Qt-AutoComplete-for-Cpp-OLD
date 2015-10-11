@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stopMonitoring($1);
+]]></content>
+	<tabTrigger>stopMonitoring</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

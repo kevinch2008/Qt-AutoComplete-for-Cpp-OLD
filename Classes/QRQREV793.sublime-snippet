@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QRegExpValidator
+]]></content>
+	<tabTrigger>QRegExpValidator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

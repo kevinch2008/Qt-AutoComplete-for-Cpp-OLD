@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+identityHint($1);
+]]></content>
+	<tabTrigger>identityHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

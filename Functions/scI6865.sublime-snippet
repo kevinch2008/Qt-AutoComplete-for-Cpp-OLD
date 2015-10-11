@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scopeId($1);
+]]></content>
+	<tabTrigger>scopeId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

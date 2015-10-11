@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeShader($1);
+]]></content>
+	<tabTrigger>removeShader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

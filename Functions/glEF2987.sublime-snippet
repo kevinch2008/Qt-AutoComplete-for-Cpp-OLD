@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glEdgeFlagv($1);
+]]></content>
+	<tabTrigger>glEdgeFlagv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

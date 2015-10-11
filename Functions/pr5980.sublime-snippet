@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+present($1);
+]]></content>
+	<tabTrigger>present</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

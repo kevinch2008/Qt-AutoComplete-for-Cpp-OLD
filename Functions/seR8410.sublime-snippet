@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setReserved($1);
+]]></content>
+	<tabTrigger>setReserved</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

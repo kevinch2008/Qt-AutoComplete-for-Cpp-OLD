@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+panelModality($1);
+]]></content>
+	<tabTrigger>panelModality</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

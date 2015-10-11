@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+markContentsDirty($1);
+]]></content>
+	<tabTrigger>markContentsDirty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

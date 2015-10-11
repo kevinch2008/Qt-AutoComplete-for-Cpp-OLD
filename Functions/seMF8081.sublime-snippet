@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMinificationFilter($1);
+]]></content>
+	<tabTrigger>setMinificationFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

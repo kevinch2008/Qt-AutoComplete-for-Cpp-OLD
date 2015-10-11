@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+enableMessages($1);
+]]></content>
+	<tabTrigger>enableMessages</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

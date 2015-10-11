@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isWhiteBalanceModeSupported($1);
+]]></content>
+	<tabTrigger>isWhiteBalanceModeSupported</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

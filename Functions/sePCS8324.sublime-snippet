@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPreferredContentsSize($1);
+]]></content>
+	<tabTrigger>setPreferredContentsSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

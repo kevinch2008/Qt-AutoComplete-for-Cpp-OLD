@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMutex($1);
+]]></content>
+	<tabTrigger>setMutex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

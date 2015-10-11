@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qTan($1);
+]]></content>
+	<tabTrigger>qTan</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

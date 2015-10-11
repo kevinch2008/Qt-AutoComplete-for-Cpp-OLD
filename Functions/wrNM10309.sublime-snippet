@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writeNdefMessages($1);
+]]></content>
+	<tabTrigger>writeNdefMessages</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

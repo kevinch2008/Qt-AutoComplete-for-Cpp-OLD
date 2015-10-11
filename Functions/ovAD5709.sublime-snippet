@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overlayAccessibleDescription($1);
+]]></content>
+	<tabTrigger>overlayAccessibleDescription</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

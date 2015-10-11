@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resizeMode($1);
+]]></content>
+	<tabTrigger>resizeMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBoundary($1);
+]]></content>
+	<tabTrigger>setBoundary</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+titleFormat($1);
+]]></content>
+	<tabTrigger>titleFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

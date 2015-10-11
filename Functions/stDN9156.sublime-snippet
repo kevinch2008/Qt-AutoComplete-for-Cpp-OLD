@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+standaloneDayName($1);
+]]></content>
+	<tabTrigger>standaloneDayName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

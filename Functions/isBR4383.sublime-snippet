@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isBackendRegistered($1);
+]]></content>
+	<tabTrigger>isBackendRegistered</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

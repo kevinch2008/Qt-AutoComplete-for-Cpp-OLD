@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glStencilMaskSeparate($1);
+]]></content>
+	<tabTrigger>glStencilMaskSeparate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

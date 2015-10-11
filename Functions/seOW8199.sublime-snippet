@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOptimizedWrite($1);
+]]></content>
+	<tabTrigger>setOptimizedWrite</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

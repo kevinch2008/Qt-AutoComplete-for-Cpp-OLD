@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blitFramebuffer($1);
+]]></content>
+	<tabTrigger>blitFramebuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

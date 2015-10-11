@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeModifiers($1);
+]]></content>
+	<tabTrigger>nativeModifiers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

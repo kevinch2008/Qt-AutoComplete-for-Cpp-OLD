@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlNamePool
+]]></content>
+	<tabTrigger>QXmlNamePool</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

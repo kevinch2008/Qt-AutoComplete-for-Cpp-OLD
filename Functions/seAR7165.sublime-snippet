@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAspectRatio($1);
+]]></content>
+	<tabTrigger>setAspectRatio</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

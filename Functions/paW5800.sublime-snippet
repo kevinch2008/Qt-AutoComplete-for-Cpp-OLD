@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parentWidget($1);
+]]></content>
+	<tabTrigger>parentWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

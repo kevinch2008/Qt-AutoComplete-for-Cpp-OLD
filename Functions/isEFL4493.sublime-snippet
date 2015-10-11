@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isEventFeedbackLocked($1);
+]]></content>
+	<tabTrigger>isEventFeedbackLocked</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

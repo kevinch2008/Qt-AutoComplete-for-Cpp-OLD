@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QProcess
+]]></content>
+	<tabTrigger>QProcess</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

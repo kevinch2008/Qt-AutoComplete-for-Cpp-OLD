@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDesignerActionEditorInterface
+]]></content>
+	<tabTrigger>QDesignerActionEditorInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

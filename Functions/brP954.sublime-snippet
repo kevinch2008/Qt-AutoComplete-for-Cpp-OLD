@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+brushProperty($1);
+]]></content>
+	<tabTrigger>brushProperty</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

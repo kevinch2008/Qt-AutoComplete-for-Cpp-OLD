@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setViewBox($1);
+]]></content>
+	<tabTrigger>setViewBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

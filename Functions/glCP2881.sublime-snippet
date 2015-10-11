@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glColorP3uiv($1);
+]]></content>
+	<tabTrigger>glColorP3uiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

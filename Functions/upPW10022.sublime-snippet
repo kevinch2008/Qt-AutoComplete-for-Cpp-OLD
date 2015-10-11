@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updatePreviewWidget($1);
+]]></content>
+	<tabTrigger>updatePreviewWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

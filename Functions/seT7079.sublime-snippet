@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sessionTerminated($1);
+]]></content>
+	<tabTrigger>sessionTerminated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

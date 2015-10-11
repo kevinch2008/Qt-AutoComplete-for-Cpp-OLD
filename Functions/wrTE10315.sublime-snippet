@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writeTextElement($1);
+]]></content>
+	<tabTrigger>writeTextElement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

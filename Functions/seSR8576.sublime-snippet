@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSkipRows($1);
+]]></content>
+	<tabTrigger>setSkipRows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

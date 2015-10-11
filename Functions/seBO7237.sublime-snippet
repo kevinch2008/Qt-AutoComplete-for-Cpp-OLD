@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBaselineOffset($1);
+]]></content>
+	<tabTrigger>setBaselineOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

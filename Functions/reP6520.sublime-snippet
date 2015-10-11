@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removePlace($1);
+]]></content>
+	<tabTrigger>removePlace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+daylightTimeOffset($1);
+]]></content>
+	<tabTrigger>daylightTimeOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

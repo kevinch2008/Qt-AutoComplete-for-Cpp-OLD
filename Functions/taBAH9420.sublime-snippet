@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tabBarAutoHide($1);
+]]></content>
+	<tabTrigger>tabBarAutoHide</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

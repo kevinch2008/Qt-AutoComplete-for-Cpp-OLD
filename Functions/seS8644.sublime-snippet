@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStereo($1);
+]]></content>
+	<tabTrigger>setStereo</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

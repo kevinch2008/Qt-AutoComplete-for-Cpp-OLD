@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unregisterTimers($1);
+]]></content>
+	<tabTrigger>unregisterTimers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

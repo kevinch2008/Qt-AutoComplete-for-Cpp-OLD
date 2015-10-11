@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+streamType($1);
+]]></content>
+	<tabTrigger>streamType</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

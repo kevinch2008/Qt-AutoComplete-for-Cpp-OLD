@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPaperSource($1);
+]]></content>
+	<tabTrigger>setPaperSource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

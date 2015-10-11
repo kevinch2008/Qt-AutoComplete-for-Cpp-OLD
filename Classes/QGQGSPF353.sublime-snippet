@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGeoServiceProviderFactory
+]]></content>
+	<tabTrigger>QGeoServiceProviderFactory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

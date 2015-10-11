@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setImplicitHeight($1);
+]]></content>
+	<tabTrigger>setImplicitHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

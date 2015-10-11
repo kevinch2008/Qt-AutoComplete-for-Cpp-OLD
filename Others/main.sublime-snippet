@@ -1,0 +1,18 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtWidgets>
+
+int main(int argc, char* argv[])
+{
+    QApplication ${1:app}(argc, argv);
+
+
+
+    return ${1:app}.exec();
+}
+]]></content>
+	<tabTrigger>main </tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt* main</description>
+</snippet>

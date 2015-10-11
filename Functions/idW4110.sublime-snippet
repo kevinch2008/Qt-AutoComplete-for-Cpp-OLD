@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+idnWhitelist($1);
+]]></content>
+	<tabTrigger>idnWhitelist</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

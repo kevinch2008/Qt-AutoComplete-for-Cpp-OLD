@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAutoReset($1);
+]]></content>
+	<tabTrigger>setAutoReset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

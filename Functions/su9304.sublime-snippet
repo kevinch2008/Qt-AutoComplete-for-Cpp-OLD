@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+substitutions($1);
+]]></content>
+	<tabTrigger>substitutions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

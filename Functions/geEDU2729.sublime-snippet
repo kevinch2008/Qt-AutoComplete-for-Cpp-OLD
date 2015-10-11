@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getExistingDirectoryUrl($1);
+]]></content>
+	<tabTrigger>getExistingDirectoryUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

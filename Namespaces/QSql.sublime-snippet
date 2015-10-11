@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QSql>
+]]></content>
+	<tabTrigger>QSql</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

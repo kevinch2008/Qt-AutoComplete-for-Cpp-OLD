@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setupChildProcess($1);
+]]></content>
+	<tabTrigger>setupChildProcess</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeColumns($1);
+]]></content>
+	<tabTrigger>removeColumns</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

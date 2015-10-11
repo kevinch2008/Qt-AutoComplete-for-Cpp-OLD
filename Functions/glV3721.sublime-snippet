@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertex4s($1);
+]]></content>
+	<tabTrigger>glVertex4s</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

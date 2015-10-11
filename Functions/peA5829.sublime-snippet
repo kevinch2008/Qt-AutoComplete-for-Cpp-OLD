@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peerAddress($1);
+]]></content>
+	<tabTrigger>peerAddress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

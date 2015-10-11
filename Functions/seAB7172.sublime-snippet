@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAttributeBuffer($1);
+]]></content>
+	<tabTrigger>setAttributeBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

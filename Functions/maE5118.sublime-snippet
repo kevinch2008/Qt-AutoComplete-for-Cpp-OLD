@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+makeEncoder($1);
+]]></content>
+	<tabTrigger>makeEncoder</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+iconSizeChanged($1);
+]]></content>
+	<tabTrigger>iconSizeChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

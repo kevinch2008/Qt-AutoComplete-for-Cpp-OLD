@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allowedNextProtocols($1);
+]]></content>
+	<tabTrigger>allowedNextProtocols</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

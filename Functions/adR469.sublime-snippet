@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addRegion($1);
+]]></content>
+	<tabTrigger>addRegion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

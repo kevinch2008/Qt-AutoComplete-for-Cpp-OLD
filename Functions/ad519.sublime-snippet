@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+advance($1);
+]]></content>
+	<tabTrigger>advance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

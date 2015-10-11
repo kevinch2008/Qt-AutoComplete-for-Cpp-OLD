@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glViewportIndexedfv($1);
+]]></content>
+	<tabTrigger>glViewportIndexedfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetObjectPtrLabel($1);
+]]></content>
+	<tabTrigger>glGetObjectPtrLabel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isScalable($1);
+]]></content>
+	<tabTrigger>isScalable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

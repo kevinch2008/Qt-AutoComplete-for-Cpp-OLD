@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+disableMetaObject($1);
+]]></content>
+	<tabTrigger>disableMetaObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

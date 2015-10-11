@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCommonStyle
+]]></content>
+	<tabTrigger>QCommonStyle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

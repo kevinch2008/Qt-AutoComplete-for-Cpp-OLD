@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addSpacerItem($1);
+]]></content>
+	<tabTrigger>addSpacerItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

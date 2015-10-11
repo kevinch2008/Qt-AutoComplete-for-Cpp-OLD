@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDashPattern($1);
+]]></content>
+	<tabTrigger>setDashPattern</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAncestorOf($1);
+]]></content>
+	<tabTrigger>isAncestorOf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

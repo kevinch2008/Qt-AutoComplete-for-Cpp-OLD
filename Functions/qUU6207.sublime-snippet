@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qUncompress($1);
+]]></content>
+	<tabTrigger>qUncompress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

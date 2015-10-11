@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QAxContainer>
+]]></content>
+	<tabTrigger>QAxContainer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

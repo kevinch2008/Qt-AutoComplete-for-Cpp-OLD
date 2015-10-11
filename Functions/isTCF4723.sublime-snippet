@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTableCellFormat($1);
+]]></content>
+	<tabTrigger>isTableCellFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

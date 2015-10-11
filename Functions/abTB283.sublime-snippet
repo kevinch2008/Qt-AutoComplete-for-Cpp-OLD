@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+aboutToBlock($1);
+]]></content>
+	<tabTrigger>aboutToBlock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+alignedRect($1);
+]]></content>
+	<tabTrigger>alignedRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSearching($1);
+]]></content>
+	<tabTrigger>isSearching</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

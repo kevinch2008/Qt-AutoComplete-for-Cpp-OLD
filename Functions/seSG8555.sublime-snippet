@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setShowGrid($1);
+]]></content>
+	<tabTrigger>setShowGrid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

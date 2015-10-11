@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSpan($1);
+]]></content>
+	<tabTrigger>setSpan</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

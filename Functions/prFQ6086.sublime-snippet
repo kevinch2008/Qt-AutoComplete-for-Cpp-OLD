@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+proxyForQuery($1);
+]]></content>
+	<tabTrigger>proxyForQuery</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isAtomicValue($1);
+]]></content>
+	<tabTrigger>isAtomicValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

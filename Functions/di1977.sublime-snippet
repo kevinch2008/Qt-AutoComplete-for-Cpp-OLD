@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+divisor($1);
+]]></content>
+	<tabTrigger>divisor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

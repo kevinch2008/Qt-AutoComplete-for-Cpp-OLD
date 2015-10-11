@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setProxyFactory($1);
+]]></content>
+	<tabTrigger>setProxyFactory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

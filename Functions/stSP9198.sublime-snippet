@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startScenePos($1);
+]]></content>
+	<tabTrigger>startScenePos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

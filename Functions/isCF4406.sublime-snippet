@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCharFormat($1);
+]]></content>
+	<tabTrigger>isCharFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

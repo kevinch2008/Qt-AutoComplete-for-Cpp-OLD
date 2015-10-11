@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClientActiveTexture($1);
+]]></content>
+	<tabTrigger>glClientActiveTexture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+reflectance($1);
+]]></content>
+	<tabTrigger>reflectance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoSaveFilter($1);
+]]></content>
+	<tabTrigger>autoSaveFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bindAttributeLocation($1);
+]]></content>
+	<tabTrigger>bindAttributeLocation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

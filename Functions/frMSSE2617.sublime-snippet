@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromMSecsSinceEpoch($1);
+]]></content>
+	<tabTrigger>fromMSecsSinceEpoch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

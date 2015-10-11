@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPassThrough($1);
+]]></content>
+	<tabTrigger>glPassThrough</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

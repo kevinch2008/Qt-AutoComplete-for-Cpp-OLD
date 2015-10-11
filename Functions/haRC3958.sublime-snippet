@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasRegisteredComparators($1);
+]]></content>
+	<tabTrigger>hasRegisteredComparators</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

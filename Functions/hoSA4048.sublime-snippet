@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+horizontalShearAt($1);
+]]></content>
+	<tabTrigger>horizontalShearAt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

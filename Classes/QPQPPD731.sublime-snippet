@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPrintPreviewDialog
+]]></content>
+	<tabTrigger>QPrintPreviewDialog</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

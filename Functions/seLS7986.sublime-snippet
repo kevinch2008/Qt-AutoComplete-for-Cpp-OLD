@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLinearSpeed($1);
+]]></content>
+	<tabTrigger>setLinearSpeed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

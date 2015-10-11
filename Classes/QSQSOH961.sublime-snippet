@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QStyleOptionHeader
+]]></content>
+	<tabTrigger>QStyleOptionHeader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

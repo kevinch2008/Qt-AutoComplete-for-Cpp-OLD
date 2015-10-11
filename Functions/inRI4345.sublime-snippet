@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+invisibleRootItem($1);
+]]></content>
+	<tabTrigger>invisibleRootItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

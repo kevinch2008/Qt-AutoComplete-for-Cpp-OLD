@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetProgramInterfaceiv($1);
+]]></content>
+	<tabTrigger>glGetProgramInterfaceiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

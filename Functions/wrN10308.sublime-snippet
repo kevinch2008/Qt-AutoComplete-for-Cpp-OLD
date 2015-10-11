@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+writeNamespace($1);
+]]></content>
+	<tabTrigger>writeNamespace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

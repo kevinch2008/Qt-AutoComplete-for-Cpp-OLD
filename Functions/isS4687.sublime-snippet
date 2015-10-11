@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isShaded($1);
+]]></content>
+	<tabTrigger>isShaded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

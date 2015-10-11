@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPointParameteriv($1);
+]]></content>
+	<tabTrigger>glPointParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

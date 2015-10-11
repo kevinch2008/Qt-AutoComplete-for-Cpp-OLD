@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestTexture($1);
+]]></content>
+	<tabTrigger>requestTexture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

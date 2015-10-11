@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+checkState($1);
+]]></content>
+	<tabTrigger>checkState</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

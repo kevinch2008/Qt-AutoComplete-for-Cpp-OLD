@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ignoreSslErrorsImplementation($1);
+]]></content>
+	<tabTrigger>ignoreSslErrorsImplementation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

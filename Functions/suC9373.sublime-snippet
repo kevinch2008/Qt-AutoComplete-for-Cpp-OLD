@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsCharacter($1);
+]]></content>
+	<tabTrigger>supportsCharacter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

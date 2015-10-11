@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pathForGlyph($1);
+]]></content>
+	<tabTrigger>pathForGlyph</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

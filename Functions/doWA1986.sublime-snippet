@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dockWidgetArea($1);
+]]></content>
+	<tabTrigger>dockWidgetArea</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

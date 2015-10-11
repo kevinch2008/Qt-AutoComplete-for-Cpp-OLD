@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+cursorToX($1);
+]]></content>
+	<tabTrigger>cursorToX</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSizeConstraint($1);
+]]></content>
+	<tabTrigger>setSizeConstraint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

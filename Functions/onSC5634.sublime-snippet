@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+onlineStateChanged($1);
+]]></content>
+	<tabTrigger>onlineStateChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

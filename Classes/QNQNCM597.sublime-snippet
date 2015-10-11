@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QNetworkConfigurationManager
+]]></content>
+	<tabTrigger>QNetworkConfigurationManager</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

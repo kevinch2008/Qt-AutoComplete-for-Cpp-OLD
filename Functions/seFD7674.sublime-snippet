@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFileDescriptor($1);
+]]></content>
+	<tabTrigger>setFileDescriptor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

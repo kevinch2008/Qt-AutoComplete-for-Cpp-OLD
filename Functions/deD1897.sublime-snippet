@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+deviceDisconnected($1);
+]]></content>
+	<tabTrigger>deviceDisconnected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

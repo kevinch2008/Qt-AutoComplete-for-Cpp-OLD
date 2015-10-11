@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setArbiter($1);
+]]></content>
+	<tabTrigger>setArbiter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

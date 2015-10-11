@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+widgetRemoved($1);
+]]></content>
+	<tabTrigger>widgetRemoved</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

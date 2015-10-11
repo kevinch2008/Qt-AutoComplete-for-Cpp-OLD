@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+layoutMode($1);
+]]></content>
+	<tabTrigger>layoutMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVerticalPolicy($1);
+]]></content>
+	<tabTrigger>setVerticalPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

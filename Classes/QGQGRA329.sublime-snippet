@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGenericReturnArgument
+]]></content>
+	<tabTrigger>QGenericReturnArgument</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

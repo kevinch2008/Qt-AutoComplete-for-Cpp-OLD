@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nameserverChanged($1);
+]]></content>
+	<tabTrigger>nameserverChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

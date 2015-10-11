@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+renderTargetId($1);
+]]></content>
+	<tabTrigger>renderTargetId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

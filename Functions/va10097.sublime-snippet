@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+variant($1);
+]]></content>
+	<tabTrigger>variant</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

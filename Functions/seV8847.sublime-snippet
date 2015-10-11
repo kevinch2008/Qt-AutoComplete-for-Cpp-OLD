@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVersion($1);
+]]></content>
+	<tabTrigger>setVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

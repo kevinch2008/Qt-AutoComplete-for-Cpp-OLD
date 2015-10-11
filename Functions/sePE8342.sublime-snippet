@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setProcessEnvironment($1);
+]]></content>
+	<tabTrigger>setProcessEnvironment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

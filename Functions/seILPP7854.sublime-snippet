@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setIconicLivePreviewPixmap($1);
+]]></content>
+	<tabTrigger>setIconicLivePreviewPixmap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

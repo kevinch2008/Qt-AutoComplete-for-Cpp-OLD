@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qDrawShadeRect($1);
+]]></content>
+	<tabTrigger>qDrawShadeRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

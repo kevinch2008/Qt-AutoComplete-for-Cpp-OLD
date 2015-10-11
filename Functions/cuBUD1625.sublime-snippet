@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentBlockUserData($1);
+]]></content>
+	<tabTrigger>currentBlockUserData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toRfc4122($1);
+]]></content>
+	<tabTrigger>toRfc4122</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

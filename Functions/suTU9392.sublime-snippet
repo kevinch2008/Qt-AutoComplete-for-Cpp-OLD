@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+surrogateToUcs4($1);
+]]></content>
+	<tabTrigger>surrogateToUcs4</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

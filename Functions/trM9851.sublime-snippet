@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+transformMatrix($1);
+]]></content>
+	<tabTrigger>transformMatrix</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

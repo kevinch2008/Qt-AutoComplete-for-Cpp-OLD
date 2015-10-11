@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+parentCategoryId($1);
+]]></content>
+	<tabTrigger>parentCategoryId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSwapBytesEnabled($1);
+]]></content>
+	<tabTrigger>setSwapBytesEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toLatin1($1);
+]]></content>
+	<tabTrigger>toLatin1</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

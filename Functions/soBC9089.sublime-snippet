@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sortByColumn($1);
+]]></content>
+	<tabTrigger>sortByColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

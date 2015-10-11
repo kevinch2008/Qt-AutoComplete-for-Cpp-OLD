@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+createHostWindow($1);
+]]></content>
+	<tabTrigger>createHostWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

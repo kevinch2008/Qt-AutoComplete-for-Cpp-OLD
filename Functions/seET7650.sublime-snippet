@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setExpiryTimeout($1);
+]]></content>
+	<tabTrigger>setExpiryTimeout</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

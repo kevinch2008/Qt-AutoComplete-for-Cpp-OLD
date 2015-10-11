@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+linkDelegationPolicy($1);
+]]></content>
+	<tabTrigger>linkDelegationPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

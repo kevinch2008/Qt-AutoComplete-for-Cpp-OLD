@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+taskbarActivateTabAlt($1);
+]]></content>
+	<tabTrigger>taskbarActivateTabAlt</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

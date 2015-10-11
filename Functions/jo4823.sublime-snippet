@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+join($1);
+]]></content>
+	<tabTrigger>join</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

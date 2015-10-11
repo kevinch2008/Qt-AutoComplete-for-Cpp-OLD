@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+javaScriptWindowObjectCleared($1);
+]]></content>
+	<tabTrigger>javaScriptWindowObjectCleared</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

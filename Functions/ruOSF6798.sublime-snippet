@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+runsOnSubFrames($1);
+]]></content>
+	<tabTrigger>runsOnSubFrames</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

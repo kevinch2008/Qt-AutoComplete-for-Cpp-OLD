@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toCaseFolded($1);
+]]></content>
+	<tabTrigger>toCaseFolded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

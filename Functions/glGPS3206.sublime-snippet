@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetnPolygonStipple($1);
+]]></content>
+	<tabTrigger>glGetnPolygonStipple</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

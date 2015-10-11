@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blueBufferSize($1);
+]]></content>
+	<tabTrigger>blueBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

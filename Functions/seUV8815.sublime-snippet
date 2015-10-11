@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUniformValue($1);
+]]></content>
+	<tabTrigger>setUniformValue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

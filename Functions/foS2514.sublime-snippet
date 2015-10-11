@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+forceShow($1);
+]]></content>
+	<tabTrigger>forceShow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

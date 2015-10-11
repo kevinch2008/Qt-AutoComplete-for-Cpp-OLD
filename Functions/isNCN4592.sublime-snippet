@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isNCName($1);
+]]></content>
+	<tabTrigger>isNCName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

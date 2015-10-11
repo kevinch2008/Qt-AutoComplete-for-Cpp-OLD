@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+activationOrder($1);
+]]></content>
+	<tabTrigger>activationOrder</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

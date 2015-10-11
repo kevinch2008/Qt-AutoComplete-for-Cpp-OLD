@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toVector3DAffine($1);
+]]></content>
+	<tabTrigger>toVector3DAffine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

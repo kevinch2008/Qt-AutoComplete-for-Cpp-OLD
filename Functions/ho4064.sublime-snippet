@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hovered($1);
+]]></content>
+	<tabTrigger>hovered</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

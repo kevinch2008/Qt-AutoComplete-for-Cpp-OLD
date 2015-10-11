@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+aspectFactory($1);
+]]></content>
+	<tabTrigger>aspectFactory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

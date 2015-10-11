@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stack($1);
+]]></content>
+	<tabTrigger>stack</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

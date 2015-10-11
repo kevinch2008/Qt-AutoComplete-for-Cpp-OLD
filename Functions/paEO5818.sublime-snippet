@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+patternErrorOffset($1);
+]]></content>
+	<tabTrigger>patternErrorOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scanLine($1);
+]]></content>
+	<tabTrigger>scanLine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

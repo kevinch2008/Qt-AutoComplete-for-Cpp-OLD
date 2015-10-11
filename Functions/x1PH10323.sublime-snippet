@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+x11PictureHandle($1);
+]]></content>
+	<tabTrigger>x11PictureHandle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

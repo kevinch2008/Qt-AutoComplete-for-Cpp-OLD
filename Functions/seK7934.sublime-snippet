@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setKerning($1);
+]]></content>
+	<tabTrigger>setKerning</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

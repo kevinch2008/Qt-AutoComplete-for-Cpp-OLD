@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+filesSelected($1);
+]]></content>
+	<tabTrigger>filesSelected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

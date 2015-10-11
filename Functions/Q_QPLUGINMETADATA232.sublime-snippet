@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_PLUGIN_METADATA($1);
+]]></content>
+	<tabTrigger>Q_PLUGIN_METADATA</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

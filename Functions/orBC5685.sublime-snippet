@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+orderByClause($1);
+]]></content>
+	<tabTrigger>orderByClause</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

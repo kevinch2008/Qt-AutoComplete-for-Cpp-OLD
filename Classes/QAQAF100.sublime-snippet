@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAxFactory
+]]></content>
+	<tabTrigger>QAxFactory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

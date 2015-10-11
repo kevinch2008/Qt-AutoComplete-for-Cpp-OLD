@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+distributeQueueChanges($1);
+]]></content>
+	<tabTrigger>distributeQueueChanges</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isOpenError($1);
+]]></content>
+	<tabTrigger>isOpenError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glProgramUniformMatrix4x2fv($1);
+]]></content>
+	<tabTrigger>glProgramUniformMatrix4x2fv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

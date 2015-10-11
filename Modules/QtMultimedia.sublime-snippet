@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtMultimedia>
+]]></content>
+	<tabTrigger>QtMultimedia</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOpenLinks($1);
+]]></content>
+	<tabTrigger>setOpenLinks</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

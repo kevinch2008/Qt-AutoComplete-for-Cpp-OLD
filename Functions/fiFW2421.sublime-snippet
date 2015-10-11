@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+findFormWindow($1);
+]]></content>
+	<tabTrigger>findFormWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

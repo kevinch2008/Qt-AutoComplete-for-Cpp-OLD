@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+internalPointer($1);
+]]></content>
+	<tabTrigger>internalPointer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

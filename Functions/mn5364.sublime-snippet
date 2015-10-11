@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mnemonic($1);
+]]></content>
+	<tabTrigger>mnemonic</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

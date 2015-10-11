@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mimeTypeForUrl($1);
+]]></content>
+	<tabTrigger>mimeTypeForUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

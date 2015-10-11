@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addPositionalArgument($1);
+]]></content>
+	<tabTrigger>addPositionalArgument</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

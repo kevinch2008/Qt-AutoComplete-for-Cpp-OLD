@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setClean($1);
+]]></content>
+	<tabTrigger>setClean</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

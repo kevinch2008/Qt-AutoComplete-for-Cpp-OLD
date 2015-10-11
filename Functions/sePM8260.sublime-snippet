@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPauseMode($1);
+]]></content>
+	<tabTrigger>setPauseMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

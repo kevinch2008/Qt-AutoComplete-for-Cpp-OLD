@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+doubleClicked($1);
+]]></content>
+	<tabTrigger>doubleClicked</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

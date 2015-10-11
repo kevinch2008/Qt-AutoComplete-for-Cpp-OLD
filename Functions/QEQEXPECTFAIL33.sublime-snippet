@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QEXPECT_FAIL($1);
+]]></content>
+	<tabTrigger>QEXPECT_FAIL</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

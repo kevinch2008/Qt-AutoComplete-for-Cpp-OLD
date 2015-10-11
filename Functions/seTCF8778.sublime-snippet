@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTotalChangeFlags($1);
+]]></content>
+	<tabTrigger>setTotalChangeFlags</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

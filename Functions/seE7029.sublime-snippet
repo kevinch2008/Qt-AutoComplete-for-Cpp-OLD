@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sensorError($1);
+]]></content>
+	<tabTrigger>sensorError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

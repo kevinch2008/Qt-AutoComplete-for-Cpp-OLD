@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setHitTestPath($1);
+]]></content>
+	<tabTrigger>setHitTestPath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

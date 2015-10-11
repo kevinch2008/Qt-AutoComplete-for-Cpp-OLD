@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFilterWildcard($1);
+]]></content>
+	<tabTrigger>setFilterWildcard</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

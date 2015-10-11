@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QActionGroup
+]]></content>
+	<tabTrigger>QActionGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

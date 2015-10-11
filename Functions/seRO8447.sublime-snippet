@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRouteOptimization($1);
+]]></content>
+	<tabTrigger>setRouteOptimization</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

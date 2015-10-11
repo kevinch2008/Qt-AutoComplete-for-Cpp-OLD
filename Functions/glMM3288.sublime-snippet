@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMatrixMode($1);
+]]></content>
+	<tabTrigger>glMatrixMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

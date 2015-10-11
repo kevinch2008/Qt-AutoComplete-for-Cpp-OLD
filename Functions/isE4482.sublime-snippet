@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isEncrypted($1);
+]]></content>
+	<tabTrigger>isEncrypted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+prettyProductName($1);
+]]></content>
+	<tabTrigger>prettyProductName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

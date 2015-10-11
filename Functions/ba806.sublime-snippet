@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+backtrace($1);
+]]></content>
+	<tabTrigger>backtrace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

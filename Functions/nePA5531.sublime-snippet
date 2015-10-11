@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nextPageAction($1);
+]]></content>
+	<tabTrigger>nextPageAction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

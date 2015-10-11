@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toWCharArray($1);
+]]></content>
+	<tabTrigger>toWCharArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

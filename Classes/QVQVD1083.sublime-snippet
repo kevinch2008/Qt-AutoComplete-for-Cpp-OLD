@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QVector2D
+]]></content>
+	<tabTrigger>QVector2D</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

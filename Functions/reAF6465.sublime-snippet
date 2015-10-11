@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeApplicationFont($1);
+]]></content>
+	<tabTrigger>removeApplicationFont</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

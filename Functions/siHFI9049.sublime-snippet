@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sizeHintForIndex($1);
+]]></content>
+	<tabTrigger>sizeHintForIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

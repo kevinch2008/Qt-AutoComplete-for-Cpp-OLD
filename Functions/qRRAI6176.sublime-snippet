@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRegisterAnimationInterpolator($1);
+]]></content>
+	<tabTrigger>qRegisterAnimationInterpolator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

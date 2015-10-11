@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resetInternalData($1);
+]]></content>
+	<tabTrigger>resetInternalData</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

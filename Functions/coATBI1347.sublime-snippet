@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+columnsAboutToBeInserted($1);
+]]></content>
+	<tabTrigger>columnsAboutToBeInserted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

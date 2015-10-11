@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+formatIndex($1);
+]]></content>
+	<tabTrigger>formatIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

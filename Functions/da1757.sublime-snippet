@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+databases($1);
+]]></content>
+	<tabTrigger>databases</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

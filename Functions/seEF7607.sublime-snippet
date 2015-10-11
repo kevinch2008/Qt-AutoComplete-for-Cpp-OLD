@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setEditFocus($1);
+]]></content>
+	<tabTrigger>setEditFocus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

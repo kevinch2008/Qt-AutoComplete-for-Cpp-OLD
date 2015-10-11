@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+locateAll($1);
+]]></content>
+	<tabTrigger>locateAll</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

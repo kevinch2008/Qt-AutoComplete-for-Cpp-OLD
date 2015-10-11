@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDialogButtonBox
+]]></content>
+	<tabTrigger>QDialogButtonBox</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

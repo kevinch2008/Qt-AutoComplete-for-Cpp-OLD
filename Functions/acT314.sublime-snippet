@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+accessibleText($1);
+]]></content>
+	<tabTrigger>accessibleText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

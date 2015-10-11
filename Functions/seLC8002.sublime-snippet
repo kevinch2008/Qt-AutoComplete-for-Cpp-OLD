@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLoopCount($1);
+]]></content>
+	<tabTrigger>setLoopCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

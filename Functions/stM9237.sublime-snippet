@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stereoMode($1);
+]]></content>
+	<tabTrigger>stereoMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

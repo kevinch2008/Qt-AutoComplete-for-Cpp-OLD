@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+surface($1);
+]]></content>
+	<tabTrigger>surface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPaintFlipped($1);
+]]></content>
+	<tabTrigger>setPaintFlipped</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

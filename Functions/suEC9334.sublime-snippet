@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedEllipticCurves($1);
+]]></content>
+	<tabTrigger>supportedEllipticCurves</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

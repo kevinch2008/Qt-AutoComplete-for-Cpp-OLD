@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toInnerXml($1);
+]]></content>
+	<tabTrigger>toInnerXml</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

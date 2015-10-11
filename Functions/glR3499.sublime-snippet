@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glRotated($1);
+]]></content>
+	<tabTrigger>glRotated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

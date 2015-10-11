@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rmpath($1);
+]]></content>
+	<tabTrigger>rmpath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

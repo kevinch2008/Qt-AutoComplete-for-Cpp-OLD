@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+activeFormWindowChanged($1);
+]]></content>
+	<tabTrigger>activeFormWindowChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

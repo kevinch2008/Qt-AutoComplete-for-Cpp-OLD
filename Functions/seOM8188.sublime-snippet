@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOpaqueMaterial($1);
+]]></content>
+	<tabTrigger>setOpaqueMaterial</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

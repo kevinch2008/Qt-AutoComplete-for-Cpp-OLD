@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+blockingFilter($1);
+]]></content>
+	<tabTrigger>blockingFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

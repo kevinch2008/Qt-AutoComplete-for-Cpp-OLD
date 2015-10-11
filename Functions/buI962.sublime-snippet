@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bufferId($1);
+]]></content>
+	<tabTrigger>bufferId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

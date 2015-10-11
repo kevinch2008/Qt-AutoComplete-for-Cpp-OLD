@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWIDGETSIZE_MAX($1);
+]]></content>
+	<tabTrigger>QWIDGETSIZE_MAX</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

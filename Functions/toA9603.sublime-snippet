@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toAffine($1);
+]]></content>
+	<tabTrigger>toAffine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toggleBit($1);
+]]></content>
+	<tabTrigger>toggleBit</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

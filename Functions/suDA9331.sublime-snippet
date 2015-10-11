@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedDragActions($1);
+]]></content>
+	<tabTrigger>supportedDragActions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

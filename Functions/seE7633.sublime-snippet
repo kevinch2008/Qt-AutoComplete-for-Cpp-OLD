@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setError($1);
+]]></content>
+	<tabTrigger>setError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

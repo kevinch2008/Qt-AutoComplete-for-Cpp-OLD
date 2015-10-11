@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+pageSizeMM($1);
+]]></content>
+	<tabTrigger>pageSizeMM</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

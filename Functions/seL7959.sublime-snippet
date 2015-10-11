@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLayers($1);
+]]></content>
+	<tabTrigger>setLayers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

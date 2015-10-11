@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+networkAccessManager($1);
+]]></content>
+	<tabTrigger>networkAccessManager</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastInsertId($1);
+]]></content>
+	<tabTrigger>lastInsertId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

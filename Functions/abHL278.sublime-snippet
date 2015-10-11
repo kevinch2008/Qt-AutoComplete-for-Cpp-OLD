@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+abortHostLookup($1);
+]]></content>
+	<tabTrigger>abortHostLookup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

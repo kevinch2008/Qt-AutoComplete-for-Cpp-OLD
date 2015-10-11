@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+constFind($1);
+]]></content>
+	<tabTrigger>constFind</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

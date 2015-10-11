@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overrideCursor($1);
+]]></content>
+	<tabTrigger>overrideCursor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

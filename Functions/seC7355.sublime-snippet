@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCollapsible($1);
+]]></content>
+	<tabTrigger>setCollapsible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

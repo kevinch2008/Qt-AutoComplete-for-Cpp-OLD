@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rollback($1);
+]]></content>
+	<tabTrigger>rollback</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

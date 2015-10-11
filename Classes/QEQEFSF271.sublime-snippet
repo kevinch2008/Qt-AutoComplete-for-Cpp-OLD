@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QEglFSFunctions
+]]></content>
+	<tabTrigger>QEglFSFunctions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

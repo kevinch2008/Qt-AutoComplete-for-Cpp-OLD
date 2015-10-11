@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QStateMachine
+]]></content>
+	<tabTrigger>QStateMachine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

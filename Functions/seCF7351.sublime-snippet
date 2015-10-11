@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCmykF($1);
+]]></content>
+	<tabTrigger>setCmykF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_RETURN_ARG($1);
+]]></content>
+	<tabTrigger>Q_RETURN_ARG</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

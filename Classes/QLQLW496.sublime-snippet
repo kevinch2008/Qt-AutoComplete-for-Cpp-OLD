@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QListWidget
+]]></content>
+	<tabTrigger>QListWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+contextPop($1);
+]]></content>
+	<tabTrigger>contextPop</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

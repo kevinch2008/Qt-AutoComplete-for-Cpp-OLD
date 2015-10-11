@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qdbus_cast($1);
+]]></content>
+	<tabTrigger>qdbus_cast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

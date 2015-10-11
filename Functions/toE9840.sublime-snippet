@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+touchEvent($1);
+]]></content>
+	<tabTrigger>touchEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

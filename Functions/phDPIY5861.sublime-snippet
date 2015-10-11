@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+physicalDotsPerInchY($1);
+]]></content>
+	<tabTrigger>physicalDotsPerInchY</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mipMaxLevel($1);
+]]></content>
+	<tabTrigger>mipMaxLevel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

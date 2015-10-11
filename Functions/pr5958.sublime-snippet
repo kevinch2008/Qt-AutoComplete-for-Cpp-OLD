@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+preference($1);
+]]></content>
+	<tabTrigger>preference</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

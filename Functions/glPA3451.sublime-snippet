@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glPushAttrib($1);
+]]></content>
+	<tabTrigger>glPushAttrib</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

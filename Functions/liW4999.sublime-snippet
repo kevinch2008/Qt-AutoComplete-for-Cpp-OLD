@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+listWidget($1);
+]]></content>
+	<tabTrigger>listWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

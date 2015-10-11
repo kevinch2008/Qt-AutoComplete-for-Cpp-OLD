@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_DECLARE_INTERFACE($1);
+]]></content>
+	<tabTrigger>Q_DECLARE_INTERFACE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

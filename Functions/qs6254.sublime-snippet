@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qstyleoption_cast($1);
+]]></content>
+	<tabTrigger>qstyleoption_cast</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

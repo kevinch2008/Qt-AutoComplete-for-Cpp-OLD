@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glEvalPoint2($1);
+]]></content>
+	<tabTrigger>glEvalPoint2</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

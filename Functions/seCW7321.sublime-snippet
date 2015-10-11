@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCentralWidget($1);
+]]></content>
+	<tabTrigger>setCentralWidget</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isClosed($1);
+]]></content>
+	<tabTrigger>isClosed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+openglContext($1);
+]]></content>
+	<tabTrigger>openglContext</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

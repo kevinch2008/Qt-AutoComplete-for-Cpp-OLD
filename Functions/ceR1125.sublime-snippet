@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+centerRadius($1);
+]]></content>
+	<tabTrigger>centerRadius</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

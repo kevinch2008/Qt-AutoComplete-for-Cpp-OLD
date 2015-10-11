@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFloatDistance($1);
+]]></content>
+	<tabTrigger>qFloatDistance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

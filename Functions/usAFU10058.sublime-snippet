@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+userAgentForUrl($1);
+]]></content>
+	<tabTrigger>userAgentForUrl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

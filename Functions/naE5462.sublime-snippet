@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nativeEvent($1);
+]]></content>
+	<tabTrigger>nativeEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

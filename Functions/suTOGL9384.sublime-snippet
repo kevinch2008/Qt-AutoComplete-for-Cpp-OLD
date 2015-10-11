@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportsThreadedOpenGL($1);
+]]></content>
+	<tabTrigger>supportsThreadedOpenGL</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

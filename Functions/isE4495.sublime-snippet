@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isExecutable($1);
+]]></content>
+	<tabTrigger>isExecutable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

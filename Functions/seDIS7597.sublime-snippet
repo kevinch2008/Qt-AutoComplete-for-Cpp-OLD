@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDropIndicatorShown($1);
+]]></content>
+	<tabTrigger>setDropIndicatorShown</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

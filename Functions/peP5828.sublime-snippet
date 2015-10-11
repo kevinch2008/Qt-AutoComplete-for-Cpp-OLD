@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+peekPrevious($1);
+]]></content>
+	<tabTrigger>peekPrevious</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

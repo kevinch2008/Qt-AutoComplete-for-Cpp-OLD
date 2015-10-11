@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+tileSubWindows($1);
+]]></content>
+	<tabTrigger>tileSubWindows</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

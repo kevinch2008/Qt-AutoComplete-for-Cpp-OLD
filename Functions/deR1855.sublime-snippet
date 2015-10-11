@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+deleteResource($1);
+]]></content>
+	<tabTrigger>deleteResource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

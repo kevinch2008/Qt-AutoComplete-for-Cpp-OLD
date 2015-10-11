@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qt_metacall($1);
+]]></content>
+	<tabTrigger>qt_metacall</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

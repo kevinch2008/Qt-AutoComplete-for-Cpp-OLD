@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+componentComplete($1);
+]]></content>
+	<tabTrigger>componentComplete</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

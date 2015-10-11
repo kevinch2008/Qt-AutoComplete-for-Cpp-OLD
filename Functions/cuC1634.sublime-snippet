@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentColumn($1);
+]]></content>
+	<tabTrigger>currentColumn</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

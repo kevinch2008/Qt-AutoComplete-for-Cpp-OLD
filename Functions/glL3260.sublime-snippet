@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glLightiv($1);
+]]></content>
+	<tabTrigger>glLightiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

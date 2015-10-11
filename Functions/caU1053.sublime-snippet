@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canUndo($1);
+]]></content>
+	<tabTrigger>canUndo</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

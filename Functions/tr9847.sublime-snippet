@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+transform($1);
+]]></content>
+	<tabTrigger>transform</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

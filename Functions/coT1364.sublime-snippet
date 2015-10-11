@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+commitTransaction($1);
+]]></content>
+	<tabTrigger>commitTransaction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sortIndicatorSection($1);
+]]></content>
+	<tabTrigger>sortIndicatorSection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

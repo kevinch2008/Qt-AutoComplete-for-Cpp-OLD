@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+recommendationId($1);
+]]></content>
+	<tabTrigger>recommendationId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetBooleanv($1);
+]]></content>
+	<tabTrigger>glGetBooleanv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

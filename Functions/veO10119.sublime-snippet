@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+verticalOffset($1);
+]]></content>
+	<tabTrigger>verticalOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

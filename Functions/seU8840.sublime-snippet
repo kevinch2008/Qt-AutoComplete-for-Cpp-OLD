@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setUtf16($1);
+]]></content>
+	<tabTrigger>setUtf16</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

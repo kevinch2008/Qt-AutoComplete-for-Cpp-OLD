@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTWEBKIT_VERSION($1);
+]]></content>
+	<tabTrigger>QTWEBKIT_VERSION</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

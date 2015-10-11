@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glLoadName($1);
+]]></content>
+	<tabTrigger>glLoadName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QApplication ${1:app}(argc, argv);
+]]></content>
+	<tabTrigger>QApplication</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt* QApplication</description>
+</snippet>

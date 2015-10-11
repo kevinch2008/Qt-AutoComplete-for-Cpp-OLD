@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastResortFamily($1);
+]]></content>
+	<tabTrigger>lastResortFamily</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

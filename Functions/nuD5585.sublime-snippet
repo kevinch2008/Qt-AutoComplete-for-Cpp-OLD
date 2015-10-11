@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nullDevice($1);
+]]></content>
+	<tabTrigger>nullDevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

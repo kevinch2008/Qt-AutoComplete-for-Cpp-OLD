@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSharedPointer
+]]></content>
+	<tabTrigger>QSharedPointer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

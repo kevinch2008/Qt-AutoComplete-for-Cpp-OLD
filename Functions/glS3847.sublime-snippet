@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+globalSettings($1);
+]]></content>
+	<tabTrigger>globalSettings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

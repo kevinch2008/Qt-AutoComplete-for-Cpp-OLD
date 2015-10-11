@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+firstDayOfWeek($1);
+]]></content>
+	<tabTrigger>firstDayOfWeek</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

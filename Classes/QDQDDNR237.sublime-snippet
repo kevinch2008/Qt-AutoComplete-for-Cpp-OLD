@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDnsDomainNameRecord
+]]></content>
+	<tabTrigger>QDnsDomainNameRecord</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

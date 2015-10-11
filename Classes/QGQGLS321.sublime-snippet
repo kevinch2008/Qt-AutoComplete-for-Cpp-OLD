@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGLShader
+]]></content>
+	<tabTrigger>QGLShader</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+byteCount($1);
+]]></content>
+	<tabTrigger>byteCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

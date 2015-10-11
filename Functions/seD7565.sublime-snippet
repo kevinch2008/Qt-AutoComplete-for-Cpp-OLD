@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDistrict($1);
+]]></content>
+	<tabTrigger>setDistrict</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

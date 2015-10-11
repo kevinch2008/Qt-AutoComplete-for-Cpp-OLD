@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+calibrate($1);
+]]></content>
+	<tabTrigger>calibrate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

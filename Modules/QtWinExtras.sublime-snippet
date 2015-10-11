@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtWinExtras>
+]]></content>
+	<tabTrigger>QtWinExtras</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

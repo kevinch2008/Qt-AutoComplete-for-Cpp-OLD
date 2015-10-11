@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+busyChanged($1);
+]]></content>
+	<tabTrigger>busyChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

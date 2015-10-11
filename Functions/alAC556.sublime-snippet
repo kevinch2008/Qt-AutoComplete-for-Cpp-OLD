@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allowedAreasChanged($1);
+]]></content>
+	<tabTrigger>allowedAreasChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

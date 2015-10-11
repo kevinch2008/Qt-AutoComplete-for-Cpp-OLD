@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+windowsVersion($1);
+]]></content>
+	<tabTrigger>windowsVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

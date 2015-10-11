@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glBindVertexArray($1);
+]]></content>
+	<tabTrigger>glBindVertexArray</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

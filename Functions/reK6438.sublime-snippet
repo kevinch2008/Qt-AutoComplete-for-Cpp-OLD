@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+releaseKeyboard($1);
+]]></content>
+	<tabTrigger>releaseKeyboard</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

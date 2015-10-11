@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPlaceUser
+]]></content>
+	<tabTrigger>QPlaceUser</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

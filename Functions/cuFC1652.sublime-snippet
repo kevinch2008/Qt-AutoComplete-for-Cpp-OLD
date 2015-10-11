@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currentFontChanged($1);
+]]></content>
+	<tabTrigger>currentFontChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

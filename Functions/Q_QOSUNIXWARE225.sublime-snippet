@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_OS_UNIXWARE($1);
+]]></content>
+	<tabTrigger>Q_OS_UNIXWARE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

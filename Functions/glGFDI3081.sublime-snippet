@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetFragDataIndex($1);
+]]></content>
+	<tabTrigger>glGetFragDataIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

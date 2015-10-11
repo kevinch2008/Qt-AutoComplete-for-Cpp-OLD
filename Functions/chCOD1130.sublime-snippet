@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+changeCurrentOnDrag($1);
+]]></content>
+	<tabTrigger>changeCurrentOnDrag</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

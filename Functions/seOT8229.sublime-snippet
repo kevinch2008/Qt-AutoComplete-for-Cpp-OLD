@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOwnsTexture($1);
+]]></content>
+	<tabTrigger>setOwnsTexture</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

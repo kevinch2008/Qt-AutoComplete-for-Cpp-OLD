@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNextStartupId($1);
+]]></content>
+	<tabTrigger>setNextStartupId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

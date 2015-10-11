@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glClearStencil($1);
+]]></content>
+	<tabTrigger>glClearStencil</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

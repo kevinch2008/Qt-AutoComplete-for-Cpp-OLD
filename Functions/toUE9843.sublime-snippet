@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+touchUngrabEvent($1);
+]]></content>
+	<tabTrigger>touchUngrabEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

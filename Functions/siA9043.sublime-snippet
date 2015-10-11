@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sizeAvailable($1);
+]]></content>
+	<tabTrigger>sizeAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

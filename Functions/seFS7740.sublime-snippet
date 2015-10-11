@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFontSize($1);
+]]></content>
+	<tabTrigger>setFontSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

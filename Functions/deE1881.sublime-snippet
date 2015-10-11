@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+destroyEditor($1);
+]]></content>
+	<tabTrigger>destroyEditor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

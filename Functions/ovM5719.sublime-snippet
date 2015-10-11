@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overwriteMode($1);
+]]></content>
+	<tabTrigger>overwriteMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

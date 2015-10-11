@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromStdList($1);
+]]></content>
+	<tabTrigger>fromStdList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

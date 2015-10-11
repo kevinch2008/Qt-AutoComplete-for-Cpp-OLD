@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRedBufferSize($1);
+]]></content>
+	<tabTrigger>setRedBufferSize</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

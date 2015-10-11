@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QLatin1String
+]]></content>
+	<tabTrigger>QLatin1String</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

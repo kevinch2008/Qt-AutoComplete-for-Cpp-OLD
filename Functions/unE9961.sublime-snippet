@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unregisterExtensions($1);
+]]></content>
+	<tabTrigger>unregisterExtensions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

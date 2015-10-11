@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+frameShadow($1);
+]]></content>
+	<tabTrigger>frameShadow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

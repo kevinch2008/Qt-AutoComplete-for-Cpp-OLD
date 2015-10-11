@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetAttribLocation($1);
+]]></content>
+	<tabTrigger>glGetAttribLocation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

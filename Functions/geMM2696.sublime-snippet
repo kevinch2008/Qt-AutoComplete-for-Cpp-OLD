@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+generateMipMaps($1);
+]]></content>
+	<tabTrigger>generateMipMaps</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

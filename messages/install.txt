@@ -1,0 +1,42 @@
+Qt AutoComplete for C++
+=======================
+
+Thank you for installing Qt AutoComplete for C++, an easy=to-use autocomplete package for QT classes, methods, Modules and Namespaces.
+
+If you have any questions, comments, concerns, bugs, or patches, please open an
+issue or pull request on GitHub<https://github.com/tushortz/Qt-AutoComplete-for-Cpp> and I'll do what I can to help out. 
+
+You can also email me directly at <taiwo.kareem36@gmail.com>. 
+
+How to Use
+===========
+
+All Classes, Modules and Namespace autocomplete can be activated by typing part of its name( in Upper case)and pressing TAB to select. Some functions are also activated in Upper-case Mode but most functions are activated in Lowercase
+
+Example
+=======
+
+Note: All the string with Caret(Inverted V) below it is used to specify which case it should begin with.
+	
+	Package use   --->   Package display   -->   Package Type
+	===========================================================
+
+	setMaximumSize   -->   setMaximumSize();   -->   Methods
+	^
+
+	QtWidgets   -->   #include <QtWidgets>   --> Modules
+	^
+
+	QLabel   -->   QLabel --->   Classes
+	^^
+
+	QAudio   -->   #include <QAudio>   -->   Namespaces
+	^
+
+
+
+
+
+
+
+

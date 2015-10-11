@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractOpenGLFunctions
+]]></content>
+	<tabTrigger>QAbstractOpenGLFunctions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

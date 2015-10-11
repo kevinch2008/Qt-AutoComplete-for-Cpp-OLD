@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+match($1);
+]]></content>
+	<tabTrigger>match</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

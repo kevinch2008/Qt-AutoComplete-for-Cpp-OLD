@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isDocumentFragment($1);
+]]></content>
+	<tabTrigger>isDocumentFragment</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

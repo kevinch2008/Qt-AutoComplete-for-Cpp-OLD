@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWmWindowTypeIdentifier($1);
+]]></content>
+	<tabTrigger>setWmWindowTypeIdentifier</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

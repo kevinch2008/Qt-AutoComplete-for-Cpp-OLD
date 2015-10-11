@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCompleter
+]]></content>
+	<tabTrigger>QCompleter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

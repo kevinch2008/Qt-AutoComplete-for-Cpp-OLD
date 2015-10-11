@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glInvalidateSubFramebuffer($1);
+]]></content>
+	<tabTrigger>glInvalidateSubFramebuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

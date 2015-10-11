@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+authenticationState($1);
+]]></content>
+	<tabTrigger>authenticationState</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

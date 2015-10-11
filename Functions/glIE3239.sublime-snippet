@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glIsEnabled($1);
+]]></content>
+	<tabTrigger>glIsEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

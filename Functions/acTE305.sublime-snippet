@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+acceptTouchEvents($1);
+]]></content>
+	<tabTrigger>acceptTouchEvents</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

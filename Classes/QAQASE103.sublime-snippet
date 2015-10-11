@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAxScriptEngine
+]]></content>
+	<tabTrigger>QAxScriptEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

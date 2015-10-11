@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+ensureCursorVisible($1);
+]]></content>
+	<tabTrigger>ensureCursorVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

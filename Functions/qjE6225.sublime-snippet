@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qjsEngine($1);
+]]></content>
+	<tabTrigger>qjsEngine</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

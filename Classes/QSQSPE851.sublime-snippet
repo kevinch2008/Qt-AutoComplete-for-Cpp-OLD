@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QScrollPrepareEvent
+]]></content>
+	<tabTrigger>QScrollPrepareEvent</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

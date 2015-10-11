@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAbstractVideoBuffer
+]]></content>
+	<tabTrigger>QAbstractVideoBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

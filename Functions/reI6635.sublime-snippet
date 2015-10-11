@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resetIndentation($1);
+]]></content>
+	<tabTrigger>resetIndentation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

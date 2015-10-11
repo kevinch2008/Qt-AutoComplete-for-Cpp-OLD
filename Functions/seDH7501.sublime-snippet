@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDeclHandler($1);
+]]></content>
+	<tabTrigger>setDeclHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

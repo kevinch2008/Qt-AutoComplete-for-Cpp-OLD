@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+vertexCount($1);
+]]></content>
+	<tabTrigger>vertexCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

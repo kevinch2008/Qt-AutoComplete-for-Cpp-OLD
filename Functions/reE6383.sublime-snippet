@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+regExp($1);
+]]></content>
+	<tabTrigger>regExp</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

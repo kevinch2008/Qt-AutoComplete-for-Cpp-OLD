@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeAllDatabases($1);
+]]></content>
+	<tabTrigger>removeAllDatabases</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

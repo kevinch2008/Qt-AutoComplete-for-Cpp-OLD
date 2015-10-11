@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDockNestingEnabled($1);
+]]></content>
+	<tabTrigger>setDockNestingEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

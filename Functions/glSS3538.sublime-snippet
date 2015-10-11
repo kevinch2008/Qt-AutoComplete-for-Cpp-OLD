@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glShaderSource($1);
+]]></content>
+	<tabTrigger>glShaderSource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

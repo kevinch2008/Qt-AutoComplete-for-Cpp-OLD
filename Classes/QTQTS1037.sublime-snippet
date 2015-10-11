@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTextStream
+]]></content>
+	<tabTrigger>QTextStream</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

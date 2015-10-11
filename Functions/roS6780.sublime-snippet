@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rowStretch($1);
+]]></content>
+	<tabTrigger>rowStretch</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

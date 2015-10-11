@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+processedUSecs($1);
+]]></content>
+	<tabTrigger>processedUSecs</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+collateCopies($1);
+]]></content>
+	<tabTrigger>collateCopies</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromNativeSeparators($1);
+]]></content>
+	<tabTrigger>fromNativeSeparators</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

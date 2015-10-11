@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+endInsertColumns($1);
+]]></content>
+	<tabTrigger>endInsertColumns</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+distanceToPoint($1);
+]]></content>
+	<tabTrigger>distanceToPoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

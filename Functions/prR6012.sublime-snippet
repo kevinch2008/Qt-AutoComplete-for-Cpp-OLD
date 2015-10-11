@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+printRange($1);
+]]></content>
+	<tabTrigger>printRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

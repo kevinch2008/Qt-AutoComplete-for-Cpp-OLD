@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+indexOfEnumerator($1);
+]]></content>
+	<tabTrigger>indexOfEnumerator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

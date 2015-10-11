@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+bytesToWrite($1);
+]]></content>
+	<tabTrigger>bytesToWrite</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

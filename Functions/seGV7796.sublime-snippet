@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setGridVisible($1);
+]]></content>
+	<tabTrigger>setGridVisible</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

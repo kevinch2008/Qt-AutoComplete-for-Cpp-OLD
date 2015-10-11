@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+destroyItemGroup($1);
+]]></content>
+	<tabTrigger>destroyItemGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

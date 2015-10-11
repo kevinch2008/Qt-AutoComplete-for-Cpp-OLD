@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSwipeAngle($1);
+]]></content>
+	<tabTrigger>setSwipeAngle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

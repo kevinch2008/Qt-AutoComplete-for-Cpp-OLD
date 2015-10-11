@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+brightnessChanged($1);
+]]></content>
+	<tabTrigger>brightnessChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

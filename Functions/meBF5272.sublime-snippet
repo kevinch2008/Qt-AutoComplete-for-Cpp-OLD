@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mergeBlockFormat($1);
+]]></content>
+	<tabTrigger>mergeBlockFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

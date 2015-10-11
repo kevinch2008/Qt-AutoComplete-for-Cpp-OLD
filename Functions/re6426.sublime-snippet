@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rehighlight($1);
+]]></content>
+	<tabTrigger>rehighlight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

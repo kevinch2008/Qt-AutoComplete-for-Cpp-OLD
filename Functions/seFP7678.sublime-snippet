@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFilePath($1);
+]]></content>
+	<tabTrigger>setFilePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtWebSockets>
+]]></content>
+	<tabTrigger>QtWebSockets</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

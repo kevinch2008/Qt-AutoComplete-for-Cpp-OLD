@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isReferenceCountingNative($1);
+]]></content>
+	<tabTrigger>isReferenceCountingNative</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

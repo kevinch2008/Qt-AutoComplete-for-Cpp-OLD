@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+paintOverGL($1);
+]]></content>
+	<tabTrigger>paintOverGL</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

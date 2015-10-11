@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+decompositionTag($1);
+]]></content>
+	<tabTrigger>decompositionTag</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

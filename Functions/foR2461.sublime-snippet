@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+focalRadius($1);
+]]></content>
+	<tabTrigger>focalRadius</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

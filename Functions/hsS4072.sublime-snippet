@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hsvSaturation($1);
+]]></content>
+	<tabTrigger>hsvSaturation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

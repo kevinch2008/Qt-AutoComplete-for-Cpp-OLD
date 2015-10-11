@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLazyChildCount($1);
+]]></content>
+	<tabTrigger>setLazyChildCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+installSceneEventFilter($1);
+]]></content>
+	<tabTrigger>installSceneEventFilter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

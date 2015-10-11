@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+keyboardRectangle($1);
+]]></content>
+	<tabTrigger>keyboardRectangle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

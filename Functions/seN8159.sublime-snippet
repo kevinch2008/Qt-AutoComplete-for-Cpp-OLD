@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setNull($1);
+]]></content>
+	<tabTrigger>setNull</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

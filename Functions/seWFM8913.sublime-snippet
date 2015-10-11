@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setWindowFrameMargins($1);
+]]></content>
+	<tabTrigger>setWindowFrameMargins</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

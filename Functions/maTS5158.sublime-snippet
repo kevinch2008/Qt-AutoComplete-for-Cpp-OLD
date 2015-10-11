@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+mapToSource($1);
+]]></content>
+	<tabTrigger>mapToSource</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

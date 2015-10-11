@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fetchAndSubOrdered($1);
+]]></content>
+	<tabTrigger>fetchAndSubOrdered</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

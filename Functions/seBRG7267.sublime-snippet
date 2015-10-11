@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBoundingRegionGranularity($1);
+]]></content>
+	<tabTrigger>setBoundingRegionGranularity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serviceClassUuids($1);
+]]></content>
+	<tabTrigger>serviceClassUuids</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

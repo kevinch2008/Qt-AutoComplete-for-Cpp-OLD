@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+aspectRatio($1);
+]]></content>
+	<tabTrigger>aspectRatio</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

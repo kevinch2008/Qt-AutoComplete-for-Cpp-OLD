@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+nameServerRecords($1);
+]]></content>
+	<tabTrigger>nameServerRecords</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

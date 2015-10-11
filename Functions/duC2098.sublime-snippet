@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+durationChanged($1);
+]]></content>
+	<tabTrigger>durationChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

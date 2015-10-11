@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPlaceholderText($1);
+]]></content>
+	<tabTrigger>setPlaceholderText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

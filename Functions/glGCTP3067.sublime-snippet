@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetColorTableParameterfv($1);
+]]></content>
+	<tabTrigger>glGetColorTableParameterfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

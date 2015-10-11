@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+unload($1);
+]]></content>
+	<tabTrigger>unload</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+redF($1);
+]]></content>
+	<tabTrigger>redF</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isWhitespace($1);
+]]></content>
+	<tabTrigger>isWhitespace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

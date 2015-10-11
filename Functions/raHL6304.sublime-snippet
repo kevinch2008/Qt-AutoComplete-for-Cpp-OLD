@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rawHeaderList($1);
+]]></content>
+	<tabTrigger>rawHeaderList</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

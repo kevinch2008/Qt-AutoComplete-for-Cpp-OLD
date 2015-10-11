@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStrikeOut($1);
+]]></content>
+	<tabTrigger>setStrikeOut</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

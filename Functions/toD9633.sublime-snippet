@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toDer($1);
+]]></content>
+	<tabTrigger>toDer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

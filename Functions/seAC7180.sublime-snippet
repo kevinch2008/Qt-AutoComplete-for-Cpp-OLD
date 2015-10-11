@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAudioCodec($1);
+]]></content>
+	<tabTrigger>setAudioCodec</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

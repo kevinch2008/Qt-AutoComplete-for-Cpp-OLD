@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+scrollLeftAction($1);
+]]></content>
+	<tabTrigger>scrollLeftAction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

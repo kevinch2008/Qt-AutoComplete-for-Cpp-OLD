@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+normalizedTextureSubRect($1);
+]]></content>
+	<tabTrigger>normalizedTextureSubRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGenQueries($1);
+]]></content>
+	<tabTrigger>glGenQueries</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

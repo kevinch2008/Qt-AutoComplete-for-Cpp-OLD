@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+currencySymbol($1);
+]]></content>
+	<tabTrigger>currencySymbol</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

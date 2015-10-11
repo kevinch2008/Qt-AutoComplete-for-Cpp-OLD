@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startDragVelocity($1);
+]]></content>
+	<tabTrigger>startDragVelocity</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

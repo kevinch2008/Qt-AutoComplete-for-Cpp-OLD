@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stopBitsChanged($1);
+]]></content>
+	<tabTrigger>stopBitsChanged</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

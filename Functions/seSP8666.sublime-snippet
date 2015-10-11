@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSubmitPolicy($1);
+]]></content>
+	<tabTrigger>setSubmitPolicy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

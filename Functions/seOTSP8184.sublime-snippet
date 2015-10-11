@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOffsetToSectionPosition($1);
+]]></content>
+	<tabTrigger>setOffsetToSectionPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

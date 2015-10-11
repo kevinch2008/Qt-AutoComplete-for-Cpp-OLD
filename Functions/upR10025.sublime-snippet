@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updateRoute($1);
+]]></content>
+	<tabTrigger>updateRoute</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+doubleClickInterval($1);
+]]></content>
+	<tabTrigger>doubleClickInterval</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

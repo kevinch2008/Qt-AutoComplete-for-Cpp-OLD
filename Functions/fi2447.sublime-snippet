@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fixed($1);
+]]></content>
+	<tabTrigger>fixed</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

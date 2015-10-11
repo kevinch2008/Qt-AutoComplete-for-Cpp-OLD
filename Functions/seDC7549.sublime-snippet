@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDigitCount($1);
+]]></content>
+	<tabTrigger>setDigitCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

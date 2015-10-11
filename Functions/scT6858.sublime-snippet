@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sceneTransform($1);
+]]></content>
+	<tabTrigger>sceneTransform</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

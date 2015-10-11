@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glDeleteVertexArrays($1);
+]]></content>
+	<tabTrigger>glDeleteVertexArrays</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

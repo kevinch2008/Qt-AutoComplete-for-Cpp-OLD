@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+period($1);
+]]></content>
+	<tabTrigger>period</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

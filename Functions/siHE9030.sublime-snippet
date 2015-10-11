@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+signalHandlerException($1);
+]]></content>
+	<tabTrigger>signalHandlerException</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

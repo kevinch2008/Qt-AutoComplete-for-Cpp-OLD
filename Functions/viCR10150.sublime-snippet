@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+viewportChangeRequested($1);
+]]></content>
+	<tabTrigger>viewportChangeRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+grabFrameBuffer($1);
+]]></content>
+	<tabTrigger>grabFrameBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

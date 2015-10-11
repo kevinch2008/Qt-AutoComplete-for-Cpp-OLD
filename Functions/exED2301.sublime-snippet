@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+externalEntityDecl($1);
+]]></content>
+	<tabTrigger>externalEntityDecl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

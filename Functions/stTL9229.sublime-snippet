@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+stayTopLevel($1);
+]]></content>
+	<tabTrigger>stayTopLevel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

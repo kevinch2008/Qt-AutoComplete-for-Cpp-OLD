@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isSingleShot($1);
+]]></content>
+	<tabTrigger>isSingleShot</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

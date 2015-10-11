@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetMinmaxParameteriv($1);
+]]></content>
+	<tabTrigger>glGetMinmaxParameteriv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

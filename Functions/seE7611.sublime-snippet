@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setEditable($1);
+]]></content>
+	<tabTrigger>setEditable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

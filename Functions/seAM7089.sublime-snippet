@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAcceptMode($1);
+]]></content>
+	<tabTrigger>setAcceptMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

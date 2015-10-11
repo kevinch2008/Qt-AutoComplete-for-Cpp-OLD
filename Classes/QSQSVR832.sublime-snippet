@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QScopedValueRollback
+]]></content>
+	<tabTrigger>QScopedValueRollback</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

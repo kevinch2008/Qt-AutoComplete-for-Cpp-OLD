@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+discardCommand($1);
+]]></content>
+	<tabTrigger>discardCommand</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

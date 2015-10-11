@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QTRY_COMPARE($1);
+]]></content>
+	<tabTrigger>QTRY_COMPARE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

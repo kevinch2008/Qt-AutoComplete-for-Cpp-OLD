@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allSelectors($1);
+]]></content>
+	<tabTrigger>allSelectors</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

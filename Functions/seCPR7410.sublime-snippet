@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setContentPosRange($1);
+]]></content>
+	<tabTrigger>setContentPosRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

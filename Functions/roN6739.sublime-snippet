@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rootNode($1);
+]]></content>
+	<tabTrigger>rootNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXcbWindowFunctions
+]]></content>
+	<tabTrigger>QXcbWindowFunctions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

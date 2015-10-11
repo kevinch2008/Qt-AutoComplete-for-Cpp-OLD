@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QIdentityProxyModel
+]]></content>
+	<tabTrigger>QIdentityProxyModel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

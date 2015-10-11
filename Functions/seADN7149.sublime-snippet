@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setApplicationDisplayName($1);
+]]></content>
+	<tabTrigger>setApplicationDisplayName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

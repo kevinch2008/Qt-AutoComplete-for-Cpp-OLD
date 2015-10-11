@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSerialPort
+]]></content>
+	<tabTrigger>QSerialPort</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+minimumHeightForWidth($1);
+]]></content>
+	<tabTrigger>minimumHeightForWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

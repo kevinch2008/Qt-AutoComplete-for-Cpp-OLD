@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCalibrationLevel($1);
+]]></content>
+	<tabTrigger>setCalibrationLevel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

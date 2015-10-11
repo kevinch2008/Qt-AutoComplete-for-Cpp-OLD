@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+prepareGeometryChange($1);
+]]></content>
+	<tabTrigger>prepareGeometryChange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

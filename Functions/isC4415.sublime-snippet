@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isClipped($1);
+]]></content>
+	<tabTrigger>isClipped</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

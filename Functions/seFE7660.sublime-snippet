@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFallbacksEnabled($1);
+]]></content>
+	<tabTrigger>setFallbacksEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

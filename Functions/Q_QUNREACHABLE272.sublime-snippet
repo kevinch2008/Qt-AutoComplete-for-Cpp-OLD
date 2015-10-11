@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+Q_UNREACHABLE($1);
+]]></content>
+	<tabTrigger>Q_UNREACHABLE</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

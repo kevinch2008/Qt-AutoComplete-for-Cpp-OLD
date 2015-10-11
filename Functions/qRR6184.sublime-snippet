@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRound($1);
+]]></content>
+	<tabTrigger>qRound</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

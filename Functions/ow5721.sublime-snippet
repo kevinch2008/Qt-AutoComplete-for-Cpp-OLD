@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+owner($1);
+]]></content>
+	<tabTrigger>owner</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

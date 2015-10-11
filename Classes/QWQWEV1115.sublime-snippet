@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebEngineView
+]]></content>
+	<tabTrigger>QWebEngineView</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QML_DECLARE_TYPEINFO($1);
+]]></content>
+	<tabTrigger>QML_DECLARE_TYPEINFO</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

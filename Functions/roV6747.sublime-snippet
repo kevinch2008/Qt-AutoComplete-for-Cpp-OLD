@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rotatedVector($1);
+]]></content>
+	<tabTrigger>rotatedVector</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QCameraExposureControl
+]]></content>
+	<tabTrigger>QCameraExposureControl</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

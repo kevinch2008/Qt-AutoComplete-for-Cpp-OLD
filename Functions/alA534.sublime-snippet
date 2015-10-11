@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+allAncestors($1);
+]]></content>
+	<tabTrigger>allAncestors</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

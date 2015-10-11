@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeCategory($1);
+]]></content>
+	<tabTrigger>removeCategory</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

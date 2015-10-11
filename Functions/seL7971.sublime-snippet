@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLength($1);
+]]></content>
+	<tabTrigger>setLength</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

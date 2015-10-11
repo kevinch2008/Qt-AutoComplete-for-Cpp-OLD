@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+convertFromImage($1);
+]]></content>
+	<tabTrigger>convertFromImage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

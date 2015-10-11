@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isOnline($1);
+]]></content>
+	<tabTrigger>isOnline</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

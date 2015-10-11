@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QDBusAbstractInterface
+]]></content>
+	<tabTrigger>QDBusAbstractInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

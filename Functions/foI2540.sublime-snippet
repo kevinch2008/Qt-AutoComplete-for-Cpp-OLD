@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+forwardItem($1);
+]]></content>
+	<tabTrigger>forwardItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

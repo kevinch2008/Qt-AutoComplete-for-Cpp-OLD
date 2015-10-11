@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastKnownPosition($1);
+]]></content>
+	<tabTrigger>lastKnownPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

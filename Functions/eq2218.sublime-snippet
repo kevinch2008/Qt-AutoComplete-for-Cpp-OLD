@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+equals($1);
+]]></content>
+	<tabTrigger>equals</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

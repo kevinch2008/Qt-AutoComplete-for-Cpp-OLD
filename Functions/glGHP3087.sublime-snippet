@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetHistogramParameterfv($1);
+]]></content>
+	<tabTrigger>glGetHistogramParameterfv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

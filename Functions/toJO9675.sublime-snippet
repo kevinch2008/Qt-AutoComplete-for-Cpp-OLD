@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toJsonObject($1);
+]]></content>
+	<tabTrigger>toJsonObject</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

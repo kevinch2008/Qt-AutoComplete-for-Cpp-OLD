@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexArrayVertexBuffer($1);
+]]></content>
+	<tabTrigger>glVertexArrayVertexBuffer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

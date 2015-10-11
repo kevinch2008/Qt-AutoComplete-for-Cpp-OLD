@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qunsetenv($1);
+]]></content>
+	<tabTrigger>qunsetenv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

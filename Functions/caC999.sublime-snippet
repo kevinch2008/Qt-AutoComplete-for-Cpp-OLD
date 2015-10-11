@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+caCertificates($1);
+]]></content>
+	<tabTrigger>caCertificates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

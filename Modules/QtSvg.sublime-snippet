@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <QtSvg>
+]]></content>
+	<tabTrigger>QtSvg</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Modules</description>
+</snippet>

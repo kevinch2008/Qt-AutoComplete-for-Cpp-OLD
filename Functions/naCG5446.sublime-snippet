@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+namedCaptureGroups($1);
+]]></content>
+	<tabTrigger>namedCaptureGroups</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

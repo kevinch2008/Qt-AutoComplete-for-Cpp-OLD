@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+clearIconDatabase($1);
+]]></content>
+	<tabTrigger>clearIconDatabase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

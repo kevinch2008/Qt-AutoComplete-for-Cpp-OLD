@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLimit($1);
+]]></content>
+	<tabTrigger>setLimit</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

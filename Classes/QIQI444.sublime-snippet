@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QImage
+]]></content>
+	<tabTrigger>QImage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

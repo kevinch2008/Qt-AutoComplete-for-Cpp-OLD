@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QXmlResultItems
+]]></content>
+	<tabTrigger>QXmlResultItems</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

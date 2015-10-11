@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+expandedTo($1);
+]]></content>
+	<tabTrigger>expandedTo</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

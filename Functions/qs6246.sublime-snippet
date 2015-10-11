@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qstrcpy($1);
+]]></content>
+	<tabTrigger>qstrcpy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

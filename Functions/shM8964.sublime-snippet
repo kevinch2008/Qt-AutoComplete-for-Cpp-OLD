@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+shapeMode($1);
+]]></content>
+	<tabTrigger>shapeMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

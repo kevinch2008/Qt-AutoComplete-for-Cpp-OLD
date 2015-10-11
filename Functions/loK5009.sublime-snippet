@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+loadKeymap($1);
+]]></content>
+	<tabTrigger>loadKeymap</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

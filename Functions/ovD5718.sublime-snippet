@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overshootDistance($1);
+]]></content>
+	<tabTrigger>overshootDistance</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

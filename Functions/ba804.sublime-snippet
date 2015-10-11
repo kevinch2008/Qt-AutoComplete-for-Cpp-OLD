@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+backspace($1);
+]]></content>
+	<tabTrigger>backspace</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setSectionsClickable($1);
+]]></content>
+	<tabTrigger>setSectionsClickable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

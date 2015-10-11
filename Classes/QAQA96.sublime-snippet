@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAuthenticator
+]]></content>
+	<tabTrigger>QAuthenticator</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

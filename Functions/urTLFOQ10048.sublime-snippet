@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+urlToLocalFileOrQrc($1);
+]]></content>
+	<tabTrigger>urlToLocalFileOrQrc</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

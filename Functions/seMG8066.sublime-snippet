@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMemberGroup($1);
+]]></content>
+	<tabTrigger>setMemberGroup</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

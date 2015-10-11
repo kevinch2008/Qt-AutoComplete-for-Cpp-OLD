@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isTitleCase($1);
+]]></content>
+	<tabTrigger>isTitleCase</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

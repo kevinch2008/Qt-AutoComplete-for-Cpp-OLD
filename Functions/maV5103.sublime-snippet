@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+macVersion($1);
+]]></content>
+	<tabTrigger>macVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

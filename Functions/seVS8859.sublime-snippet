@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setVerticalSpacing($1);
+]]></content>
+	<tabTrigger>setVerticalSpacing</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

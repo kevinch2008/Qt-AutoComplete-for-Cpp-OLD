@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isIndexHidden($1);
+]]></content>
+	<tabTrigger>isIndexHidden</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

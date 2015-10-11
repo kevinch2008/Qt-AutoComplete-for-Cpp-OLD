@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRouteId($1);
+]]></content>
+	<tabTrigger>setRouteId</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

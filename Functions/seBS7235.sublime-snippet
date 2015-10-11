@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBaseStyle($1);
+]]></content>
+	<tabTrigger>setBaseStyle</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

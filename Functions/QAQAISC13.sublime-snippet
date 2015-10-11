@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QAudioInputSelectorControl_iid($1);
+]]></content>
+	<tabTrigger>QAudioInputSelectorControl_iid</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

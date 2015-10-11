@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glEndConditionalRender($1);
+]]></content>
+	<tabTrigger>glEndConditionalRender</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

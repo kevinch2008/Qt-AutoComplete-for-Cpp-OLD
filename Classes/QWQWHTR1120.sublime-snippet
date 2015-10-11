@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebHitTestResult
+]]></content>
+	<tabTrigger>QWebHitTestResult</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

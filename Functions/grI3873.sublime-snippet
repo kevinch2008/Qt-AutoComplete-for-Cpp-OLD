@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+graphicsItem($1);
+]]></content>
+	<tabTrigger>graphicsItem</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

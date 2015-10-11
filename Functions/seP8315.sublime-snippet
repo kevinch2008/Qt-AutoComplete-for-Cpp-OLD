@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setPosition($1);
+]]></content>
+	<tabTrigger>setPosition</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

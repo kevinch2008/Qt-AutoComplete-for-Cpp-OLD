@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRootIndex($1);
+]]></content>
+	<tabTrigger>setRootIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

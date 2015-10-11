@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sceneGraphError($1);
+]]></content>
+	<tabTrigger>sceneGraphError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

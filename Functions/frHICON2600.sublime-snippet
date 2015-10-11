@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fromHICON($1);
+]]></content>
+	<tabTrigger>fromHICON</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+networkError($1);
+]]></content>
+	<tabTrigger>networkError</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

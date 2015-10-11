@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSignalSpy
+]]></content>
+	<tabTrigger>QSignalSpy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

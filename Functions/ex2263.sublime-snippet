@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+exists($1);
+]]></content>
+	<tabTrigger>exists</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

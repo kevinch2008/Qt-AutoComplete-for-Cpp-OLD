@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+rssi($1);
+]]></content>
+	<tabTrigger>rssi</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

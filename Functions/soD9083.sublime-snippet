@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+socketDescriptor($1);
+]]></content>
+	<tabTrigger>socketDescriptor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

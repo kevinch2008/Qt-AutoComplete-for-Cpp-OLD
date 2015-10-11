@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setFocalPoint($1);
+]]></content>
+	<tabTrigger>setFocalPoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

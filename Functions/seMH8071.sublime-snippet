@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setMessageHandler($1);
+]]></content>
+	<tabTrigger>setMessageHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isReferenceCountingWaitFree($1);
+]]></content>
+	<tabTrigger>isReferenceCountingWaitFree</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

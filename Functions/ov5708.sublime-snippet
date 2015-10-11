@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+overflow($1);
+]]></content>
+	<tabTrigger>overflow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+password($1);
+]]></content>
+	<tabTrigger>password</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

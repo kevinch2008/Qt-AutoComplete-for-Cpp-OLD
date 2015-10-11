@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serverChannel($1);
+]]></content>
+	<tabTrigger>serverChannel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

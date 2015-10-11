@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+maximumAnisotropy($1);
+]]></content>
+	<tabTrigger>maximumAnisotropy</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

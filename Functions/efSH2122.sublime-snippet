@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+effectiveSizeHint($1);
+]]></content>
+	<tabTrigger>effectiveSizeHint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

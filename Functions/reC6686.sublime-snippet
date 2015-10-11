@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+resultCount($1);
+]]></content>
+	<tabTrigger>resultCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

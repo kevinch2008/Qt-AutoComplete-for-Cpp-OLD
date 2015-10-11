@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRatings($1);
+]]></content>
+	<tabTrigger>setRatings</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

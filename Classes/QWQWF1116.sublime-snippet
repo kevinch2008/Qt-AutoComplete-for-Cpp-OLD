@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebFrame
+]]></content>
+	<tabTrigger>QWebFrame</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

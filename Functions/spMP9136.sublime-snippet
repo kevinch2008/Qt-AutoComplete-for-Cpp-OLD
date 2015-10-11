@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+spotMeteringPoint($1);
+]]></content>
+	<tabTrigger>spotMeteringPoint</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

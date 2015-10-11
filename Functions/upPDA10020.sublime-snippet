@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+updatePositionDependentActions($1);
+]]></content>
+	<tabTrigger>updatePositionDependentActions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

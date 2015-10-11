@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+operatordelete($1);
+]]></content>
+	<tabTrigger>operatordelete</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

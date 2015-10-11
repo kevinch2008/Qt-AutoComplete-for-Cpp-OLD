@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+drawRoundedRect($1);
+]]></content>
+	<tabTrigger>drawRoundedRect</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+appDpiY($1);
+]]></content>
+	<tabTrigger>appDpiY</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

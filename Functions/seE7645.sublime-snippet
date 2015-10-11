@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setExpanded($1);
+]]></content>
+	<tabTrigger>setExpanded</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

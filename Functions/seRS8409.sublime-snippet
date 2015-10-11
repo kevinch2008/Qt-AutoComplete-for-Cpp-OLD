@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRequiredStatus($1);
+]]></content>
+	<tabTrigger>setRequiredStatus</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

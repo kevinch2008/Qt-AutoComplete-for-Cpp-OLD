@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QImageIOHandler
+]]></content>
+	<tabTrigger>QImageIOHandler</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

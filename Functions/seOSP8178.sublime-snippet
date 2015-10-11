@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOfflineStoragePath($1);
+]]></content>
+	<tabTrigger>setOfflineStoragePath</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

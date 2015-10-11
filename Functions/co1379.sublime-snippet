@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+completer($1);
+]]></content>
+	<tabTrigger>completer</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

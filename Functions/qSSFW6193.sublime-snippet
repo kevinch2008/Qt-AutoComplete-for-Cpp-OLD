@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qSetFieldWidth($1);
+]]></content>
+	<tabTrigger>qSetFieldWidth</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

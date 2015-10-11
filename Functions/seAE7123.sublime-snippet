@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setAllowExperimental($1);
+]]></content>
+	<tabTrigger>setAllowExperimental</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

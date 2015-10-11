@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QWebElementCollection
+]]></content>
+	<tabTrigger>QWebElementCollection</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

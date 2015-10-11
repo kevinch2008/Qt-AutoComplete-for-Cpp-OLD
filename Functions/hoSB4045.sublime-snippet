@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+horizontalScrollBar($1);
+]]></content>
+	<tabTrigger>horizontalScrollBar</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+repeated($1);
+]]></content>
+	<tabTrigger>repeated</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glNormal3b($1);
+]]></content>
+	<tabTrigger>glNormal3b</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

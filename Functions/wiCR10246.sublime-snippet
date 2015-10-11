@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+windowCloseRequested($1);
+]]></content>
+	<tabTrigger>windowCloseRequested</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

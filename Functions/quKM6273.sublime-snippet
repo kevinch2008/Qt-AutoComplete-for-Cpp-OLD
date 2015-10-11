@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+queryKeyboardModifiers($1);
+]]></content>
+	<tabTrigger>queryKeyboardModifiers</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+canWrite($1);
+]]></content>
+	<tabTrigger>canWrite</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

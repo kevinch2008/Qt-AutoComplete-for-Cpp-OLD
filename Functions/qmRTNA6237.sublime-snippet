@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qmlRegisterTypeNotAvailable($1);
+]]></content>
+	<tabTrigger>qmlRegisterTypeNotAvailable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

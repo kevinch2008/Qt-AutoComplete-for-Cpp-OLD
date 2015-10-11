@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dayOfYear($1);
+]]></content>
+	<tabTrigger>dayOfYear</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

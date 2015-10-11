@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+removeChangeQueue($1);
+]]></content>
+	<tabTrigger>removeChangeQueue</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultStyleSheet($1);
+]]></content>
+	<tabTrigger>defaultStyleSheet</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

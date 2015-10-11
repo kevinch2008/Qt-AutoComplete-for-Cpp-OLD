@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedFrameRates($1);
+]]></content>
+	<tabTrigger>supportedFrameRates</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

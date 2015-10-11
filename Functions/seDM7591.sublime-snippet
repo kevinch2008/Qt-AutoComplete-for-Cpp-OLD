@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDragMode($1);
+]]></content>
+	<tabTrigger>setDragMode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

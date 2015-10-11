@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+freeDependencies($1);
+]]></content>
+	<tabTrigger>freeDependencies</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

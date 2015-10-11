@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setBorderBrush($1);
+]]></content>
+	<tabTrigger>setBorderBrush</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

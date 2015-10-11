@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+staticPlugins($1);
+]]></content>
+	<tabTrigger>staticPlugins</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

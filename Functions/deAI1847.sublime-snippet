@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+deleteAccessibleInterface($1);
+]]></content>
+	<tabTrigger>deleteAccessibleInterface</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

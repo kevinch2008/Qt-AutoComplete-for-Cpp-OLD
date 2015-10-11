@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+hasWidthForHeight($1);
+]]></content>
+	<tabTrigger>hasWidthForHeight</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

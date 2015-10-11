@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+foreground($1);
+]]></content>
+	<tabTrigger>foreground</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

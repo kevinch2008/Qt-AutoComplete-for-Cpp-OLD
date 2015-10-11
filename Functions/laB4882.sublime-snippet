@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastBlock($1);
+]]></content>
+	<tabTrigger>lastBlock</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

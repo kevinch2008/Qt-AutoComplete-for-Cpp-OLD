@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setStartDragTime($1);
+]]></content>
+	<tabTrigger>setStartDragTime</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

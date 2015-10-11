@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+majorVersion($1);
+]]></content>
+	<tabTrigger>majorVersion</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

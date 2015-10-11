@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexArrayAttribBinding($1);
+]]></content>
+	<tabTrigger>glVertexArrayAttribBinding</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

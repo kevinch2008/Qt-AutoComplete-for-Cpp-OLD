@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLookRate($1);
+]]></content>
+	<tabTrigger>setLookRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

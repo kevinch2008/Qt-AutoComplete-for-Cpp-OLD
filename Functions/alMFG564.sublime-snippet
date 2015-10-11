@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+alphaMapForGlyph($1);
+]]></content>
+	<tabTrigger>alphaMapForGlyph</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

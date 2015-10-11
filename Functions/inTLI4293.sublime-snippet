@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+insertTopLevelItems($1);
+]]></content>
+	<tabTrigger>insertTopLevelItems</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

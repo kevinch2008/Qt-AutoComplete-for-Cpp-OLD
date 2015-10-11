@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isMetaDataWritable($1);
+]]></content>
+	<tabTrigger>isMetaDataWritable</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

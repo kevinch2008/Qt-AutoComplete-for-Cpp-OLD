@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glFogf($1);
+]]></content>
+	<tabTrigger>glFogf</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

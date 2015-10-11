@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+connectToHostEncrypted($1);
+]]></content>
+	<tabTrigger>connectToHostEncrypted</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

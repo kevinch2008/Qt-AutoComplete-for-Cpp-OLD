@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glVertexBindingDivisor($1);
+]]></content>
+	<tabTrigger>glVertexBindingDivisor</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

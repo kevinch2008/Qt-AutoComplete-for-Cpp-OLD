@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+defaultAudioInput($1);
+]]></content>
+	<tabTrigger>defaultAudioInput</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

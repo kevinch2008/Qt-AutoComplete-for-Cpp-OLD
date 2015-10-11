@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qFuzzyCompare($1);
+]]></content>
+	<tabTrigger>qFuzzyCompare</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

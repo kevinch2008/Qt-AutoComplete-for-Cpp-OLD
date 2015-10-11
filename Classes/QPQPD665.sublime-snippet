@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QPaintDevice
+]]></content>
+	<tabTrigger>QPaintDevice</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

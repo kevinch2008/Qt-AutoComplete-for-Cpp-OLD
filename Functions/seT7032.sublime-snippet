@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+sensorTypes($1);
+]]></content>
+	<tabTrigger>sensorTypes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

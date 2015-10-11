@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+dateTextFormat($1);
+]]></content>
+	<tabTrigger>dateTextFormat</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

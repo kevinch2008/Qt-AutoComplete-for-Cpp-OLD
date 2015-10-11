@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+readNextStartElement($1);
+]]></content>
+	<tabTrigger>readNextStartElement</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+serviceCount($1);
+]]></content>
+	<tabTrigger>serviceCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

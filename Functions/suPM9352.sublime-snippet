@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedPositioningMethods($1);
+]]></content>
+	<tabTrigger>supportedPositioningMethods</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

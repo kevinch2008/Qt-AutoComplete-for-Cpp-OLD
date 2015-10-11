@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastVisited($1);
+]]></content>
+	<tabTrigger>lastVisited</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

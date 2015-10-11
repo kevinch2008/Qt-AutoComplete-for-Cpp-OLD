@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedChannelCounts($1);
+]]></content>
+	<tabTrigger>supportedChannelCounts</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glTexImage2DMultisample($1);
+]]></content>
+	<tabTrigger>glTexImage2DMultisample</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

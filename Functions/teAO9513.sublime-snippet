@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+textAfterOffset($1);
+]]></content>
+	<tabTrigger>textAfterOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

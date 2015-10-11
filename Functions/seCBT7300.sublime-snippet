@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setCancelButtonText($1);
+]]></content>
+	<tabTrigger>setCancelButtonText</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+qRegisterStaticPluginFunction($1);
+]]></content>
+	<tabTrigger>qRegisterStaticPluginFunction</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

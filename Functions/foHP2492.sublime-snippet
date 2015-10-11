@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontHintingPreference($1);
+]]></content>
+	<tabTrigger>fontHintingPreference</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

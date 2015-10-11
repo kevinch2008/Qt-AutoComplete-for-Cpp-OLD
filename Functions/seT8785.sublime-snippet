@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setTracking($1);
+]]></content>
+	<tabTrigger>setTracking</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+getCmyk($1);
+]]></content>
+	<tabTrigger>getCmyk</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

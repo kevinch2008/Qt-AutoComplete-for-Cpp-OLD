@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+enableBlurBehindWindow($1);
+]]></content>
+	<tabTrigger>enableBlurBehindWindow</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

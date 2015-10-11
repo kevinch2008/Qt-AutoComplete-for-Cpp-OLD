@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+primaryIndex($1);
+]]></content>
+	<tabTrigger>primaryIndex</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

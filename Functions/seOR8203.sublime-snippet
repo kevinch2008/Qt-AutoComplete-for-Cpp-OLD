@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setOrbitRate($1);
+]]></content>
+	<tabTrigger>setOrbitRate</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

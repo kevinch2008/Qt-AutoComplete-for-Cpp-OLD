@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+fontEmbeddingEnabled($1);
+]]></content>
+	<tabTrigger>fontEmbeddingEnabled</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

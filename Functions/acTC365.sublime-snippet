@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+activeThreadCount($1);
+]]></content>
+	<tabTrigger>activeThreadCount</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

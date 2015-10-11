@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isOpenGLES($1);
+]]></content>
+	<tabTrigger>isOpenGLES</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

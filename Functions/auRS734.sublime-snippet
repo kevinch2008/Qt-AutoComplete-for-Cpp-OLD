@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+autoRelaySignals($1);
+]]></content>
+	<tabTrigger>autoRelaySignals</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

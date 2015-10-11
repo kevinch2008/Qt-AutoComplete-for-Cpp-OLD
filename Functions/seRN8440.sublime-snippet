@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setRootNode($1);
+]]></content>
+	<tabTrigger>setRootNode</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glGetnUniformiv($1);
+]]></content>
+	<tabTrigger>glGetnUniformiv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

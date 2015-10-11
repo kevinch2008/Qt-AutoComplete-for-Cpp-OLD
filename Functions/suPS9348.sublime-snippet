@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+supportedPageSizes($1);
+]]></content>
+	<tabTrigger>supportedPageSizes</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

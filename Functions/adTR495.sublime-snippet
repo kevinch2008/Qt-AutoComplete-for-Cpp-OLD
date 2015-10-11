@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addTimeRange($1);
+]]></content>
+	<tabTrigger>addTimeRange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

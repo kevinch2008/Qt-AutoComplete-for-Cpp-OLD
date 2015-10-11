@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+encodeName($1);
+]]></content>
+	<tabTrigger>encodeName</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

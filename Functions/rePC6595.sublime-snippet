@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+requestPropertyChange($1);
+]]></content>
+	<tabTrigger>requestPropertyChange</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

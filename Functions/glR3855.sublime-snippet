@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glyphRuns($1);
+]]></content>
+	<tabTrigger>glyphRuns</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+addShaderFromSourceFile($1);
+]]></content>
+	<tabTrigger>addShaderFromSourceFile</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

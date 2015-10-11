@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setLabel($1);
+]]></content>
+	<tabTrigger>setLabel</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

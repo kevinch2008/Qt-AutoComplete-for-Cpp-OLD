@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glMapGrid1f($1);
+]]></content>
+	<tabTrigger>glMapGrid1f</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

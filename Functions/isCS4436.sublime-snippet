@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isContentSelected($1);
+]]></content>
+	<tabTrigger>isContentSelected</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

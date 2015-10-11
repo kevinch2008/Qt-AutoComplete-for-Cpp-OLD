@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QGeoAddress
+]]></content>
+	<tabTrigger>QGeoAddress</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

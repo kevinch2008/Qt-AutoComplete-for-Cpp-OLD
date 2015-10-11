@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+targetLost($1);
+]]></content>
+	<tabTrigger>targetLost</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

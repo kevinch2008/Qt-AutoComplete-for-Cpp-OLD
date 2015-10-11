@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+installTranslatorFunctions($1);
+]]></content>
+	<tabTrigger>installTranslatorFunctions</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+QSocketNotifier
+]]></content>
+	<tabTrigger>QSocketNotifier</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Classes</description>
+</snippet>

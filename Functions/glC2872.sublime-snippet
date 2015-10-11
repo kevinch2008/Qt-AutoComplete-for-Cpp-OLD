@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+glColor4ubv($1);
+]]></content>
+	<tabTrigger>glColor4ubv</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

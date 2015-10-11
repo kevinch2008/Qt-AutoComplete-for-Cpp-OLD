@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+selectionBehaviorOnRemove($1);
+]]></content>
+	<tabTrigger>selectionBehaviorOnRemove</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

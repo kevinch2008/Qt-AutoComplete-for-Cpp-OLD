@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+startIntentSender($1);
+]]></content>
+	<tabTrigger>startIntentSender</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

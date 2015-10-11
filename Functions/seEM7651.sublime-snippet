@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setExportMacro($1);
+]]></content>
+	<tabTrigger>setExportMacro</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

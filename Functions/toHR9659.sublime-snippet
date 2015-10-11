@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+toHexRepresentation($1);
+]]></content>
+	<tabTrigger>toHexRepresentation</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+lastScenePos($1);
+]]></content>
+	<tabTrigger>lastScenePos</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

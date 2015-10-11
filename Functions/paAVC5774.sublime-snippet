@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+panAboutViewCenter($1);
+]]></content>
+	<tabTrigger>panAboutViewCenter</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

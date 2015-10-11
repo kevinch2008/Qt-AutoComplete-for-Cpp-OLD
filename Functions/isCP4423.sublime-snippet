@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+isCommitPage($1);
+]]></content>
+	<tabTrigger>isCommitPage</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+enumeratorOffset($1);
+]]></content>
+	<tabTrigger>enumeratorOffset</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

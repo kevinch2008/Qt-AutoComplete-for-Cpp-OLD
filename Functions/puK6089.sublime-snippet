@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+publicKey($1);
+]]></content>
+	<tabTrigger>publicKey</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

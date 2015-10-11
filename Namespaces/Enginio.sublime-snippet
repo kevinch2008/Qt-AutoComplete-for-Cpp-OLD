@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+#include <Enginio>
+]]></content>
+	<tabTrigger>Enginio</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Namespaces</description>
+</snippet>

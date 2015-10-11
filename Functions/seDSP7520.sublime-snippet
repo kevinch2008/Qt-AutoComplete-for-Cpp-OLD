@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+setDefaultScrollerProperties($1);
+]]></content>
+	<tabTrigger>setDefaultScrollerProperties</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

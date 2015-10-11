@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+applicationIconBadgeNumber($1);
+]]></content>
+	<tabTrigger>applicationIconBadgeNumber</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>

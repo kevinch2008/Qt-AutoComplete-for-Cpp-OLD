@@ -1,0 +1,9 @@
+
+<snippet>
+	<content><![CDATA[
+constDataOne($1);
+]]></content>
+	<tabTrigger>constDataOne</tabTrigger>
+	<scope>source.c++, source.cpp</scope>
+	<description>Qt Functions</description>
+</snippet>
